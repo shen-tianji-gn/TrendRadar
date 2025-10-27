@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T16:31:14.588988+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2025-10-27T17:27:33.752131+08:00",
+  "total_titles_processed": 1310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -194,6 +194,30 @@
           "time_info": "11时26分"
         },
         {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
+          "url": "https://www.cls.cn/detail/2181112",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时36分 ~ 17时27分]"
+        },
+        {
           "title": "美议员：特朗普将在国会就可能扩大对委内瑞拉打击举行吹风会",
           "url": "https://flash.jin10.com/detail/20251027041707138800",
           "source": "金十数据",
@@ -277,18 +301,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时19分 ~ 09时47分]"
-        },
-        {
-          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
-          "url": "https://www.cls.cn/detail/2181112",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 16时31分]"
         },
         {
           "title": "韩国考虑授予特朗普“无穷花大勋章”",
@@ -517,7 +529,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -528,7 +540,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -671,7 +683,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -748,8 +760,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[14时36分 ~ 17时27分]"
         },
         {
           "title": "黄金价格下跌是进场“捡便宜”时机吗",
@@ -817,6 +829,18 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "美股盘前，科技股、中概股普涨",
+          "url": "https://wallstreetcn.com/livenews/2994104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时27分]"
+        },
+        {
           "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
           "url": "https://flash.jin10.com/detail/20251027111943892800",
           "source": "金十数据",
@@ -826,15 +850,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "美股盘前，科技股、中概股普涨",
-          "url": "https://wallstreetcn.com/livenews/2994104",
-          "source": "华尔街见闻-快讯",
+          "title": "美股期指集体拉升，日股首破5万点，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
+          "url": "https://flash.jin10.com/detail/20251027160831083800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         }
@@ -855,23 +896,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时23分 ~ 06时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
-          "url": "https://flash.jin10.com/detail/20251027160831083800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
         }
       ]
     }
