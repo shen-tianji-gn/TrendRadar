@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T07:20:14.219283+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2025-10-27T09:47:10.888401+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 09时47分]"
         },
         {
           "title": "胡锡进：美国最铁杆的盟友，现在却被特朗普政府百般羞辱",
@@ -52,11 +52,12 @@
             14,
             21,
             23,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 09时47分]"
         },
         {
           "title": "特朗普称因加拿大「严重歪曲事实并采取敌对行为」，对加方征收 10% 额外关税，哪些信息值得关注？",
@@ -136,6 +137,19 @@
           "time_info": "[00时24分 ~ 05时19分]"
         },
         {
+          "title": "特朗普2.0亚洲“首秀”：五天三国",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE2.0%E4%BA%9A%E6%B4%B2%E2%80%9C%E9%A6%96%E7%A7%80%E2%80%9D%EF%BC%9A%E4%BA%94%E5%A4%A9%E4%B8%89%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时27分 ~ 09时47分]"
+        },
+        {
           "title": "美议员：特朗普将在国会就可能扩大对委内瑞拉打击举行吹风会",
           "url": "https://flash.jin10.com/detail/20251027041707138800",
           "source": "金十数据",
@@ -149,16 +163,16 @@
           "time_info": "[05时19分 ~ 07时20分]"
         },
         {
-          "title": "特朗普2.0亚洲“首秀”：五天三国",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE2.0%E4%BA%9A%E6%B4%B2%E2%80%9C%E9%A6%96%E7%A7%80%E2%80%9D%EF%BC%9A%E4%BA%94%E5%A4%A9%E4%B8%89%E5%9B%BD",
-          "source": "百度热搜",
+          "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
+          "url": "https://www.cls.cn/detail/2180721",
+          "source": "财联社热门",
           "ranks": [
-            25,
-            24
+            13,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时27分 ~ 07时20分]"
+          "time_info": "[07时19分 ~ 09时47分]"
         },
         {
           "title": "特朗普在马来西亚听了个地狱笑话",
@@ -173,15 +187,48 @@
           "time_info": "[00时23分 ~ 01时18分]"
         },
         {
-          "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
-          "url": "https://www.cls.cn/detail/2180721",
-          "source": "财联社热门",
+          "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
+          "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
+          "source": "凤凰网",
           "ranks": [
-            13
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "东盟峰会特朗普又来当主角",
+          "url": "https://www.toutiao.com/trending/7565671278867123758/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "韩国考虑授予特朗普“无穷花大勋章”",
+          "url": "https://www.toutiao.com/trending/7564722086686507044/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "特朗普的关税“套路”曝光",
+          "url": "https://www.toutiao.com/trending/7565671486447423027/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
         }
       ]
     },
@@ -195,11 +242,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 09时47分]"
         },
         {
           "title": "金价暴跌有大学生把生活费亏没了",
@@ -209,8 +257,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 09时47分]"
         }
       ]
     },
