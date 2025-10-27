@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T06:20:05.188165+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2025-10-28T07:40:24.677231+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时40分]"
         },
         {
           "title": "特朗普：很长时间内不想和加总理见面",
@@ -52,11 +53,12 @@
             16,
             10,
             14,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时40分]"
         },
         {
           "title": "日本天皇用英语说很高兴见到特朗普",
@@ -68,11 +70,12 @@
             10,
             19,
             25,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时40分]"
         },
         {
           "title": "特朗普：愿为金正恩延长亚洲行程",
@@ -111,17 +114,6 @@
           "time_info": "[00时28分 ~ 05时20分]"
         },
         {
-          "title": "特朗普称与巴西总统卢拉进行了“良好会晤”",
-          "url": "https://flash.jin10.com/detail/20251028054741724800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
           "title": "委内瑞拉副总统兼石油部长Delcy Rodriguez表示，Petroleos de Venezuela董事会要求总统马杜罗撤销与Trinidad（特立尼达拉岛）和Tabago（多巴哥岛）的能源协议，因为这地支持美国特朗普政府“侵犯”委内瑞拉。",
           "url": "https://wallstreetcn.com/livenews/2994483",
           "source": "华尔街见闻-快讯",
@@ -133,6 +125,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时32分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普称与巴西总统卢拉进行了“良好会晤”",
+          "url": "https://flash.jin10.com/detail/20251028054741724800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时40分]"
         },
         {
           "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
@@ -240,29 +244,53 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
-          "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
-          "url": "https://wallstreetcn.com/livenews/2994556",
-          "source": "华尔街见闻-快讯",
+          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "07时40分"
+        },
+        {
+          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
+          "url": "https://www.cls.cn/detail/2182682",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
+          "url": "https://wallstreetcn.com/livenews/2994556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时40分]"
         },
         {
           "title": "半导体ETF收涨2.5%，领跑美股行业ETF，标普电信板块涨2.3%",
           "url": "https://wallstreetcn.com/livenews/2994554",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时40分]"
         },
         {
           "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
@@ -340,7 +368,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "标普500指数初步收涨1.2%，电信板块涨约2.4%，科技板块涨2%，可选消费板块涨1.6%，能源板块涨0.3%。 纳斯达克100指数初步收涨1.8%，成分股中，高通初步收涨约11%，KDP涨7.7%，拉美电商MercadoLibre涨5.5%，迈威尔科技、Arm控股、特斯拉、安森美半导体、Applovin、拉姆研究、谷歌A至少涨约3.5%，Diamondback Energy则收跌1.1%，贝克休斯跌1.2%，Workday和ORLY跌1.6%，Roper Technologies跌3.5%。 英伟达收涨大约2.7%，苹果涨2.3%，微软和IBM涨约1.5%，领跑道指成分股，耐克与沃尔玛则至少跌约0.9%。",
@@ -425,6 +453,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时20分]"
+        },
+        {
+          "title": "据Yomiuri报道：日本通信公司KDDI株式会社与谷歌（日本）将启动AI媒体搜索工具。",
+          "url": "https://wallstreetcn.com/livenews/2994570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         }
       ]
     },
@@ -508,11 +547,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时20分]"
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时40分]"
         }
       ]
     },
