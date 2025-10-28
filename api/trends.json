@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T21:33:19.803727+08:00",
-  "total_titles_processed": 1962,
+  "generated_at": "2025-10-28T22:22:51.016362+08:00",
+  "total_titles_processed": 2053,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 98,
+      "match_count": 101,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时28分 ~ 05时20分]"
+        },
+        {
+          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
+          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时23分 ~ 22时22分]"
         },
         {
           "title": "高市早苗会见特朗普 多次伸手笑容满面",
@@ -91,18 +103,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时28分 ~ 09时28分]"
-        },
-        {
-          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
-          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时23分 ~ 21时33分]"
         },
         {
           "title": "特朗普见高市早苗三句话不离安倍",
@@ -288,6 +288,17 @@
           "time_info": "16时29分"
         },
         {
+          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
+          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 22时22分]"
+        },
+        {
           "title": "美国总统特朗普：美国已收到日本的军事装备订单。",
           "url": "https://flash.jin10.com/detail/20251028090156945800",
           "source": "金十数据",
@@ -332,6 +343,18 @@
           "time_info": "16时29分"
         },
         {
+          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
+          "url": "https://news.ifeng.com/c/8np198dmCFI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 22时22分]"
+        },
+        {
           "title": "特朗普媒体科技集团(DJT.O)盘前上涨7.6%，公司计划进军预测市场。",
           "url": "https://flash.jin10.com/detail/20251028202850707800",
           "source": "金十数据",
@@ -353,28 +376,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时18分 ~ 20时43分]"
-        },
-        {
-          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
-          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 21时33分]"
-        },
-        {
-          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
-          "url": "https://news.ifeng.com/c/8np198dmCFI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 21时33分]"
         },
         {
           "title": "特朗普谈到重振美国造船业。",
@@ -678,6 +679,17 @@
           "time_info": "19时18分"
         },
         {
+          "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
+          "url": "https://news.ifeng.com/c/8npJJt30xAk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "美国总统特朗普在讲话中谈及重振美国造船业。",
           "url": "https://flash.jin10.com/detail/20251028190823052800",
           "source": "金十数据",
@@ -739,7 +751,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -827,7 +839,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -843,13 +855,24 @@
           "time_info": "11时09分"
         },
         {
+          "title": "高市早苗被特朗普夸开心到跳跃旋转",
+          "url": "https://www.toutiao.com/trending/7565841738145792006/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "市场消息：美国总统特朗普对纽约封口费定罪提出上诉，声称审判存在错误。",
           "url": "https://flash.jin10.com/detail/20251028211013601800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -973,6 +996,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "美国高院即将就特朗普关税案进行庭审 投注网站料其败诉概率约六成",
+          "url": "https://wallstreetcn.com/livenews/2995178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "美国总统特朗普：日本新首相表现非常出色。",
@@ -1135,7 +1169,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         }
@@ -1143,7 +1177,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -1155,8 +1189,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时40分 ~ 21时33分]"
+          "appearance_count": 19,
+          "time_info": "[07时40分 ~ 22时22分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -1181,17 +1215,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2995170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
         },
         {
           "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
@@ -1230,6 +1253,30 @@
           "time_info": "[00时28分 ~ 01时19分]"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2995170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时22分]"
+        },
+        {
+          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2183910",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 22时22分]"
+        },
+        {
           "title": "美股收盘：三大指数齐刷历史新高",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%BD%90%E5%88%B7%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
@@ -1264,17 +1311,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时20分]"
-        },
-        {
-          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2183910",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 21时33分]"
         },
         {
           "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股盘中）",
@@ -1346,21 +1382,54 @@
           "time_info": "18时24分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF跌1.6%，公用事业ETF跌1.05%，科技行业ETF涨0.56%。",
+          "url": "https://wallstreetcn.com/livenews/2995188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "美股盘初：微软涨约4%，核电股Cameco涨约18%",
+          "url": "https://wallstreetcn.com/livenews/2995181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "特朗普媒体科技集团美股盘前涨逾11%，公司宣布进军预测市场业务。",
           "url": "https://wallstreetcn.com/livenews/2995148",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
+        },
+        {
+          "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251028214237483800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "微软美股盘前涨近5%，微软与OpenAI签署了一项新协议",
@@ -1369,7 +1438,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1380,7 +1449,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1427,7 +1496,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1438,7 +1507,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1460,7 +1529,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1471,7 +1540,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1493,9 +1562,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
+        },
+        {
+          "title": "微软美股盘前涨近5%！微软与OpenAI签署新协议，微软将持有OpenAI 27%的股权",
+          "url": "https://wallstreetcn.com/livenews/2995172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "微软(MSFT.O)盘前拉升上涨4.6%，公司与OpenAI签署新协议，OpenAI签约购买额外2500亿美元的Azure服务，微软将持有约1350亿美元或27%的OpenAI股份。",
@@ -1504,7 +1584,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1515,7 +1595,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1526,7 +1606,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         }
@@ -1657,7 +1737,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -1680,8 +1760,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时26分 ~ 21时33分]"
+          "appearance_count": 15,
+          "time_info": "[12时26分 ~ 22时22分]"
+        },
+        {
+          "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
+          "url": "https://wallstreetcn.com/articles/3758026",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时24分 ~ 22时22分]"
         },
         {
           "title": "金价突然杀跌原因何在",
@@ -1695,19 +1788,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时20分 ~ 18时24分]"
-        },
-        {
-          "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
-          "url": "https://wallstreetcn.com/articles/3758026",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时24分 ~ 21时33分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -1765,6 +1845,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "金价下跌 业内欢迎“健康回调”",
+          "url": "https://www.toutiao.com/trending/7566242899495489060/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         }
       ]
     },
