@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-26T19:20:11.281642+08:00",
-  "total_titles_processed": 1660,
+  "generated_at": "2025-11-26T20:46:09.616110+08:00",
+  "total_titles_processed": 1800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 67,
       "titles": [
+        {
+          "title": "中方是否请特朗普向高市传口信？外交部回应",
+          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时30分 ~ 20时46分]"
+        },
         {
           "title": "日媒：特朗普要求与高市早苗通话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32037044",
@@ -44,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[06时21分 ~ 19时20分]"
+          "appearance_count": 22,
+          "time_info": "[06时21分 ~ 20时46分]"
         },
         {
           "title": "特朗普电话后，日本沮丧了三次",
@@ -86,18 +98,6 @@
           "time_info": "[09时41分 ~ 15时21分]"
         },
         {
-          "title": "中方是否请特朗普向高市传口信？外交部回应",
-          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时30分 ~ 19时20分]"
-        },
-        {
           "title": "俄乌战争转机来了？特朗普：已“非常接近达成”和平协议，仅剩少数细节！",
           "url": "https://www.cls.cn/detail/2210988",
           "source": "财联社热门",
@@ -119,11 +119,12 @@
           "ranks": [
             4,
             2,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时30分 ~ 19时20分]"
+          "appearance_count": 10,
+          "time_info": "[16时30分 ~ 20时46分]"
         },
         {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
@@ -135,6 +136,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时29分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
+          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时30分 ~ 20时46分]"
         },
         {
           "title": "特朗普：俄乌和平协议已“非常接近达成”",
@@ -176,18 +189,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时41分 ~ 15时21分]"
-        },
-        {
-          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
-          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时30分 ~ 19时20分]"
         },
         {
           "title": "2026年11月深圳的APEC会议，特朗普要来了？",
@@ -570,6 +571,17 @@
           "time_info": "[09时41分 ~ 11时16分]"
         },
         {
+          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
+        },
+        {
           "title": "特朗普 先达成协议再说",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%20%E5%85%88%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E5%86%8D%E8%AF%B4",
           "source": "bilibili 热搜",
@@ -601,6 +613,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时25分 ~ 17时26分]"
+        },
+        {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.toutiao.com/trending/7576901878579990070/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
         },
         {
           "title": "特朗普想重启成龙电影尖峰时刻",
@@ -642,7 +665,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -746,6 +769,17 @@
           "time_info": "05时20分"
         },
         {
+          "title": "俄罗斯副外长里亚布科夫：特朗普政府一直在释放改善美俄关系的信号，但仍然向乌克兰提供武器和情报 俄美外交正常化工作仍在继续，但恢复航空和其他领域方面没有取得重大进展。 俄罗斯在乌克兰问题的关键议题上没有做出任何让步。",
+          "url": "https://wallstreetcn.com/livenews/3010854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "斯洛伐克外交部：斯洛伐克支持美国总统特朗普的乌克兰和平计划，并呼吁欧洲伙伴在这一进程中充分合作。",
           "url": "https://flash.jin10.com/detail/20251126153301745800",
           "source": "金十数据",
@@ -782,18 +816,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
           "url": "https://wallstreetcn.com/articles/3760086",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时41分 ~ 19时20分]"
+          "appearance_count": 18,
+          "time_info": "[09时41分 ~ 20时46分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -832,6 +867,19 @@
           "time_info": "[07时19分 ~ 15时21分]"
         },
         {
+          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
+          "url": "https://wallstreetcn.com/articles/3760117",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[09时41分 ~ 20时46分]"
+        },
+        {
           "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
           "url": "https://www.cls.cn/detail/2210906",
           "source": "财联社热门",
@@ -845,16 +893,19 @@
           "time_info": "[07时19分 ~ 15时21分]"
         },
         {
-          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
-          "url": "https://wallstreetcn.com/articles/3760117",
-          "source": "华尔街见闻",
+          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
+          "url": "https://www.cls.cn/detail/2211188",
+          "source": "财联社热门",
           "ranks": [
+            11,
+            10,
             6,
+            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时41分 ~ 19时20分]"
+          "appearance_count": 12,
+          "time_info": "[14时33分 ~ 20时46分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -867,20 +918,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时29分 ~ 07时20分]"
-        },
-        {
-          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
-          "url": "https://www.cls.cn/detail/2211188",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时33分 ~ 19时20分]"
         },
         {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
@@ -941,11 +978,12 @@
           "url": "https://wallstreetcn.com/articles/3760114",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时25分 ~ 19时20分]"
+          "appearance_count": 8,
+          "time_info": "[17时25分 ~ 20时46分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -1033,6 +1071,17 @@
           "time_info": "[09时41分 ~ 11时16分]"
         },
         {
+          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
+          "url": "https://wallstreetcn.com/articles/3760128",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
+        },
+        {
           "title": "【供货谷歌？中际旭创股价创历史新高，公司回应】11月26日，中际旭创大涨13.25%，报收543.22元/股，成交额达329.8亿元居A股第一，总市值破6000亿元大关，年内涨幅超342%。盘面上，CPO板块集体异动，“易中天”携手走强。有市场消息称，中际旭创是谷歌光模块供应商。中际旭创相关人士表示，公司本次股价上涨受综合因素影响，至于公司的“具体合作包括订单都不方便透露”。（21财经）",
           "url": "https://wallstreetcn.com/livenews/3010775",
           "source": "华尔街见闻-快讯",
@@ -1062,7 +1111,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -1095,7 +1144,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         }
@@ -1276,7 +1325,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -1303,11 +1352,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 19时20分]"
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 20时46分]"
         },
         {
           "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
