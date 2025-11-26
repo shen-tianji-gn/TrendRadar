@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T20:46:09.616110+08:00",
-  "total_titles_processed": 1800,
+  "generated_at": "2025-11-26T21:36:29.061173+08:00",
+  "total_titles_processed": 1904,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时30分 ~ 20时46分]"
+          "appearance_count": 11,
+          "time_info": "[16时30分 ~ 21时36分]"
         },
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -56,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[06时21分 ~ 20时46分]"
+          "appearance_count": 23,
+          "time_info": "[06时21分 ~ 21时36分]"
         },
         {
           "title": "特朗普电话后，日本沮丧了三次",
@@ -120,11 +120,12 @@
             4,
             2,
             8,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时30分 ~ 20时46分]"
+          "appearance_count": 11,
+          "time_info": "[16时30分 ~ 21时36分]"
         },
         {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
@@ -146,8 +147,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时30分 ~ 20时46分]"
+          "appearance_count": 11,
+          "time_info": "[16时30分 ~ 21时36分]"
         },
         {
           "title": "特朗普：俄乌和平协议已“非常接近达成”",
@@ -475,6 +476,30 @@
           "time_info": "[00时29分 ~ 02时33分]"
         },
         {
+          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 21时36分]"
+        },
+        {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.toutiao.com/trending/7576901878579990070/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 21时36分]"
+        },
+        {
           "title": "特朗普主动和高市通话所为何事",
           "url": "https://www.toutiao.com/trending/7576615764908576275/",
           "source": "今日头条",
@@ -571,17 +596,6 @@
           "time_info": "[09时41分 ~ 11时16分]"
         },
         {
-          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
           "title": "特朗普 先达成协议再说",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%20%E5%85%88%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E5%86%8D%E8%AF%B4",
           "source": "bilibili 热搜",
@@ -613,17 +627,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时25分 ~ 17时26分]"
-        },
-        {
-          "title": "特朗普一通电话后 高市早苗只有沉默",
-          "url": "https://www.toutiao.com/trending/7576901878579990070/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
         },
         {
           "title": "特朗普想重启成龙电影尖峰时刻",
@@ -775,7 +778,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -816,7 +819,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -827,8 +830,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时41分 ~ 20时46分]"
+          "appearance_count": 19,
+          "time_info": "[09时41分 ~ 21时36分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -876,8 +879,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时41分 ~ 20时46分]"
+          "appearance_count": 19,
+          "time_info": "[09时41分 ~ 21时36分]"
         },
         {
           "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
@@ -962,6 +965,19 @@
           "time_info": "[13时21分 ~ 19时20分]"
         },
         {
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时25分 ~ 21时36分]"
+        },
+        {
           "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
           "url": "https://wallstreetcn.com/articles/3760076",
           "source": "华尔街见闻",
@@ -972,18 +988,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时41分 ~ 15时21分]"
-        },
-        {
-          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
-          "url": "https://wallstreetcn.com/articles/3760114",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时25分 ~ 20时46分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -1035,6 +1039,17 @@
           "time_info": "[12时27分 ~ 13时22分]"
         },
         {
+          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
+          "url": "https://wallstreetcn.com/articles/3760128",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 21时36分]"
+        },
+        {
           "title": "谷歌股价飙升，两位创始人分别成为世界第二、第三富豪",
           "url": "https://wallstreetcn.com/livenews/3010316",
           "source": "华尔街见闻-快讯",
@@ -1071,17 +1086,6 @@
           "time_info": "[09时41分 ~ 11时16分]"
         },
         {
-          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
-          "url": "https://wallstreetcn.com/articles/3760128",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
           "title": "【供货谷歌？中际旭创股价创历史新高，公司回应】11月26日，中际旭创大涨13.25%，报收543.22元/股，成交额达329.8亿元居A股第一，总市值破6000亿元大关，年内涨幅超342%。盘面上，CPO板块集体异动，“易中天”携手走强。有市场消息称，中际旭创是谷歌光模块供应商。中际旭创相关人士表示，公司本次股价上涨受综合因素影响，至于公司的“具体合作包括订单都不方便透露”。（21财经）",
           "url": "https://wallstreetcn.com/livenews/3010775",
           "source": "华尔街见闻-快讯",
@@ -1114,6 +1118,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "广联达：CONCETTO智能设计产品已接入谷歌Nano Banana Pro",
+          "url": "https://wallstreetcn.com/livenews/3010908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "谷歌状态页面显示亚洲地区谷歌会议（Google Meet）服务出现问题。",
@@ -1344,7 +1359,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
@@ -1356,8 +1371,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时24分 ~ 20时46分]"
+          "appearance_count": 7,
+          "time_info": "[18时24分 ~ 21时36分]"
         },
         {
           "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
@@ -1371,6 +1386,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时25分 ~ 06时22分]"
+        },
+        {
+          "title": "暴跌40%！软银成为“OpenAI链”风向标",
+          "url": "https://wallstreetcn.com/articles/3760166",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "OpenAI预计：到2030年，将至少有2.2亿人付费使用ChatGPT",
