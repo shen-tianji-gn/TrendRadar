@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T12:31:07.136280+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2025-12-03T13:21:42.201088+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 78,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时42分 ~ 12时31分]"
+          "appearance_count": 7,
+          "time_info": "[09时42分 ~ 13时21分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 13时21分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -63,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 13时21分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -73,11 +73,12 @@
           "ranks": [
             13,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时20分 ~ 12时31分]"
+          "appearance_count": 8,
+          "time_info": "[07时20分 ~ 13时21分]"
         },
         {
           "title": "韩国总统李在明：韩国获得核动力潜艇的能力是与美国总统特朗普会谈的一项重大成果。",
@@ -677,6 +678,17 @@
           "time_info": "02时35分"
         },
         {
+          "title": "特朗普与巴西总统讨论合作打击有组织犯罪等议题",
+          "url": "https://wallstreetcn.com/livenews/3014160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "美国总统特朗普：与巴西总统卢拉的通话富有成效。 我们讨论了贸易、关税、制裁问题。 期待很快就会见卢拉。",
           "url": "https://wallstreetcn.com/livenews/3013948",
           "source": "华尔街见闻-快讯",
@@ -892,7 +904,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -934,8 +946,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时42分 ~ 12时31分]"
+          "appearance_count": 7,
+          "time_info": "[09时42分 ~ 13时21分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -947,8 +959,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时20分 ~ 12时31分]"
+          "appearance_count": 8,
+          "time_info": "[07时20分 ~ 13时21分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -1124,8 +1136,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时42分 ~ 12时31分]"
+          "appearance_count": 7,
+          "time_info": "[09时42分 ~ 13时21分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -1154,6 +1166,18 @@
           "time_info": "[02时34分 ~ 05时22分]"
         },
         {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 13时21分]"
+        },
+        {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
           "url": "https://wallstreetcn.com/articles/3760498",
           "source": "华尔街见闻",
@@ -1163,17 +1187,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时20分 ~ 09时43分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 12时31分]"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
@@ -1343,6 +1356,18 @@
           "time_info": "[01时02分 ~ 01时24分]"
         },
         {
+          "title": "新西兰联储上调贸易加权指数中的美元权重",
+          "url": "https://wallstreetcn.com/livenews/3014135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时21分]"
+        },
+        {
           "title": "美元指数2日下跌",
           "url": "https://flash.jin10.com/detail/20251203044855190800",
           "source": "金十数据",
@@ -1363,17 +1388,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
-        },
-        {
-          "title": "新西兰联储上调贸易加权指数中的美元权重",
-          "url": "https://wallstreetcn.com/livenews/3014135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
         }
       ]
     },
@@ -1411,23 +1425,24 @@
       "titles": [
         {
           "title": "伊朗议长：美国将自身要求强加于伊朗",
+          "url": "https://wallstreetcn.com/livenews/3014131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时21分]"
+        },
+        {
+          "title": "伊朗议长：美国将自身要求强加于伊朗",
           "url": "https://flash.jin10.com/detail/20251203111738618800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "伊朗议长：美国将自身要求强加于伊朗",
-          "url": "https://wallstreetcn.com/livenews/3014131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         }
