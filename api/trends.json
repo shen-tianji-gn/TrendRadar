@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T20:45:40.277630+08:00",
-  "total_titles_processed": 1542,
+  "generated_at": "2025-12-08T21:36:34.305870+08:00",
+  "total_titles_processed": 1624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -55,11 +55,12 @@
             18,
             10,
             21,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时35分 ~ 20时45分]"
+          "appearance_count": 12,
+          "time_info": "[12时35分 ~ 21时36分]"
         },
         {
           "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
@@ -82,8 +83,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时33分 ~ 20时45分]"
+          "appearance_count": 8,
+          "time_info": "[16时33分 ~ 21时36分]"
+        },
+        {
+          "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
+          "url": "https://news.ifeng.com/c/8ov552jltTT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时36分]"
         },
         {
           "title": "特朗普：我对泽连斯基有点失望",
@@ -131,15 +143,26 @@
           "time_info": "12时35分"
         },
         {
-          "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
-          "url": "https://news.ifeng.com/c/8ov552jltTT",
-          "source": "凤凰网",
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普将公布大量利好经济消息。",
+          "url": "https://flash.jin10.com/detail/20251208212413479800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "21时36分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特（谈特朗普的人工智能“单一规则”）：该行政命令将帮助人工智能公司明确规则是什么。",
+          "url": "https://wallstreetcn.com/livenews/3017019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-08）",
@@ -151,6 +174,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特暗示特朗普本周将传达有关经济的信息。",
+          "url": "https://flash.jin10.com/detail/20251208212334315800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "美国总统特朗普：如果我们要继续在人工智能领域保持领先，必须只有一套规则手册。",
+          "url": "https://flash.jin10.com/detail/20251208212300357800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "特朗普：本周将针对人工智能发布单一规则行政命令",
+          "url": "https://wallstreetcn.com/livenews/3017015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "网飞与华纳达成收购协议，特朗普警告",
@@ -316,13 +372,35 @@
           "time_info": "18时26分"
         },
         {
+          "title": "美国总统特朗普：我本周将发布一项关于人工智能的单一规则行政命令。",
+          "url": "https://flash.jin10.com/detail/20251208212154914800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特（谈美联储）：特朗普有很多不错的选择。 如果我必须成为那个选择，我会很高兴帮助他。",
+          "url": "https://wallstreetcn.com/livenews/3017012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "特朗普就美国与加拿大贸易争端最新发声",
           "url": "https://wallstreetcn.com/livenews/3016981",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -336,6 +414,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：（谈美国总统特朗普的美联储人选）美国总统特朗普有很多不错的选择。",
+          "url": "https://flash.jin10.com/detail/20251208211824210800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：（谈美国总统特朗普的美联储人选）如果非让我来担任这一人选，我将非常乐意为他效力。",
+          "url": "https://flash.jin10.com/detail/20251208211748147800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "特朗普责成高级顾问应对牛肉价格飙涨",
@@ -388,7 +488,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         }
@@ -506,11 +606,12 @@
           "url": "https://wallstreetcn.com/livenews/3016989",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时36分]"
         },
         {
           "title": "谷歌(GOOG.O)计划到2027年生产超过500万个TPU以增加供应。",
@@ -557,11 +658,12 @@
           "url": "https://wallstreetcn.com/livenews/3016987",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时36分]"
         },
         {
           "title": "OpenAI调查：员工日均省时近1小时，企业采纳加速",
@@ -570,7 +672,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -581,7 +683,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         }
@@ -674,7 +776,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         }
