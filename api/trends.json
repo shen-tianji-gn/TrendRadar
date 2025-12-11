@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T13:25:18.238429+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2025-12-11T14:36:33.834297+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 14时36分]"
+        },
+        {
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时36分]"
         },
         {
           "title": "高市早苗求见特朗普",
@@ -75,19 +88,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 00时31分]"
-        },
-        {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 13时25分]"
         },
         {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
@@ -256,7 +256,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -267,7 +267,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -582,8 +582,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时36分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -594,8 +594,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时19分 ~ 13时25分]"
+          "appearance_count": 9,
+          "time_info": "[07时19分 ~ 14时36分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
