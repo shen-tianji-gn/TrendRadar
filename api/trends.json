@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T18:27:16.530633+08:00",
-  "total_titles_processed": 1778,
+  "generated_at": "2025-12-11T19:21:31.396761+08:00",
+  "total_titles_processed": 1849,
   "failed_sources": [],
   "trends": [
     {
@@ -66,8 +66,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 18时27分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 19时21分]"
         },
         {
           "title": "特朗普：被扣押油轮上的石油归美国了",
@@ -136,6 +136,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 19时21分]"
+        },
+        {
           "title": "美国总统特朗普：听苹果(AAPL.O)CEO库克说，招聘人才很难。",
           "url": "https://flash.jin10.com/detail/20251211040650470800",
           "source": "金十数据",
@@ -157,17 +168,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时22分]"
-        },
-        {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 18时27分]"
         },
         {
           "title": "华纳收购案再迎变数 特朗普称CNN必须被出售",
@@ -192,6 +192,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时19分 ~ 09时47分]"
+        },
+        {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时21分]"
         },
         {
           "title": "特朗普回应美联储降息：幅度太小",
@@ -264,17 +276,6 @@
           "time_info": "[18时26分 ~ 18时27分]"
         },
         {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
-        },
-        {
           "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
           "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
           "source": "澎湃新闻",
@@ -314,7 +315,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -358,7 +359,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -457,7 +458,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -479,7 +480,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -728,8 +729,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时46分 ~ 18时27分]"
+          "appearance_count": 14,
+          "time_info": "[09时46分 ~ 19时21分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -1014,6 +1015,17 @@
           "time_info": "[06时22分 ~ 07时20分]"
         },
         {
+          "title": "OpenAI 即将发布 GPT-5.2，知情人士称或有望弥补与谷歌 Gemini 3 差距，如何评价？",
+          "url": "https://www.zhihu.com/question/1980552349165564560",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时21分]"
+        },
+        {
           "title": "消息人士：Google Play正调整政策，旨在让应用开发者更便捷地将用户引导至其他渠道并自主选择收费模式，但据悉这些调整效果未达预期。",
           "url": "https://flash.jin10.com/detail/20251211005231907800",
           "source": "金十数据",
@@ -1034,17 +1046,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        },
-        {
-          "title": "OpenAI 即将发布 GPT-5.2，知情人士称或有望弥补与谷歌 Gemini 3 差距，如何评价？",
-          "url": "https://www.zhihu.com/question/1980552349165564560",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
         },
         {
           "title": "消息人士：若谷歌不做出更多让步，将面临欧盟罚款",
