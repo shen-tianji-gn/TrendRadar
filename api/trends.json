@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T21:36:24.134774+08:00",
-  "total_titles_processed": 2022,
+  "generated_at": "2025-12-12T22:21:29.460919+08:00",
+  "total_titles_processed": 2092,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时23分 ~ 21时36分]"
+          "appearance_count": 13,
+          "time_info": "[13时23分 ~ 22时21分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -85,8 +86,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时32分 ~ 21时36分]"
+          "appearance_count": 8,
+          "time_info": "[16时32分 ~ 22时21分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -97,8 +98,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时32分 ~ 21时36分]"
+          "appearance_count": 8,
+          "time_info": "[16时32分 ~ 22时21分]"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -667,8 +668,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时35分 ~ 21时36分]"
+          "appearance_count": 14,
+          "time_info": "[12时35分 ~ 22时21分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -923,7 +924,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -970,6 +971,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3020018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股收盘）",
@@ -1159,8 +1171,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时25分 ~ 21时36分]"
+          "appearance_count": 15,
+          "time_info": "[11时25分 ~ 22时21分]"
         },
         {
           "title": "摩根大通：将谷歌母公司Alphabet目标价由340美元上调至385美元。",
@@ -1226,11 +1238,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 21时36分]"
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 22时21分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",
@@ -1490,7 +1503,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
