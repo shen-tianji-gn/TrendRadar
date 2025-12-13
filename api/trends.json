@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T20:41:14.636381+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2025-12-13T21:29:08.939437+08:00",
+  "total_titles_processed": 1437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普称泰柬已同意停火，泰方否认",
@@ -41,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时17分 ~ 20时41分]"
+          "appearance_count": 14,
+          "time_info": "[11时17分 ~ 21时29分]"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
@@ -59,8 +59,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时28分 ~ 20时41分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 21时29分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -89,6 +89,21 @@
           "time_info": "[09时40分 ~ 14时32分]"
         },
         {
+          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时27分 ~ 21时29分]"
+        },
+        {
           "title": "特朗普称泰柬同意全面停火",
           "url": "https://news.ifeng.com/c/8p2IYwR0WoN",
           "source": "凤凰网",
@@ -99,6 +114,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时21分 ~ 09时41分]"
+        },
+        {
+          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时27分 ~ 21时29分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -158,32 +187,29 @@
           "time_info": "[14时32分 ~ 18时21分]"
         },
         {
-          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
-          "source": "澎湃新闻",
+          "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
+          "url": "https://flash.jin10.com/detail/20251213211438744800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            13,
-            11,
-            10
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时27分 ~ 20时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
-          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
+          "title": "特朗普称泰柬已同意停火，泰方否认：答案是不",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32169891",
           "source": "澎湃新闻",
           "ranks": [
+            20,
+            19,
             17,
-            15,
-            14,
-            11
+            15
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时27分 ~ 20时41分]"
+          "time_info": "[18时21分 ~ 21时29分]"
         },
         {
           "title": "特朗普提议中美俄印日联盟",
@@ -404,6 +430,18 @@
           "time_info": "[02时34分 ~ 03时19分]"
         },
         {
+          "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
+          "url": "https://wallstreetcn.com/articles/3761314",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 21时29分]"
+        },
+        {
           "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
           "url": "https://www.cls.cn/detail/2228568",
           "source": "财联社热门",
@@ -455,19 +493,6 @@
           "time_info": "[02时34分 ~ 05时20分]"
         },
         {
-          "title": "特朗普称泰柬已同意停火，泰方否认：答案是不",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32169891",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 20时41分]"
-        },
-        {
           "title": "爱泼斯坦案新影像曝光，有特朗普照片",
           "url": "https://news.ifeng.com/c/8p315VNzI20",
           "source": "凤凰网",
@@ -484,22 +509,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时41分]"
-        },
-        {
-          "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
-          "url": "https://wallstreetcn.com/articles/3761314",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 21时29分]"
         },
         {
           "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
@@ -696,11 +711,12 @@
             5,
             8,
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时21分 ~ 20时41分]"
+          "appearance_count": 17,
+          "time_info": "[07时21分 ~ 21时29分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -822,8 +838,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时21分 ~ 20时41分]"
+          "appearance_count": 18,
+          "time_info": "[06时21分 ~ 21时29分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
