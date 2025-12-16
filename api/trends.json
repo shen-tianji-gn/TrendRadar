@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T14:36:21.434100+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2025-12-16T15:25:29.994032+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时47分 ~ 14时36分]"
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 15时25分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -67,8 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时47分 ~ 14时36分]"
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 15时25分]"
         },
         {
           "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -80,8 +80,22 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 15时25分]"
+        },
+        {
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时47分 ~ 14时36分]"
+          "time_info": "[11时26分 ~ 15时25分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -99,6 +113,20 @@
           "time_info": "[00时33分 ~ 05时22分]"
         },
         {
+          "title": "特朗普正式起诉BBC 共索赔100亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            25,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 15时25分]"
+        },
+        {
           "title": "日媒：高市被特朗普警告后情绪低落",
           "url": "https://www.toutiao.com/trending/7584090116184985142/",
           "source": "今日头条",
@@ -109,32 +137,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时36分 ~ 13时25分]"
-        },
-        {
-          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 14时36分]"
-        },
-        {
-          "title": "特朗普正式起诉BBC 共索赔100亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 14时36分]"
         },
         {
           "title": "美国总统特朗普邀请斯洛伐克总理访美商谈核能合作事宜。",
@@ -279,6 +281,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时23分]"
+        },
+        {
+          "title": "美特使和特朗普女婿疑似没认出德总理",
+          "url": "https://www.toutiao.com/trending/7584270560197099539/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 15时25分]"
         },
         {
           "title": "据知情人士透露，哈塞特的美联储理事提名在特朗普阵营内部遭遇一定阻力。 美国总统特朗普的一些盟友认为/担心，白宫顾问哈塞特与特朗普关系过从甚密。（CNBC）",
@@ -479,17 +493,6 @@
           "time_info": "01时26分"
         },
         {
-          "title": "美特使和特朗普女婿疑似没认出德总理",
-          "url": "https://www.toutiao.com/trending/7584270560197099539/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
           "title": "美国总统特朗普：将很快对英国广播公司（BBC）提起诉讼。",
           "url": "https://flash.jin10.com/detail/20251216044150857800",
           "source": "金十数据",
@@ -584,8 +587,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时22分 ~ 14时36分]"
+          "appearance_count": 12,
+          "time_info": "[06时22分 ~ 15时25分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
@@ -709,7 +712,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十图示：2025年12月16日（周二）上海金早盘价为970.56元/克，较国际金价(970.45元/克)，高0.11元/克",
@@ -733,6 +736,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时47分 ~ 11时26分]"
+        },
+        {
+          "title": "金十图示：2025年12月16日（周二）上海金午盘价为966.73元/克，较国际金价(969.85元/克)，低3.12元/克",
+          "url": "https://flash.jin10.com/detail/20251216150904661800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "金价三年大涨近150%，能否更进一步？",
@@ -826,9 +840,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 15时25分]"
         },
         {
           "title": "Zillow Group一度下跌13%，创最近十个月最差盘中表现，CoStar Group跌9.1%，创2022年7月份以来盘中新低。 谷歌公司测试新版房地产广告模式。",
