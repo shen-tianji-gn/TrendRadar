@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T15:20:40.548916+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2025-12-20T16:28:06.083292+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时40分 ~ 15时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时40分 ~ 16时28分]"
         },
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
@@ -100,6 +100,22 @@
           "time_info": "[04时25分 ~ 09时41分]"
         },
         {
+          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3024224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            17,
+            20,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时17分 ~ 16时28分]"
+        },
+        {
           "title": "美国总统特朗普：保险公司会议旨在降低价格。",
           "url": "https://flash.jin10.com/detail/20251220040213570800",
           "source": "金十数据",
@@ -121,21 +137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
-        },
-        {
-          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
-          "url": "https://wallstreetcn.com/livenews/3024224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            17,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时17分 ~ 15时20分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms刚刚履新八个月的董事Dina Powell McCormick将退出。 在美国总统特朗普第一任期内，Powell McCormick曾担任副国家安全顾问。（彭博）",
@@ -489,8 +490,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时40分 ~ 15时20分]"
+          "appearance_count": 12,
+          "time_info": "[09时40分 ~ 16时28分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
+          "url": "https://www.cls.cn/detail/2235346",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时40分 ~ 16时28分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -504,19 +519,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 06时22分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
-          "url": "https://www.cls.cn/detail/2235346",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时40分 ~ 15时20分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -540,8 +542,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时27分 ~ 15时20分]"
+          "appearance_count": 9,
+          "time_info": "[12时27分 ~ 16时28分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -552,11 +554,12 @@
             11,
             18,
             21,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时17分 ~ 15时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时17分 ~ 16时28分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -654,6 +657,60 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗为何不饱和攻击机场，让以战机无法起飞？",
+          "url": "https://www.zhihu.com/question/1918243705258751137",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时40分 ~ 16时28分]"
+        },
+        {
+          "title": "以色列暗杀伊朗核专家细节曝光",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%9A%97%E6%9D%80%E4%BC%8A%E6%9C%97%E6%A0%B8%E4%B8%93%E5%AE%B6%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27,
+            14,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时32分 ~ 07时21分]"
+        },
+        {
+          "title": "伊朗处决一名为以色列工作的间谍",
+          "url": "https://flash.jin10.com/detail/20251220153845757800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "以色列暗杀伊朗核专家细节曝光",
+          "url": "https://news.ifeng.com/c/8pDtj9kdFzQ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时22分 ~ 09时41分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -666,11 +723,12 @@
             13,
             16,
             18,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时17分 ~ 15时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时17分 ~ 16时28分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
@@ -709,11 +767,12 @@
             10,
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时22分 ~ 15时20分]"
+          "appearance_count": 14,
+          "time_info": "[06时22分 ~ 16时28分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -742,49 +801,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时41分 ~ 12时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗为何不饱和攻击机场，让以战机无法起飞？",
-          "url": "https://www.zhihu.com/question/1918243705258751137",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时40分 ~ 15时20分]"
-        },
-        {
-          "title": "以色列暗杀伊朗核专家细节曝光",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%9A%97%E6%9D%80%E4%BC%8A%E6%9C%97%E6%A0%B8%E4%B8%93%E5%AE%B6%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            27,
-            14,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时32分 ~ 07时21分]"
-        },
-        {
-          "title": "以色列暗杀伊朗核专家细节曝光",
-          "url": "https://news.ifeng.com/c/8pDtj9kdFzQ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时22分 ~ 09时41分]"
         }
       ]
     },
