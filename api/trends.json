@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T18:24:29.515958+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2025-12-25T19:19:58.196911+08:00",
+  "total_titles_processed": 1568,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时24分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时19分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -75,8 +75,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时24分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时19分]"
         },
         {
           "title": "周三（12月24日），降息赢家指数涨0.60%，报100.35点。 “特朗普关税输家”指数涨0.41%，散户抱团概念股指数/迷因股（meme stock）指数跌0.43%。",
@@ -99,7 +99,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -124,17 +124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
-          "url": "https://flash.jin10.com/detail/20251225173408748800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -188,6 +177,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 03时18分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
+          "url": "https://flash.jin10.com/detail/20251225173408748800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时19分]"
         },
         {
           "title": "特朗普为何强调新战列舰不针对中国",
@@ -250,8 +251,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时47分 ~ 18时24分]"
+          "appearance_count": 11,
+          "time_info": "[09时47分 ~ 19时19分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -274,11 +275,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时28分 ~ 18时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时28分 ~ 19时19分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -410,7 +412,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
@@ -451,6 +453,17 @@
           "time_info": "[09时47分 ~ 12时39分]"
         },
         {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "金价又创历史新高",
           "url": "https://www.douyin.com/hot/2346801",
           "source": "抖音",
@@ -476,7 +489,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗在波斯湾查获一艘走私燃料的船只",
@@ -513,6 +526,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 05时20分]"
+        },
+        {
+          "title": "以色列公民被控为伊朗间谍 曾侦察前总理住所",
+          "url": "https://flash.jin10.com/detail/20251225181314638800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "市场消息：伊朗拒绝接受对遭轰炸地点的核查，并要求国际原子能机构澄清立场。",
