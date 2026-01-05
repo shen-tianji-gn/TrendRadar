@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T03:22:17.585584+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-01-06T04:28:22.156078+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -15,8 +15,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时28分]"
+        },
+        {
+          "title": "中方回应特朗普谈格陵兰岛涉华言论",
+          "url": "https://www.toutiao.com/trending/7591783882828431398/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时28分]"
         },
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
@@ -27,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时28分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -38,43 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时22分]"
-        },
-        {
-          "title": "特朗普对印度买俄石油发出最后通牒",
-          "url": "https://www.toutiao.com/trending/7591650384435888171/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "中方回应特朗普谈格陵兰岛涉华言论",
-          "url": "https://www.toutiao.com/trending/7591783882828431398/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时22分]"
-        },
-        {
-          "title": "特朗普向多个国家发出威胁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时28分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -83,11 +62,24 @@
           "ranks": [
             16,
             19,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时28分]"
+        },
+        {
+          "title": "特朗普向多个国家发出威胁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时28分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -97,8 +89,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时28分]"
         },
         {
           "title": "特朗普接连向多国发出威胁",
@@ -108,15 +100,15 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时28分]"
         },
         {
-          "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
-          "url": "https://flash.jin10.com/detail/20260105235811612800",
-          "source": "金十数据",
+          "title": "特朗普对印度买俄石油发出最后通牒",
+          "url": "https://www.toutiao.com/trending/7591650384435888171/",
+          "source": "今日头条",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -132,8 +124,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 04时28分]"
+        },
+        {
+          "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
+          "url": "https://flash.jin10.com/detail/20260105235811612800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
@@ -141,11 +144,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时35分 ~ 04时28分]"
         },
         {
           "title": "墨西哥总统回应特朗普：合作可以，干预不行",
@@ -187,11 +191,47 @@
           "url": "https://flash.jin10.com/detail/20260106030259018800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时28分]"
+        },
+        {
+          "title": "英国外交大臣Cooper：格陵兰岛的未来由格陵兰岛和丹麦决定，而非（特朗普政府等）其他方面来决定。",
+          "url": "https://wallstreetcn.com/livenews/3031063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时28分]"
+        },
+        {
+          "title": "美国在联合国会议上遭猛烈抨击，美方辩称特朗普无意占领委内瑞拉",
+          "url": "https://wallstreetcn.com/livenews/3031058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时28分]"
+        },
+        {
+          "title": "马杜罗被俘虏后，特朗普拿着“让伊朗再次伟大”的帽子拍照",
+          "url": "https://flash.jin10.com/detail/20260106033006198800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "04时28分"
         },
         {
           "title": "雪佛龙(CVX.N)现涨5%、埃克森美孚石油(XOM.N)涨2.41%，康菲石油(COP.N)现涨3.05%。消息称美国总统特朗普政府未与埃克森、康菲或雪佛龙就委内瑞拉问题进行过任何会谈。",
@@ -203,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "特朗普政府大幅削减儿童疫苗接种计划",
+          "url": "https://flash.jin10.com/detail/20260106032305906800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "墨西哥总统强硬回应特朗普：可以合作缉毒 但不准跨界",
@@ -238,17 +289,6 @@
           "time_info": "01时25分"
         },
         {
-          "title": "英国外交大臣Cooper：格陵兰岛的未来由格陵兰岛和丹麦决定，而非（特朗普政府等）其他方面来决定。",
-          "url": "https://wallstreetcn.com/livenews/3031063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
           "title": "委内瑞拉总统马杜罗的儿子Nicolas Maduro Guerra通过国家电视台表示 ：父亲（被特朗普政府）绑架，他将回国。 美军掳走父亲违反国际法。",
           "url": "https://wallstreetcn.com/livenews/3031006",
           "source": "华尔街见闻-快讯",
@@ -258,17 +298,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
-        },
-        {
-          "title": "美国在联合国会议上遭猛烈抨击，美方辩称特朗普无意占领委内瑞拉",
-          "url": "https://wallstreetcn.com/livenews/3031058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
         },
         {
           "title": "特朗普一天之内威胁多国",
@@ -306,6 +335,78 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "伊朗向美以发出强硬军事警告",
+          "url": "https://www.toutiao.com/trending/7590735079082819625/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 01时25分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：以色列、美国不会让伊朗重建弹道导弹计划。",
+          "url": "https://flash.jin10.com/detail/20260105234925159800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "“无意开战” 内塔尼亚胡据悉通过普京向伊朗传递信息",
+          "url": "https://flash.jin10.com/detail/20260106033636560800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "伊朗向公民发放补贴以缓解社会压力",
+          "url": "https://flash.jin10.com/detail/20260106032607751800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：如果我们遭到伊朗的攻击，其后果将会极其严重。",
+          "url": "https://flash.jin10.com/detail/20260105232040593800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "伊朗要求国际原子能机构谴责针对伊朗核设施的犯罪行为",
+          "url": "https://flash.jin10.com/detail/20260106005418032800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 5,
       "titles": [
@@ -318,8 +419,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时28分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -329,8 +430,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时28分]"
         },
         {
           "title": "美股费城银行指数涨超3%，创8月22日以来最佳盘中表现。",
@@ -368,56 +469,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "伊朗向美以发出强硬军事警告",
-          "url": "https://www.toutiao.com/trending/7590735079082819625/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 01时25分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：以色列、美国不会让伊朗重建弹道导弹计划。",
-          "url": "https://flash.jin10.com/detail/20260105234925159800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：如果我们遭到伊朗的攻击，其后果将会极其严重。",
-          "url": "https://flash.jin10.com/detail/20260105232040593800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "伊朗要求国际原子能机构谴责针对伊朗核设施的犯罪行为",
-          "url": "https://flash.jin10.com/detail/20260106005418032800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -426,11 +477,12 @@
           "url": "https://wallstreetcn.com/livenews/3031066",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时28分]"
         },
         {
           "title": "亚马逊开放部分用户网页端对话 Alexa+，剑指ChatGPT",
