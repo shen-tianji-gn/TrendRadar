@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T16:33:58.934147+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2026-01-08T17:31:38.380512+08:00",
+  "total_titles_processed": 1567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 16时33分]"
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 17时31分]"
         },
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -37,11 +37,12 @@
             10,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 16时33分]"
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 17时31分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -65,11 +66,12 @@
             20,
             13,
             14,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时49分 ~ 16时33分]"
+          "appearance_count": 11,
+          "time_info": "[09时49分 ~ 17时31分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -134,8 +136,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时41分 ~ 16时33分]"
+          "appearance_count": 7,
+          "time_info": "[12时41分 ~ 17时31分]"
         },
         {
           "title": "美国总统特朗普：Raytheon必须停止回购股票。",
@@ -177,7 +179,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -470,6 +472,30 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "美中期选举结果会如何影响特朗普",
+          "url": "https://www.toutiao.com/trending/7592759487010750506/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时31分]"
+        },
+        {
+          "title": "特朗普急退66个国际组织为哪般",
+          "url": "https://www.toutiao.com/trending/7592878921817787954/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时31分]"
+        },
+        {
           "title": "特朗普：将禁止大型机构投资者购买更多独栋住宅",
           "url": "https://flash.jin10.com/detail/20260108015016701800",
           "source": "金十数据",
@@ -550,6 +576,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "特朗普：委内瑞拉石油收入将只买美国制造的产品",
@@ -717,17 +754,6 @@
           "time_info": "15时26分"
         },
         {
-          "title": "美中期选举结果会如何影响特朗普",
-          "url": "https://www.toutiao.com/trending/7592759487010750506/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
           "title": "美国白宫：美国总统特朗普签署总统备忘录，指示美国退出66个不再符合美国利益的国际组织。",
           "url": "https://flash.jin10.com/detail/20260108055541659800",
           "source": "金十数据",
@@ -767,7 +793,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -781,17 +807,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "特朗普急退66个国际组织为哪般",
-          "url": "https://www.toutiao.com/trending/7592878921817787954/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
         },
         {
           "title": "白宫新闻秘书莱维特：（谈格陵兰岛）特朗普和国家安全团队正在积极讨论。",
@@ -866,7 +881,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -877,7 +892,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -921,7 +936,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         }
@@ -929,7 +944,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -977,6 +992,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时40分 ~ 11时41分]"
+        },
+        {
+          "title": "美股军工股盘前普涨，雷神技术盘前涨超5%，洛克希德马丁涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3033169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览（美股收盘）",
@@ -1059,7 +1085,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "英媒称伊朗抗议席卷全国一半省份，至少36人死亡",
@@ -1099,6 +1125,17 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时33分 ~ 13时27分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗总统佩泽希齐扬警告，任何囤积或哄抬物价的行为都将受到“严肃而果断”的处理。",
+          "url": "https://flash.jin10.com/detail/20260108171337391800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "伊朗谴责以色列外长进入索马里兰",
@@ -1185,7 +1222,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -1196,8 +1233,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时49分 ~ 16时33分]"
+          "appearance_count": 11,
+          "time_info": "[09时49分 ~ 17时31分]"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -1234,6 +1271,17 @@
           "time_info": "[05时21分 ~ 06时23分]"
         },
         {
+          "title": "近30年来首次！黄金或已超越美债 成全球头号储备资产",
+          "url": "https://www.cls.cn/detail/2251483",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "10年期美债收益率跌约4个基点",
           "url": "https://wallstreetcn.com/livenews/3032682",
           "source": "华尔街见闻-快讯",
@@ -1258,62 +1306,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "时隔七年 谷歌市值重新超越苹果",
-          "url": "https://flash.jin10.com/detail/20260108054913345800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
-          "url": "https://wallstreetcn.com/articles/3762755",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 16时33分]"
-        },
-        {
-          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
-          "url": "https://flash.jin10.com/detail/20260108033431215800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时22分]"
-        },
-        {
-          "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
-          "url": "https://www.zhihu.com/question/1992511254795870608",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 15时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2026年01月08日（周四）上海金午盘价为995.88元/克，较国际金价(995.17元/克)，高0.71元/克",
@@ -1342,11 +1336,23 @@
           "url": "https://www.toutiao.com/trending/7592498286850998299/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时31分]"
+        },
+        {
+          "title": "汇丰银行：受地缘政治风险和财政债务上升影响，黄金价格或在2026年上半年触及5000美元/盎司；交易波动性水平可能较高。",
+          "url": "https://flash.jin10.com/detail/20260108171213389800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时33分"
+          "time_info": "17时31分"
         },
         {
           "title": "美元走强压制金价 投资者警惕市场波动与获利回吐",
@@ -1358,6 +1364,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "时隔七年 谷歌市值重新超越苹果",
+          "url": "https://flash.jin10.com/detail/20260108054913345800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
+          "url": "https://wallstreetcn.com/articles/3762755",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时37分 ~ 17时31分]"
+        },
+        {
+          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
+          "url": "https://flash.jin10.com/detail/20260108033431215800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时22分]"
+        },
+        {
+          "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
+          "url": "https://www.zhihu.com/question/1992511254795870608",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时26分]"
         }
       ]
     },
