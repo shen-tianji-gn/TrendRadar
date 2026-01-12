@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T05:23:40.036496+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-01-13T06:21:29.047183+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
@@ -37,30 +37,57 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
           "url": "https://wallstreetcn.com/articles/3763089",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
           "url": "https://wallstreetcn.com/articles/3763082",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时23分]"
+          "time_info": "[00时29分 ~ 06时21分]"
+        },
+        {
+          "title": "民调称美民众不爱听特朗普对华叫嚷",
+          "url": "https://www.toutiao.com/trending/7594282363073334847/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 06时21分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。",
@@ -74,39 +101,40 @@
           "time_info": "02时39分"
         },
         {
-          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
-          "source": "澎湃新闻",
+          "title": "罗德里格斯回应特朗普“自诩委内瑞拉代总统”",
+          "url": "https://wallstreetcn.com/livenews/3035584",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            18
+            5
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时23分]"
-        },
-        {
-          "title": "民调称美民众不爱听特朗普对华叫嚷",
-          "url": "https://www.toutiao.com/trending/7594282363073334847/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 05时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "美国总统特朗普倾向于袭击伊朗，但还没有做最终决定。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3035581",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普：最高法若就关税政策作出不利裁决，美将无法负担代价",
+          "url": "https://wallstreetcn.com/livenews/3035556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时21分]"
         },
         {
           "title": "白宫新闻秘书利维特：：特朗普并未设定收购格陵兰岛的时间表。",
@@ -144,18 +172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时27分]"
-        },
-        {
-          "title": "特朗普：最高法若就关税政策作出不利裁决，美将无法负担代价",
-          "url": "https://wallstreetcn.com/livenews/3035556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时23分]"
         },
         {
           "title": "特朗普古巴政策现“温差” 仍允许墨西哥向古巴输油",
@@ -242,6 +258,18 @@
           "time_info": "[03时22分 ~ 04时27分]"
         },
         {
+          "title": "美媒：特朗普最近几周多次抱怨司法部长帕姆·邦迪",
+          "url": "https://flash.jin10.com/detail/20260113045004188800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
+        },
+        {
           "title": "美国政府官员：总统特朗普将于周四在白宫会见委内瑞拉反对派Machado。",
           "url": "https://wallstreetcn.com/livenews/3035504",
           "source": "华尔街见闻-快讯",
@@ -288,6 +316,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时27分]"
+        },
+        {
+          "title": "美国总统特朗普曾多次向助手抱怨司法部长邦迪（Bondi），自称倍感挫折。 不满之处包括对Comey和james的调查。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3035569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
         },
         {
           "title": "白宫新闻秘书利维特：美国总统特朗普相信美联储的独立性。",
@@ -338,6 +378,18 @@
           "time_info": "[02时39分 ~ 03时22分]"
         },
         {
+          "title": "特朗普的司法部调查鲍威尔给日元带来一波急剧的冲高回落行情",
+          "url": "https://wallstreetcn.com/livenews/3035564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
+        },
+        {
           "title": "白宫新闻秘书利维特：特朗普明天将参观福特工厂。",
           "url": "https://flash.jin10.com/detail/20260113020925954800",
           "source": "金十数据",
@@ -348,6 +400,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普：任何与伊朗开展业务的国家都将被征收25%关税",
+          "url": "https://flash.jin10.com/detail/20260113054813875800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "据华尔街日报：以美国副总统万斯为首的某些高级政府助手敦促美国总统特朗普在对伊朗采取报复行动之前先尝试外交手段。",
@@ -361,15 +424,15 @@
           "time_info": "04时27分"
         },
         {
-          "title": "美媒：特朗普最近几周多次抱怨司法部长帕姆·邦迪",
-          "url": "https://flash.jin10.com/detail/20260113045004188800",
+          "title": "罗德里格斯回应特朗普“自诩委内瑞拉代总统”",
+          "url": "https://flash.jin10.com/detail/20260113054439873800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "06时21分"
         },
         {
           "title": "据华尔街日报：白宫权衡伊朗的核谈提议，而美国总统特朗普倾向于采取打击行动。",
@@ -416,17 +479,6 @@
           "time_info": "01时25分"
         },
         {
-          "title": "美国总统特朗普曾多次向助手抱怨司法部长邦迪（Bondi），自称倍感挫折。 不满之处包括对Comey和james的调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3035569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
           "title": "美国国会山一个跨党派团体前往丹麦首都哥本哈根。 在总统特朗普企图吞并格陵兰岛之际，他们会见丹麦官员们。（美联社）",
           "url": "https://wallstreetcn.com/livenews/3035545",
           "source": "华尔街见闻-快讯",
@@ -471,17 +523,6 @@
           "time_info": "04时27分"
         },
         {
-          "title": "特朗普的司法部调查鲍威尔给日元带来一波急剧的冲高回落行情",
-          "url": "https://wallstreetcn.com/livenews/3035564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。 （自从美方强行掳走委内瑞拉总统马杜罗以来）委内瑞拉政府已经“全面配合”（美方的意图）。 现在谈论委内瑞拉大选还言之过早。",
           "url": "https://wallstreetcn.com/livenews/3035514",
           "source": "华尔街见闻-快讯",
@@ -521,7 +562,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -595,7 +636,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
@@ -605,8 +646,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "伊朗外长说已控制全国局势",
@@ -619,8 +660,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 05时23分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 06时21分]"
         },
         {
           "title": "伊朗外长：伊朗安全部队已控制全国局势",
@@ -632,19 +673,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
-          "title": "油轮监测服务机构TankerTrackers表示，伊朗已“秘密释放”一艘希腊船东拥有的油轮，该船此前两年一直处于“被关押”状态。",
-          "url": "https://flash.jin10.com/detail/20260113045416018800",
+          "title": "美国已发布新的警报，建议美国公民离开伊朗或就地避难。",
+          "url": "https://flash.jin10.com/detail/20260113055724376800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "06时21分"
         },
         {
           "title": "白宫：外交是美国应对伊朗局势的“首选”方案",
@@ -671,6 +712,18 @@
           "time_info": "[04时27分 ~ 05时23分]"
         },
         {
+          "title": "油轮监测服务机构TankerTrackers表示，伊朗已“秘密释放”一艘希腊船东拥有的油轮，该船此前两年一直处于“被关押”状态。",
+          "url": "https://flash.jin10.com/detail/20260113045416018800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
+        },
+        {
           "title": "伊朗外长称已控制国内局势",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%8E%A7%E5%88%B6%E5%9B%BD%E5%86%85%E5%B1%80%E5%8A%BF",
           "source": "bilibili 热搜",
@@ -695,6 +748,18 @@
           "time_info": "[04时27分 ~ 05时23分]"
         },
         {
+          "title": "伊朗外长：大量证据显示美以参与近期伊朗骚乱",
+          "url": "https://wallstreetcn.com/livenews/3035576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
+        },
+        {
           "title": "白宫新闻秘书利维特：空袭伊朗是众多选项之一。",
           "url": "https://flash.jin10.com/detail/20260113022107875800",
           "source": "金十数据",
@@ -705,6 +770,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时22分]"
+        },
+        {
+          "title": "伊朗塔斯尼姆通讯社指责美国查封其网络域名",
+          "url": "https://wallstreetcn.com/livenews/3035567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
         },
         {
           "title": "据福克斯新闻：白宫表示，伊朗公开宣称的立场与其私下向美国传递的信息截然不同。",
@@ -719,15 +796,16 @@
           "time_info": "[02时39分 ~ 03时22分]"
         },
         {
-          "title": "伊朗外长：大量证据显示美以参与近期伊朗骚乱",
-          "url": "https://wallstreetcn.com/livenews/3035576",
+          "title": "俄安全会议秘书：俄方愿继续发展与伊朗的合作",
+          "url": "https://wallstreetcn.com/livenews/3035561",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            19,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
         },
         {
           "title": "市场消息：伊朗向俄罗斯运送了价值27亿美元的导弹。",
@@ -747,20 +825,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
         {
-          "title": "伊朗塔斯尼姆通讯社指责美国查封其网络域名",
-          "url": "https://wallstreetcn.com/livenews/3035567",
-          "source": "华尔街见闻-快讯",
+          "title": "德国外交部长：敦促所有欧洲国家努力就对伊朗的制裁达成共同立场。",
+          "url": "https://flash.jin10.com/detail/20260113051744399800",
+          "source": "金十数据",
           "ranks": [
-            13
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "06时21分"
         },
         {
           "title": "据国际文传电讯社：俄罗斯安全委员会秘书绍伊古与伊朗最高国家安全委员会秘书举行了电话会谈。",
@@ -794,17 +872,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
-        },
-        {
-          "title": "俄安全会议秘书：俄方愿继续发展与伊朗的合作",
-          "url": "https://wallstreetcn.com/livenews/3035561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
         },
         {
           "title": "骚乱过后 伊朗首都德黑兰整体局势趋于平稳",
@@ -854,29 +921,42 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
           "url": "https://wallstreetcn.com/articles/3763059",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时21分]"
+        },
+        {
+          "title": "美联储调查风波之际，美股走V创新高，谷歌市值破4万亿，中概股大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
           "url": "https://wallstreetcn.com/livenews/3035583",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
         },
         {
           "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",
@@ -948,6 +1028,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "美国在线家居零售商Wayfair与谷歌合作，推动以人工智能驱动的家居购物。",
+          "url": "https://flash.jin10.com/detail/20260113050153642800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
           "title": "蚂蚁国际和谷歌共推“通用商业协议”，打通“AI购物”全流程",
           "url": "https://wallstreetcn.com/livenews/3035425",
           "source": "华尔街见闻-快讯",
@@ -973,7 +1064,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
@@ -991,11 +1082,12 @@
           "url": "https://wallstreetcn.com/articles/3762924",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
@@ -1006,30 +1098,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "美股收盘：金龙指数涨逾4% 阿里巴巴大涨10%",
           "url": "https://flash.jin10.com/detail/20260113050054548800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
         },
         {
           "title": "日常消费品ETF收涨约1.2%，领跑美股行业ETF，银行业ETF跌超1.2%",
           "url": "https://wallstreetcn.com/livenews/3035579",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
         },
         {
           "title": "美股集体低开 中概股逆势走强",
@@ -1041,6 +1135,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260113050522045800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260113050512989800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "行业ETF美股盘初普跌",
@@ -1060,13 +1176,25 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3035563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
+        },
+        {
           "title": "据The Information：OpenAI同意以约1亿美元收购AI医疗应用Torch。",
           "url": "https://flash.jin10.com/detail/20260113044327822800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -1077,18 +1205,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3035563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         }
@@ -1104,22 +1221,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时23分]"
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时21分]"
         },
         {
           "title": "美元指数12日下跌",
           "url": "https://flash.jin10.com/detail/20260113045153898800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
         }
       ]
     },
@@ -1132,11 +1251,12 @@
           "url": "https://wallstreetcn.com/livenews/3035568",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
         }
       ]
     }
