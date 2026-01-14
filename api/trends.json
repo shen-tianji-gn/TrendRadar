@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T20:51:07.421637+08:00",
-  "total_titles_processed": 1906,
+  "generated_at": "2026-01-14T21:42:04.257630+08:00",
+  "total_titles_processed": 2027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 112,
+      "match_count": 115,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -42,6 +42,18 @@
           "time_info": "[00时34分 ~ 07时21分]"
         },
         {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 21时42分]"
+        },
+        {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
           "url": "https://wallstreetcn.com/articles/3763222",
           "source": "华尔街见闻",
@@ -50,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时49分 ~ 20时51分]"
+          "appearance_count": 13,
+          "time_info": "[11时49分 ~ 21时42分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -64,18 +76,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 05时23分]"
-        },
-        {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 20时51分]"
         },
         {
           "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
@@ -101,6 +101,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时54分 ~ 14时37分]"
+        },
+        {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 21时42分]"
         },
         {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
@@ -156,7 +170,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -193,20 +207,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时49分 ~ 15时27分]"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 20时51分]"
         },
         {
           "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
@@ -597,6 +597,17 @@
           "time_info": "[14时37分 ~ 15时27分]"
         },
         {
+          "title": "特朗普政府执政近一年给世界带来了啥",
+          "url": "https://www.toutiao.com/trending/7595171405177684018/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
+        },
+        {
           "title": "美国总统特朗普：我们将开始通过陆路打击毒贩。",
           "url": "https://flash.jin10.com/detail/20260114034918816800",
           "source": "金十数据",
@@ -779,7 +790,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -867,7 +878,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -900,7 +911,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -944,7 +955,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -988,7 +999,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -1213,6 +1224,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "美联储卡什卡利：特朗普的威胁实际是货币政策问题 一月份没有降息的必要",
+          "url": "https://flash.jin10.com/detail/20260114210614869800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "美国参议院多数党领袖John Thune：并不建议实施（特朗普政府主张的）信用卡利率上限政策。 这样的政策可能会让许多人丧失获取信用（融资）的渠道。 预计将对信用卡竞争法案投票。",
           "url": "https://wallstreetcn.com/livenews/3036279",
           "source": "华尔街见闻-快讯",
@@ -1257,6 +1279,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "美国明尼阿波利斯联储主席Kashkari表示，特朗普对美联储的举措“关乎货币政策”。其表示鲍威尔对此事“解释得很准确”。Kashkari称目前没有“一月降息的动力”。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3037062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "特朗普称将切断“庇护城市”联邦资金",
           "url": "https://www.toutiao.com/trending/7594261365691482175/",
           "source": "今日头条",
@@ -1285,7 +1318,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         }
@@ -1293,7 +1326,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -1332,6 +1365,19 @@
           "time_info": "[09时54分 ~ 16时33分]"
         },
         {
+          "title": "沙特带头，劝美国不要对伊朗动武",
+          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 21时42分]"
+        },
+        {
           "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
           "url": "https://www.zhihu.com/question/1994338886751625788",
           "source": "知乎",
@@ -1361,19 +1407,6 @@
           "time_info": "[00时34分 ~ 11时49分]"
         },
         {
-          "title": "沙特带头，劝美国不要对伊朗动武",
-          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 20时51分]"
-        },
-        {
           "title": "美军机沿伊朗边界飞行",
           "url": "https://news.ifeng.com/c/8pufl7S6EV4",
           "source": "凤凰网",
@@ -1381,8 +1414,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[20时50分 ~ 21时42分]"
         },
         {
           "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
@@ -1484,7 +1517,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -1546,6 +1579,17 @@
           "time_info": "[11时49分 ~ 15时27分]"
         },
         {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://www.douyin.com/hot/2367771",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时50分 ~ 21时42分]"
+        },
+        {
           "title": "据AXIOS：美国特使威特科夫周末会见了伊朗流亡王储。",
           "url": "https://flash.jin10.com/detail/20260114020738248800",
           "source": "金十数据",
@@ -1556,6 +1600,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时21分]"
+        },
+        {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E6%B2%BF%E4%BC%8A%E6%9C%97%E8%BE%B9%E7%95%8C%E9%A3%9E%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时50分 ~ 21时42分]"
         },
         {
           "title": "据NewsNation：知情人士证实，美国副总统万斯定于今天下午（北京时间今晨）与国家安全团队举行会议，主导制定对伊朗的战略。",
@@ -1615,28 +1671,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时34分 ~ 04时28分]"
-        },
-        {
-          "title": "美军机沿伊朗边界飞行",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E6%B2%BF%E4%BC%8A%E6%9C%97%E8%BE%B9%E7%95%8C%E9%A3%9E%E8%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 20时51分]"
-        },
-        {
-          "title": "美军机沿伊朗边界飞行",
-          "url": "https://www.douyin.com/hot/2367771",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 20时51分]"
         },
         {
           "title": "伊朗国防部长：将对任何美国侵略行为作出回应。",
@@ -1904,6 +1938,17 @@
           "time_info": "19时23分"
         },
         {
+          "title": "伊朗议会通过关于集会和游行规范法案纲要",
+          "url": "https://wallstreetcn.com/livenews/3037071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "伊朗防长：若遭侵犯将以更强力度回应",
           "url": "https://wallstreetcn.com/livenews/3036338",
           "source": "华尔街见闻-快讯",
@@ -1940,7 +1985,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1950,8 +1995,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时54分 ~ 20时51分]"
+          "appearance_count": 14,
+          "time_info": "[09时54分 ~ 21时42分]"
         },
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -2112,9 +2157,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "花旗集团：第四季度FICC销售与交易收入为34.6亿美元，市场预期为32.9亿美元。 第四季度股票销售与交易收入为10.8亿美元，市场预期为11.6亿美元。 第四季度银行业务收入为22.1亿美元，市场预期为20亿美元。 第四季度投行业务收入为12.7亿美元。 第四季度总收入为198.7亿美元；每股收益为1.19美元。 花旗美股盘前一度涨0.5%，现跌超1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3037064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         }
       ]
     },
@@ -2325,8 +2381,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[20时50分 ~ 21时42分]"
         },
         {
           "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
