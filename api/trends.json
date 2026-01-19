@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T19:23:37.314569+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-01-19T20:54:06.714875+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 78,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时56分 ~ 19时23分]"
+          "appearance_count": 15,
+          "time_info": "[09时56分 ~ 20时54分]"
         },
         {
           "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
@@ -90,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时54分 ~ 19时23分]"
+          "appearance_count": 12,
+          "time_info": "[12时54分 ~ 20时54分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -241,6 +241,20 @@
           "time_info": "[03时17分 ~ 07时21分]"
         },
         {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 20时54分]"
+        },
+        {
           "title": "美国财长贝森特：欧美贸易协议尚未达成最终协议。 特朗普拥有使用关税的紧急权力。 特朗普在处理格陵兰问题时采取了“策略性”的做法。 我们将继续留在北约内。 最高法院不大可能推翻特朗普的关税政策。",
           "url": "https://wallstreetcn.com/livenews/3039276",
           "source": "华尔街见闻-快讯",
@@ -311,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "德国总理默茨：将于周三尝试会见美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260119204956142800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "伊朗：将追究特朗普等人责任",
@@ -487,19 +512,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时37分 ~ 18时32分]"
-        },
-        {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时23分]"
         },
         {
           "title": "高盛：特朗普破坏性政策频发 料引发新一轮资金逃离美国资产",
@@ -680,6 +692,17 @@
           "time_info": "[16时35分 ~ 16时36分]"
         },
         {
+          "title": "普京收到加入特朗普和平委员会邀请",
+          "url": "https://www.toutiao.com/trending/7596940910904573978/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
           "title": "特朗普发布个人黑白照",
           "url": "https://wallstreetcn.com/livenews/3039253",
           "source": "华尔街见闻-快讯",
@@ -709,7 +732,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -736,13 +759,35 @@
           "time_info": "14时41分"
         },
         {
+          "title": "据报道，挪威首相获邀加入特朗普的加沙“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3039760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "欧盟委员会发言人：欧盟委员会主席冯德莱恩受邀加入美国总统特朗普的加沙“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3039755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "德总理称特朗普关税威胁损害跨大西洋关系",
           "url": "https://wallstreetcn.com/livenews/3039709",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -764,7 +809,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -830,7 +875,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -852,7 +897,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -893,7 +938,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "世界周刊之伊朗危机",
@@ -947,6 +992,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "伊朗总统：美以在中东发挥破坏性作用",
+          "url": "https://wallstreetcn.com/livenews/3039772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "伊朗外交部：美国干涉应为美伊关系紧张负责",
@@ -1013,15 +1069,37 @@
           "time_info": "[05时20分 ~ 06时21分]"
         },
         {
+          "title": "市场消息：伊朗外交部长将不会出席达沃斯论坛。",
+          "url": "https://flash.jin10.com/detail/20260119203939264800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗官员呼吁对受“误导”的示威者予以宽大处理。",
           "url": "https://flash.jin10.com/detail/20260119190212302800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
+        },
+        {
+          "title": "伊朗官员：网络服务将于本周末恢复正常",
+          "url": "https://wallstreetcn.com/livenews/3039748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "伊朗议会议长：我们挫败了破坏我国稳定的阴谋。",
@@ -1048,8 +1126,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时23分]"
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 20时54分]"
         },
         {
           "title": "美股明日休市 金银油交易提前结束",
