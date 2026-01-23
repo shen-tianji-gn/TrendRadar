@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T19:23:22.648399+08:00",
-  "total_titles_processed": 1877,
+  "generated_at": "2026-01-23T20:51:34.901031+08:00",
+  "total_titles_processed": 1981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 118,
+      "match_count": 119,
       "titles": [
         {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
@@ -83,6 +83,20 @@
           "time_info": "[15时27分 ~ 19时23分]"
         },
         {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2267695",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时33分 ~ 20时51分]"
+        },
+        {
           "title": "特朗普达沃斯演讲，被群嘲了",
           "url": "https://news.ifeng.com/c/8q7oOaAst69",
           "source": "凤凰网",
@@ -92,6 +106,18 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时37分 ~ 13时29分]"
+        },
+        {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时32分 ~ 20时51分]"
         },
         {
           "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
@@ -198,18 +224,6 @@
           "time_info": "[00时37分 ~ 07时23分]"
         },
         {
-          "title": "特朗普称将于4月访问中国，外交部回应",
-          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 19时23分]"
-        },
-        {
           "title": "特朗普称将于4月访华 中方回应",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E%20%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
           "source": "bilibili 热搜",
@@ -221,19 +235,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时33分 ~ 18时28分]"
-        },
-        {
-          "title": "特朗普称将于4月访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2267695",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时33分 ~ 19时23分]"
         },
         {
           "title": "特朗普执政一年把美国推向何方",
@@ -250,6 +251,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时37分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
+          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 20时51分]"
         },
         {
           "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
@@ -289,15 +301,31 @@
           "time_info": "[00时37分 ~ 01时31分]"
         },
         {
-          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
-          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
-          "source": "凤凰网",
+          "title": "外交部回应特朗普称将于4月访问中国",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
-            5
+            19,
+            15,
+            14,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 19时23分]"
+          "appearance_count": 7,
+          "time_info": "[16时33分 ~ 20时51分]"
+        },
+        {
+          "title": "外交部回应特朗普称将于4月访华",
+          "url": "https://www.toutiao.com/trending/7597610597631033407/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 20时51分]"
         },
         {
           "title": "特朗普提出动用北约保护美国南部边境",
@@ -317,7 +345,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -344,18 +372,15 @@
           "time_info": "04时31分"
         },
         {
-          "title": "外交部回应特朗普称将于4月访问中国",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
+          "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
+          "url": "https://news.ifeng.com/c/8q9ZlzBzIxe",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            15,
-            14,
-            8
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时33分 ~ 19时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "乌克兰总统泽连斯基：已与美国总统特朗普讨论了用于防空的额外导弹、PAC-3和反导系统，并希望取得积极成果。",
@@ -439,6 +464,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时32分 ~ 19时23分]"
+        },
+        {
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://www.douyin.com/hot/2377206",
+          "source": "抖音",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时51分]"
         },
         {
           "title": "美国总统特朗普：听取了关于美联储理事库克被解雇案的最高法院部分庭审。",
@@ -537,17 +574,6 @@
           "time_info": "[12时44分 ~ 14时38分]"
         },
         {
-          "title": "外交部回应特朗普称将于4月访华",
-          "url": "https://www.toutiao.com/trending/7597610597631033407/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 19时23分]"
-        },
-        {
           "title": "特朗普吐槽北约盟友“不孝顺”",
           "url": "https://www.toutiao.com/trending/7597437551243018246/",
           "source": "今日头条",
@@ -591,6 +617,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时50分 ~ 09时51分]"
+        },
+        {
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时51分]"
         },
         {
           "title": "美国总统特朗普：一些“和平委员会”成员国已经出资10亿美元，其他国家出资更多。",
@@ -710,17 +748,6 @@
           "time_info": "12时44分"
         },
         {
-          "title": "中方回应特朗普称将于4月访华",
-          "url": "https://www.douyin.com/hot/2377206",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
           "title": "美国众议院以微弱优势通过一项决议，旨在约束美国总统特朗普的委内瑞拉战争权力。",
           "url": "https://flash.jin10.com/detail/20260123063443929800",
           "source": "金十数据",
@@ -785,17 +812,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "中方回应特朗普称将于4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
         },
         {
           "title": "据国际文传电讯社：美国特朗普女婿库什纳、美国总统特使威特科夫抵达莫斯科。",
@@ -1373,7 +1389,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
@@ -1425,17 +1441,6 @@
           "time_info": "05时26分"
         },
         {
-          "title": "英伟达美股盘前拉升，现涨超2%。台积电涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3042893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
           "title": "金十图示：2026年01月22日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260123050514385800",
           "source": "金十数据",
@@ -1456,6 +1461,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "英伟达美股盘前拉升，现涨超2%。台积电涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3042893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时51分]"
         },
         {
           "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股盘中）",
@@ -1515,6 +1532,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "美股期货跌幅收窄，英伟达盘前直线拉升，美元遭遇半年来最差一周，金银冲高回落",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "美股稀土概念涨势扩大，USAR涨超20%领升板块；CRML涨超14%，将在沙特阿拉伯设立稀土加工厂；MP materials涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3042182",
           "source": "华尔街见闻-快讯",
@@ -1535,6 +1563,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "斯伦贝谢第四季度营收为97.5 亿美元，预期95.5 亿美元。 第四季度经调整后每股收益0.78美元，预估0.74美元。 第四季度经调整后EBITDA 23.3亿美元，预估23.1亿美元。 第四季度资本支出5.16 亿美元，预估5.763 亿美元。 斯伦贝谢美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3042921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "AMD美股盘前涨超3%。中国数据中心及云计算公司ADR同步走高，世纪互联涨5.7%、万国数据涨7.4%、金山云涨6.1%。",
+          "url": "https://wallstreetcn.com/livenews/3042920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "网络股指数ETF收涨1.9%，领跑美股行业ETF",
@@ -1568,6 +1618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "美银：特朗普关税威胁下美股资金流出170亿美元 欧洲、日本获强势流入",
+          "url": "https://wallstreetcn.com/livenews/3042905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "美国铝业四季度销售34.5亿美元，分析师预期32.9亿美元。 美国铝业（AA）美股盘后涨超3%。",
@@ -1632,8 +1693,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时33分 ~ 19时23分]"
+          "appearance_count": 7,
+          "time_info": "[16时33分 ~ 20时51分]"
         },
         {
           "title": "美国正调集重兵前往伊朗",
@@ -1644,11 +1705,12 @@
             3,
             10,
             23,
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时37分 ~ 19时23分]"
+          "appearance_count": 10,
+          "time_info": "[14时37分 ~ 20时51分]"
         },
         {
           "title": "以媒称美近日或袭伊朗",
@@ -1672,22 +1734,24 @@
           "ranks": [
             15,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时33分 ~ 19时23分]"
+          "appearance_count": 7,
+          "time_info": "[16时33分 ~ 20时51分]"
         },
         {
           "title": "外交部回应美调重兵前往伊朗：希望各方珍惜和平",
           "url": "https://www.cls.cn/detail/2267699",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 19时23分]"
+          "appearance_count": 6,
+          "time_info": "[17时32分 ~ 20时51分]"
         },
         {
           "title": "外交部：中方希望伊朗保持国家稳定",
@@ -1713,6 +1777,18 @@
           "time_info": "[18时27分 ~ 19时23分]"
         },
         {
+          "title": "外交部回应美调重兵前往伊朗：希望各方珍惜和平",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448676",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时51分]"
+        },
+        {
           "title": "美军对伊朗开战进入倒计时了吗",
           "url": "https://www.toutiao.com/trending/7598386191951466003/",
           "source": "今日头条",
@@ -1733,17 +1809,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
-        },
-        {
-          "title": "外交部回应美调重兵前往伊朗：希望各方珍惜和平",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448676",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
         },
         {
           "title": "土耳其与伊朗两国总统通电话 强调反对外部干涉伊朗局势",
@@ -1856,6 +1921,90 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3042361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "受益于金价上涨 印度外汇储备创去年三月以来最大增幅",
+          "url": "https://flash.jin10.com/detail/20260123201309576800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "金价疯涨原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%96%AF%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时33分]"
+        },
+        {
+          "title": "国际金价银价同创历史新高",
+          "url": "https://www.toutiao.com/trending/7597224144673194010/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 09时51分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "金价还能涨多少",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%BF%98%E8%83%BD%E6%B6%A8%E5%A4%9A%E5%B0%91&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "金价暴涨黄金存款被爆买",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E9%BB%84%E9%87%91%E5%AD%98%E6%AC%BE%E8%A2%AB%E7%88%86%E4%B9%B0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
@@ -1879,8 +2028,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 18时28分]"
+          "appearance_count": 5,
+          "time_info": "[17时32分 ~ 20时51分]"
         },
         {
           "title": "谷歌、微软回应美国参议院成员们关于（涉及人工智能/数据中心）电力需求的质询。",
@@ -2005,68 +2154,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3042361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "金价疯涨原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%96%AF%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 17时33分]"
-        },
-        {
-          "title": "国际金价银价同创历史新高",
-          "url": "https://www.toutiao.com/trending/7597224144673194010/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
-          "title": "金价还能涨多少",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%BF%98%E8%83%BD%E6%B6%A8%E5%A4%9A%E5%B0%91&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 5,
       "titles": [
@@ -2142,8 +2229,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时50分 ~ 19时23分]"
+          "appearance_count": 15,
+          "time_info": "[09时50分 ~ 20时51分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
