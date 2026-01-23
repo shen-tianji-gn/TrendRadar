@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T13:29:45.559393+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-01-23T14:38:05.961802+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 98,
+      "match_count": 99,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -41,8 +41,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 13时29分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 14时38分]"
+        },
+        {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 14时38分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -64,8 +76,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 13时29分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 14时38分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -79,17 +91,6 @@
           "time_info": "[00时37分 ~ 09时51分]"
         },
         {
-          "title": "特朗普称加拿大因美国而存在，加总理回应",
-          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 13时29分]"
-        },
-        {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
           "url": "https://news.ifeng.com/c/8q88cGpXCla",
           "source": "凤凰网",
@@ -98,8 +99,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 13时29分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 14时38分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -145,6 +146,17 @@
           "time_info": "[00时37分 ~ 07时23分]"
         },
         {
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 14时38分]"
+        },
+        {
           "title": "特朗普执政一年把美国推向何方",
           "url": "https://www.douyin.com/hot/2376099",
           "source": "抖音",
@@ -174,15 +186,16 @@
           "time_info": "[02时35分 ~ 07时23分]"
         },
         {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
           "source": "凤凰网",
           "ranks": [
-            4
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 14时38分]"
         },
         {
           "title": "特朗普为啥时隔一天态度变了",
@@ -209,15 +222,15 @@
           "time_info": "[00时37分 ~ 01时31分]"
         },
         {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
+          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 13时29分]"
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
         },
         {
           "title": "特朗普提出动用北约保护美国南部边境",
@@ -385,6 +398,17 @@
           "time_info": "[03时26分 ~ 04时31分]"
         },
         {
+          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
+          "url": "https://www.cls.cn/detail/2267102",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 14时38分]"
+        },
+        {
           "title": "特朗普吐槽北约盟友“不孝顺”",
           "url": "https://www.toutiao.com/trending/7597437551243018246/",
           "source": "今日头条",
@@ -489,17 +513,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时26分]"
-        },
-        {
-          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
-          "url": "https://www.cls.cn/detail/2267102",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 13时29分]"
         },
         {
           "title": "特朗普起诉美国最大银行",
@@ -1144,8 +1157,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 13时29分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 14时38分]"
         },
         {
           "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
@@ -1491,6 +1504,85 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "被误解的“渗透”和被低估的韧性：伊朗如何令各种“崩溃论”破产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440209",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 07时23分]"
+        },
+        {
+          "title": "以媒称美近日或袭伊朗",
+          "url": "https://www.douyin.com/hot/2376219",
+          "source": "抖音",
+          "ranks": [
+            13,
+            21,
+            24,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 14时38分]"
+        },
+        {
+          "title": "美国正调集重兵前往伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
+        },
+        {
+          "title": "美军对伊朗开战进入倒计时了吗",
+          "url": "https://www.toutiao.com/trending/7598386191951466003/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
+        },
+        {
+          "title": "伊朗议长称该国所有城市已恢复和平",
+          "url": "https://wallstreetcn.com/livenews/3042180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "土耳其与伊朗两国总统通电话 强调反对外部干涉伊朗局势",
+          "url": "https://wallstreetcn.com/livenews/3042165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 5,
       "titles": [
@@ -1584,7 +1676,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -1598,63 +1690,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "被误解的“渗透”和被低估的韧性：伊朗如何令各种“崩溃论”破产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440209",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时23分]"
-        },
-        {
-          "title": "以媒称美近日或袭伊朗",
-          "url": "https://www.douyin.com/hot/2376219",
-          "source": "抖音",
-          "ranks": [
-            13,
-            21,
-            24,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 13时29分]"
-        },
-        {
-          "title": "伊朗议长称该国所有城市已恢复和平",
-          "url": "https://wallstreetcn.com/livenews/3042180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "土耳其与伊朗两国总统通电话 强调反对外部干涉伊朗局势",
-          "url": "https://wallstreetcn.com/livenews/3042165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
         }
       ]
     },
@@ -1709,11 +1744,12 @@
           "ranks": [
             18,
             20,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 14时38分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
