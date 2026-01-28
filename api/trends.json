@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T15:28:51.740396+08:00",
-  "total_titles_processed": 1389,
+  "generated_at": "2026-01-28T16:35:34.359611+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -15,8 +15,21 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时53分 ~ 16时35分]"
+        },
+        {
+          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+          "url": "https://wallstreetcn.com/articles/3764299",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时53分 ~ 15时28分]"
+          "time_info": "[11时46分 ~ 16时35分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -42,30 +55,18 @@
           "time_info": "[00时32分 ~ 07时24分]"
         },
         {
-          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
-          "url": "https://wallstreetcn.com/articles/3764299",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 15时28分]"
-        },
-        {
           "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
           "url": "https://www.cls.cn/detail/2271977",
           "source": "财联社热门",
           "ranks": [
             9,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 15时28分]"
+          "appearance_count": 8,
+          "time_info": "[11时46分 ~ 16时35分]"
         },
         {
           "title": "特朗普，两天内动手？",
@@ -111,6 +112,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时30分 ~ 16时35分]"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -236,19 +250,6 @@
           "time_info": "[12时46分 ~ 13时32分]"
         },
         {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时30分 ~ 15时28分]"
-        },
-        {
           "title": "以色列总理内塔尼亚胡未否认曾要求特朗普不要攻击伊朗。",
           "url": "https://flash.jin10.com/detail/20260128030532843800",
           "source": "金十数据",
@@ -320,6 +321,17 @@
           "time_info": "12时46分"
         },
         {
+          "title": "韩国总统顾问：美国总统特朗普发出的对韩国加征关税的信息，反映了他对国会审议贸易协定进度缓慢的沮丧。",
+          "url": "https://flash.jin10.com/detail/20260128161628174800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "美国总统特朗普：正在努力就E15混合燃料达成协议。我会毫不犹豫地签署相关法案。",
           "url": "https://flash.jin10.com/detail/20260128065145858800",
           "source": "金十数据",
@@ -351,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
+        },
+        {
+          "title": "韩国总统顾问：正如美国总统特朗普所说，我们会共同寻求关税解决方案。",
+          "url": "https://flash.jin10.com/detail/20260128161606852800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "投资者押注辛鲍姆能保护墨西哥比索免受特朗普冲击",
@@ -628,6 +651,17 @@
           "time_info": "02时41分"
         },
         {
+          "title": "悠悠球世界冠军上线！特朗普亲自画出大阴线丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260128155108590800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "美国总统特朗普：霍曼（边境事务协调员）稍后将在明尼阿波利斯会见州长和市长。",
           "url": "https://flash.jin10.com/detail/20260128010909664800",
           "source": "金十数据",
@@ -749,20 +783,6 @@
           "time_info": "[00时32分 ~ 07时24分]"
         },
         {
-          "title": "以女子看电视发现自己“死”在伊朗",
-          "url": "https://www.toutiao.com/trending/7599286725097259071/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            28,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 07时24分]"
-        },
-        {
           "title": "沙特不允许领空领土被用于打击伊朗",
           "url": "https://www.toutiao.com/trending/7600164253504421897/",
           "source": "今日头条",
@@ -770,11 +790,12 @@
             8,
             7,
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时53分 ~ 15时28分]"
+          "appearance_count": 9,
+          "time_info": "[09时53分 ~ 16时35分]"
         },
         {
           "title": "美国被曝向以色列通报对伊朗行动准备进展 | 环球市场",
@@ -788,8 +809,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时53分 ~ 15时28分]"
+          "appearance_count": 9,
+          "time_info": "[09时53分 ~ 16时35分]"
+        },
+        {
+          "title": "以女子看电视发现自己“死”在伊朗",
+          "url": "https://www.toutiao.com/trending/7599286725097259071/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            28,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时24分]"
         },
         {
           "title": "沙特王储：不允许用沙特领土攻击伊朗",
@@ -1426,8 +1461,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 15时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 16时35分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -1440,8 +1475,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时41分 ~ 15时28分]"
+          "appearance_count": 16,
+          "time_info": "[02时41分 ~ 16时35分]"
+        },
+        {
+          "title": "黄金价格暴涨暴跌 是走还是留",
+          "url": "https://www.toutiao.com/trending/7600200790535310911/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时46分 ~ 16时35分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1456,19 +1504,6 @@
           "time_info": "[11时46分 ~ 15时28分]"
         },
         {
-          "title": "黄金价格暴涨暴跌 是走还是留",
-          "url": "https://www.toutiao.com/trending/7600200790535310911/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时46分 ~ 15时28分]"
-        },
-        {
           "title": "金价暴涨女子卖300克黄金变现30万",
           "url": "https://www.toutiao.com/trending/7600256243789627398/",
           "source": "今日头条",
@@ -1477,8 +1512,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 15时28分]"
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 16时35分]"
         },
         {
           "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
@@ -1529,8 +1564,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时53分 ~ 15时28分]"
+          "appearance_count": 9,
+          "time_info": "[09时53分 ~ 16时35分]"
+        },
+        {
+          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
+          "url": "https://www.cls.cn/detail/2272037",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 16时35分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
@@ -1555,17 +1602,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时41分 ~ 03时28分]"
-        },
-        {
-          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
-          "url": "https://www.cls.cn/detail/2272037",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 11时47分]"
         },
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
@@ -1596,7 +1632,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         }
@@ -1613,11 +1649,12 @@
           "ranks": [
             10,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 15时28分]"
+          "appearance_count": 8,
+          "time_info": "[11时46分 ~ 16时35分]"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -1729,11 +1766,12 @@
             7,
             9,
             10,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 14时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 16时35分]"
         }
       ]
     },
