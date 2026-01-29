@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T21:01:59.699758+08:00",
-  "total_titles_processed": 1946,
+  "generated_at": "2026-01-29T22:04:29.900151+08:00",
+  "total_titles_processed": 2053,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -110,8 +110,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时28分 ~ 21时01分]"
+          "appearance_count": 12,
+          "time_info": "[12时28分 ~ 22时04分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -142,6 +142,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时28分 ~ 16时42分]"
+        },
+        {
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "特朗普和舒默朝着可能达成避免美国政府停摆的协议迈进。（纽约时报）",
@@ -176,6 +187,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时45分 ~ 22时04分]"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：民主党必须与总统特朗普的白宫处理（与国土安全部/DHS相关的）预算问题。",
@@ -225,20 +251,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时34分]"
-        },
-        {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时45分 ~ 21时01分]"
         },
         {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
@@ -371,6 +383,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时31分]"
+        },
+        {
+          "title": "白宫边境事务负责人Homan：将在明尼苏达州开展针对性行动。 特朗普不会放弃其反移民使命。",
+          "url": "https://wallstreetcn.com/livenews/3046514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "特朗普升级对伊施压，白银冲上120后回落，金、铜、油全线狂飙，美元持续下挫",
@@ -549,6 +572,17 @@
           "time_info": "01时34分"
         },
         {
+          "title": "美国边境事务负责人霍曼：美国总统特朗普并未在反移民使命上投降。",
+          "url": "https://flash.jin10.com/detail/20260129213435452800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "Rieder曾向特朗普对手和民主党高层捐款，恐给竞逐美联储主席添波折",
           "url": "https://wallstreetcn.com/livenews/3045691",
           "source": "华尔街见闻-快讯",
@@ -604,6 +638,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "特朗普表示鲍威尔没有理由维持高利率 称拒绝降息损害国家安全",
+          "url": "https://wallstreetcn.com/livenews/3046487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "美国财长贝森特：在飞机上与总统特朗普长时间谈论美联储主席。 美联储主席候选人的规模没有变化（既没有增加、也没有减少）。 现在仍然还有四位候选人。 我不会推荐美联储主席，只是（向特朗普）提供建议而已。",
           "url": "https://wallstreetcn.com/livenews/3045676",
           "source": "华尔街见闻-快讯",
@@ -618,7 +663,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -713,7 +758,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -915,6 +960,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "伊朗：美若动武 伊将打击以色列",
+          "url": "https://www.douyin.com/hot/2382618",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "伊朗外交部长阿拉奇：德黑兰始终欢迎一项公平的核协议，该协议应确保伊朗的权利并保证不发展核武器。",
           "url": "https://flash.jin10.com/detail/20260129015303460800",
           "source": "金十数据",
@@ -1028,7 +1084,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -1102,6 +1158,17 @@
           "time_info": "18时39分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-29）",
+          "url": "https://flash.jin10.com/detail/20260129214609846800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "特斯拉美股盘后快速回吐涨幅，该公司称2026年资本开支将超200亿美元。",
           "url": "https://wallstreetcn.com/livenews/3045885",
           "source": "华尔街见闻-快讯",
@@ -1130,7 +1197,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -1198,7 +1265,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -1236,6 +1303,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2274635",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "金十图示：2026年01月28日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260129050543904800",
           "source": "金十数据",
@@ -1264,7 +1342,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -1341,7 +1419,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -1360,7 +1438,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -1425,8 +1503,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时39分 ~ 21时01分]"
+          "appearance_count": 24,
+          "time_info": "[00时39分 ~ 22时04分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1509,11 +1587,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            13
+            13,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 21时01分]"
+          "appearance_count": 3,
+          "time_info": "[19时33分 ~ 22时04分]"
         },
         {
           "title": "高盛：上调今明两年金价预测",
@@ -1538,6 +1617,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 10时07分]"
+        },
+        {
+          "title": "金价暴涨第一批受害者出现",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "美联储主席鲍威尔：未从金价上涨中解读出太多宏观信息。",
@@ -1598,7 +1688,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "一位前OpenAI高级研究员创办了一家新的人工智能初创公司，目标是筹集高达10亿美元的资金。",
@@ -1620,8 +1710,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 21时01分]"
+          "appearance_count": 3,
+          "time_info": "[19时33分 ~ 22时04分]"
         },
         {
           "title": "OpenAI至少从编码初创公司Cline招聘了七名员工。",
@@ -1641,9 +1731,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
+        },
+        {
+          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
+          "url": "https://www.zhihu.com/question/1999888901490304692",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
@@ -1683,11 +1784,12 @@
           "ranks": [
             27,
             15,
-            14
+            14,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时45分 ~ 21时01分]"
+          "appearance_count": 5,
+          "time_info": "[17时45分 ~ 22时04分]"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
@@ -1710,6 +1812,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数DXY日内大涨1.00%，现报96.72。",
+          "url": "https://flash.jin10.com/detail/20260129030154943800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美元指数涨0.89%，报96.63点。 美元兑日元涨1.12%，美元兑瑞郎涨1.34%。 欧元兑美元跌0.99%，英镑兑美元跌0.55%；澳元跌0.36%，纽元跌0.38%，加元跌0.14%。",
+          "url": "https://wallstreetcn.com/livenews/3045755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "彭博美元即期指数已收复日内0.3%的跌幅。",
+          "url": "https://flash.jin10.com/detail/20260129185347592800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "美国系列数据公布后，现货金银、美元指数DXY波动暂不大。",
+          "url": "https://flash.jin10.com/detail/20260129213207835800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         }
       ]
     },
@@ -1749,45 +1901,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数DXY日内大涨1.00%，现报96.72。",
-          "url": "https://flash.jin10.com/detail/20260129030154943800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "美元指数涨0.89%，报96.63点。 美元兑日元涨1.12%，美元兑瑞郎涨1.34%。 欧元兑美元跌0.99%，英镑兑美元跌0.55%；澳元跌0.36%，纽元跌0.38%，加元跌0.14%。",
-          "url": "https://wallstreetcn.com/livenews/3045755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "彭博美元即期指数已收复日内0.3%的跌幅。",
-          "url": "https://flash.jin10.com/detail/20260129185347592800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
         }
       ]
     },
