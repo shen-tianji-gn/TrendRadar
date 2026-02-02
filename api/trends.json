@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T12:59:16.919120+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-02-02T14:08:34.859790+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
@@ -84,15 +84,16 @@
           "time_info": "[00时32分 ~ 07时27分]"
         },
         {
-          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
-          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
+          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
+          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
           "source": "凤凰网",
           "ranks": [
-            4
+            5,
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时23分 ~ 12时59分]"
+          "time_info": "[12时58分 ~ 14时08分]"
         },
         {
           "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
@@ -106,15 +107,16 @@
           "time_info": "[00时32分 ~ 06时27分]"
         },
         {
-          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
-          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
+          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
+          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
           "source": "凤凰网",
           "ranks": [
-            5
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 14时08分]"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -129,6 +131,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时29分 ~ 07时27分]"
+        },
+        {
+          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
+          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 14时08分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
@@ -203,6 +217,18 @@
           "time_info": "[00时32分 ~ 03时26分]"
         },
         {
+          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
+          "url": "https://www.cls.cn/detail/2277005",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 14时08分]"
+        },
+        {
           "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
           "url": "https://news.ifeng.com/c/8qPOoB0E678",
           "source": "凤凰网",
@@ -213,28 +239,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时23分 ~ 12时59分]"
-        },
-        {
-          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
-          "url": "https://www.cls.cn/detail/2277005",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
-          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
-          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "特朗普：原本可解决拖欠联合国会费的问题",
@@ -302,12 +306,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "美国总统特朗普：格莱美奖是最糟糕的，几乎无法入目。",
+          "url": "https://flash.jin10.com/detail/20260202134832302800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗官员：有关伊斯兰革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。伊斯兰革命卫队并未就将在霍尔木兹海峡举行军事演习发布任何官方公告。（路透）",
@@ -395,6 +410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "武契奇预判48小时内伊朗将遭到美国袭击",
+          "url": "https://news.ifeng.com/c/8qPlpK894Ls",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "伊朗革命卫队海军司令：伊朗人民将继续坚定不移地抵御敌人的阴谋。",
@@ -493,6 +519,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "以美高级军官商讨对伊朗防务安排",
+          "url": "https://wallstreetcn.com/livenews/3048078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
           "title": "伊朗",
           "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -518,8 +555,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 12时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 14时08分]"
         },
         {
           "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
@@ -529,8 +566,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 14时08分]"
+        },
+        {
+          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
+          "url": "https://www.cls.cn/detail/2277020",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时23分 ~ 12时59分]"
+          "time_info": "[12时58分 ~ 14时08分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -545,17 +594,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时26分 ~ 07时27分]"
-        },
-        {
-          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
-          "url": "https://www.cls.cn/detail/2277020",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "金价暴跌后回收变现火爆",
@@ -574,33 +612,36 @@
           "source": "微博",
           "ranks": [
             23,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时23分 ~ 12时59分]"
-        },
-        {
-          "title": "金价暴跌后黄金市场挤满顾客",
-          "url": "https://www.douyin.com/hot/2386891",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 14时08分]"
         },
         {
           "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
           "url": "https://www.zhihu.com/question/1999853811821463456",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 14时08分]"
+        },
+        {
+          "title": "金价暴跌后黄金市场挤满顾客",
+          "url": "https://www.douyin.com/hot/2386891",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 14时08分]"
         },
         {
           "title": "金价震荡 多家银行发布风险提示",
@@ -679,8 +720,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 12时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 14时08分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -707,11 +748,12 @@
           "ranks": [
             6,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 12时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 14时08分]"
         }
       ]
     },
