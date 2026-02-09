@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T13:01:56.102072+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-02-09T15:06:33.979968+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普被白头海雕打脸视频再度火了",
@@ -67,7 +67,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -131,6 +131,17 @@
           "time_info": "[05时29分 ~ 06时29分]"
         },
         {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 15时06分]"
+        },
+        {
           "title": "美国总统特朗普祝贺日本首相高市早苗。",
           "url": "https://flash.jin10.com/detail/20260209071519790800",
           "source": "金十数据",
@@ -142,15 +153,15 @@
           "time_info": "07时34分"
         },
         {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
+          "title": "特朗普大骂美国冬奥运动员",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E7%BE%8E%E5%9B%BD%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            15
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "15时06分"
         }
       ]
     },
@@ -245,7 +256,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -264,7 +275,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价巨震下买黄金的人怎么样了",
@@ -281,13 +292,24 @@
           "time_info": "[02时39分 ~ 07时34分]"
         },
         {
+          "title": "美元走软及抄底买盘推动金价回升至5000美元上方",
+          "url": "https://flash.jin10.com/detail/20260209134001817800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
           "title": "金十图示：2026年02月09日（周一）上海金早盘价为1117.68元/克，较国际金价(1117.33元/克)，高0.35元/克",
           "url": "https://flash.jin10.com/detail/20260209110142108800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         }
@@ -295,7 +317,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
@@ -309,12 +331,23 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时33分 ~ 13时01分]"
+        },
+        {
+          "title": "Kimi K2.5持续霸榜Openrouter，大幅度领先Gemini 3",
+          "url": "https://wallstreetcn.com/livenews/3052107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
@@ -327,6 +360,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时33分 ~ 05时29分]"
+        },
+        {
+          "title": "美元指数DXY短线走低15点，非美货币集体走强，欧元兑美元EUR/USD走高20点。",
+          "url": "https://flash.jin10.com/detail/20260209140215972800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         }
       ]
     }
