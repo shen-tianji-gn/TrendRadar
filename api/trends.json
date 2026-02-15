@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T15:43:15.529844+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-02-15T16:36:00.940908+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时32分 ~ 10时26分]"
+        },
+        {
+          "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
+          "url": "https://news.ifeng.com/c/8ql7NDkYK2B",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时55分 ~ 16时36分]"
         },
         {
           "title": "王毅：特朗普尊重中方 有人想打压中国",
@@ -68,17 +79,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 07时26分]"
-        },
-        {
-          "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
-          "url": "https://news.ifeng.com/c/8ql7NDkYK2B",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时55分 ~ 15时43分]"
         },
         {
           "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
@@ -119,11 +119,24 @@
           "source": "今日头条",
           "ranks": [
             16,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时58分 ~ 15时43分]"
+          "appearance_count": 5,
+          "time_info": "[14时58分 ~ 16时36分]"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%BF%E7%8C%B4+%E5%A5%A5%E5%B7%B4%E9%A9%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时42分 ~ 16时36分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -134,19 +147,41 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时58分 ~ 15时43分]"
+          "appearance_count": 3,
+          "time_info": "[14时58分 ~ 16时36分]"
         },
         {
-          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%BF%E7%8C%B4+%E5%A5%A5%E5%B7%B4%E9%A9%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
           "ranks": [
-            28
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时42分 ~ 15时43分]"
+          "time_info": "[16时35分 ~ 16时36分]"
+        },
+        {
+          "title": "奥巴马回应被特朗普恶搞成猴",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%B4%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
+          "url": "https://www.toutiao.com/trending/7606703474663063593/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
         }
       ]
     },
@@ -165,8 +200,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时25分 ~ 15时43分]"
+          "appearance_count": 11,
+          "time_info": "[10时25分 ~ 16时36分]"
         },
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
@@ -177,8 +212,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时25分 ~ 15时43分]"
+          "appearance_count": 11,
+          "time_info": "[10时25分 ~ 16时36分]"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -247,8 +282,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时58分 ~ 15时43分]"
+          "appearance_count": 3,
+          "time_info": "[14时58分 ~ 16时36分]"
         },
         {
           "title": "据BBC：如果美国愿意讨论解除制裁的问题，伊朗已准备好考虑做出妥协，以与美国达成核协议。",
@@ -259,8 +294,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时58分 ~ 15时43分]"
+          "appearance_count": 3,
+          "time_info": "[14时58分 ~ 16时36分]"
         },
         {
           "title": "伊朗重申和平利用核能权利不可剥夺",
@@ -402,8 +437,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 15时43分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 16时36分]"
         }
       ]
     }
