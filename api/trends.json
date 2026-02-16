@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T15:56:23.807358+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-02-16T16:52:31.480254+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
@@ -68,17 +68,6 @@
           "time_info": "[00时33分 ~ 06时27分]"
         },
         {
-          "title": "伊朗外长：欧洲大国在核谈判中“无关紧要”",
-          "url": "https://flash.jin10.com/detail/20260216155000444800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
           "title": "伊朗官员：已准备好与美谈判方案 但对结果不乐观",
           "url": "https://flash.jin10.com/detail/20260215194121768800",
           "source": "金十数据",
@@ -113,6 +102,17 @@
           "time_info": "[00时33分 ~ 04时29分]"
         },
         {
+          "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32618794",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时11分 ~ 16时52分]"
+        },
+        {
           "title": "抵近伊朗，卫星捕获美航母在阿曼附近活动",
           "url": "https://news.ifeng.com/c/8qmgE0Gd2cL",
           "source": "凤凰网",
@@ -133,6 +133,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时26分 ~ 07时29分]"
+        },
+        {
+          "title": "伊朗外长：欧洲大国在核谈判中“无关紧要”",
+          "url": "https://flash.jin10.com/detail/20260216155000444800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 16时52分]"
         },
         {
           "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
@@ -183,17 +195,6 @@
           "time_info": "[07时29分 ~ 10时22分]"
         },
         {
-          "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32618794",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时11分 ~ 15时56分]"
-        },
-        {
           "title": "美伊新一轮谈判在即 以总理：伊朗必须拆除核设施",
           "url": "https://flash.jin10.com/detail/20260216041408741800",
           "source": "金十数据",
@@ -213,9 +214,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 16时52分]"
         },
         {
           "title": "伊朗高官：愿与美国达成为双方带来经济利益的核协议",
@@ -224,7 +225,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         },
@@ -329,11 +330,12 @@
           "url": "https://news.ifeng.com/c/8qn5bb5LeJE",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 16时52分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
@@ -434,11 +436,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 15时56分]"
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 16时52分]"
         },
         {
           "title": "OpenClaw之父加入OpenAI",
@@ -450,17 +453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
-        },
-        {
-          "title": "OpenAI联合创始人Greg Brockman：Codex的势头强劲，许多人都感受到了5.3版本的巨大飞跃。如果您的组织还没有尝试过Codex，那么值得重新考虑一下。",
-          "url": "https://flash.jin10.com/detail/20260216153508680800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -486,6 +478,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时29分]"
+        },
+        {
+          "title": "OpenAI联合创始人Greg Brockman：Codex的势头强劲，许多人都感受到了5.3版本的巨大飞跃。如果您的组织还没有尝试过Codex，那么值得重新考虑一下。",
+          "url": "https://flash.jin10.com/detail/20260216153508680800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 16时52分]"
         },
         {
           "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
@@ -517,11 +521,12 @@
           "url": "https://flash.jin10.com/detail/20260216153347079800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 16时52分]"
         }
       ]
     },
@@ -539,8 +544,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 15时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时33分 ~ 16时52分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -571,7 +576,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         },
@@ -582,7 +587,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         }
@@ -610,11 +615,12 @@
           "url": "https://wallstreetcn.com/articles/3765769",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 16时52分]"
         }
       ]
     },
