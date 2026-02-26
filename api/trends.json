@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T21:09:53.183654+08:00",
-  "total_titles_processed": 1744,
+  "generated_at": "2026-02-26T22:49:35.162911+08:00",
+  "total_titles_processed": 1877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 55,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时51分 ~ 21时09分]"
+          "appearance_count": 9,
+          "time_info": "[16时51分 ~ 22时49分]"
         },
         {
           "title": "中方正密切关注伊朗局势发展",
@@ -25,11 +25,12 @@
           "ranks": [
             2,
             3,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时51分 ~ 21时09分]"
+          "appearance_count": 9,
+          "time_info": "[16时51分 ~ 22时49分]"
         },
         {
           "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
@@ -39,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时52分 ~ 21时09分]"
+          "appearance_count": 7,
+          "time_info": "[17时52分 ~ 22时49分]"
         },
         {
           "title": "如果美国对伊朗发动攻击，中国是否会和俄罗斯一道支持伊朗？外交部回应",
@@ -106,7 +107,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -261,6 +262,17 @@
           "time_info": "[17时52分 ~ 17时53分]"
         },
         {
+          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 22时49分]"
+        },
+        {
           "title": "学者：伊朗的战略选择将牵动全球格局",
           "url": "https://www.toutiao.com/trending/7610998592697798194/",
           "source": "今日头条",
@@ -382,6 +394,28 @@
           "time_info": "04时38分"
         },
         {
+          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
+          "url": "https://wallstreetcn.com/livenews/3059622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "一图看懂｜新一轮谈判在即，美军如何在伊朗周边布阵？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32657969",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "伊朗",
           "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -393,15 +427,37 @@
           "time_info": "19时41分"
         },
         {
+          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
+          "url": "https://flash.jin10.com/detail/20260226215817198800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "市场消息：伊朗-美国核谈判暂停，预计将在日内瓦时间下午晚些时候恢复。",
           "url": "https://flash.jin10.com/detail/20260226201938260800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
+        },
+        {
+          "title": "伊朗外交部发言人：一些美国官员的言论相互矛盾，这让人对他们的认真程度产生怀疑。",
+          "url": "https://flash.jin10.com/detail/20260226215745907800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "美财政部发布涉伊朗最新制裁名单",
@@ -415,13 +471,24 @@
           "time_info": "05时37分"
         },
         {
+          "title": "伊朗外交部发言人：在核领域以及制裁解除方面，双方提出了非常重要且切实可行的提议，并且双方都认真地推进了相关讨论。",
+          "url": "https://flash.jin10.com/detail/20260226215635036800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "伊朗官员：若伊美谈判核心为伊朗不发展核武器 有望迅速达成协议",
           "url": "https://wallstreetcn.com/livenews/3059554",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -459,24 +526,13 @@
           "time_info": "16时52分"
         },
         {
-          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
           "title": "伊朗媒体说伊美新一轮间接谈判暂停",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E8%AF%B4%E4%BC%8A%E7%BE%8E%E6%96%B0%E4%B8%80%E8%BD%AE%E9%97%B4%E6%8E%A5%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -536,6 +592,28 @@
           "time_info": "16时52分"
         },
         {
+          "title": "伊朗方面表示，希望接下来谈判重点放在核问题和制裁上。",
+          "url": "https://flash.jin10.com/detail/20260226215146299800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们在阿曼外长和国际原子能机构总干事格罗西的陪同下进行了近3小时的密集谈判。",
+          "url": "https://flash.jin10.com/detail/20260226215132231800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "阿曼外交部：外交部长在日内瓦与国际原子能机构总干事格罗西举行了会议，讨论与伊朗核问题相关的技术事务，并就伊朗与美国之间目前正在谈判的新想法进行意见交流。",
           "url": "https://flash.jin10.com/detail/20260226160237755800",
           "source": "金十数据",
@@ -550,7 +628,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
@@ -620,8 +698,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时58分 ~ 21时09分]"
+          "appearance_count": 12,
+          "time_info": "[13时58分 ~ 22时49分]"
         },
         {
           "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
@@ -635,6 +713,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[16时51分 ~ 19时41分]"
+        },
+        {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时49分 ~ 22时49分]"
         },
         {
           "title": "美国总统特朗普与乌克兰总统泽连斯基通电话。（Axios）",
@@ -686,19 +777,6 @@
           "time_info": "[06时36分 ~ 07时29分]"
         },
         {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时49分 ~ 21时09分]"
-        },
-        {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
           "url": "https://news.ifeng.com/c/8r3yuvat2ge",
           "source": "凤凰网",
@@ -707,8 +785,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时50分 ~ 21时09分]"
+          "appearance_count": 4,
+          "time_info": "[18时50分 ~ 22时49分]"
         },
         {
           "title": "特朗普把国情咨文演讲开成吹牛大会",
@@ -791,6 +869,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "特朗普政府劳工部提出有利于零工经济的工人身份认定规则。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3059618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "日本央行行长植田和男：预计美国总统特朗普的新关税措施不会对日本经济产生重大影响，但将密切关注事态发展。",
           "url": "https://flash.jin10.com/detail/20260226060340987800",
           "source": "金十数据",
@@ -819,7 +908,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -841,7 +930,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -871,7 +960,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -894,8 +983,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时29分 ~ 21时09分]"
+          "appearance_count": 17,
+          "time_info": "[07时29分 ~ 22时49分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
@@ -959,6 +1048,28 @@
           "time_info": "[05时37分 ~ 06时36分]"
         },
         {
+          "title": "英伟达“答卷”难解AI担忧，美股三大期指集体下跌，存储盘前走强，金涨银跌，WTI原油一度跌逾2%",
+          "url": "https://wallstreetcn.com/articles/3766225",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2296406",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260226050531438800",
           "source": "金十数据",
@@ -1003,6 +1114,17 @@
           "time_info": "17时53分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3059616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "唯品会第四财季调整后每ADS收益5.66元人民币，上年同期5.70元人民币，市场预估5.43元人民币。 第四财季活跃用户数4,530万，同比下降0.9%，市场预估4,608万。 第四财季净营收324.7亿元人民币，同比下降2.3%，市场预估334.9亿元人民币。 预计第一财季净营收263亿元人民币至276亿元人民币，市场预估268.3亿元人民币。 唯品会美股盘前涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3059496",
           "source": "华尔街见闻-快讯",
@@ -1036,6 +1158,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "Stellantis美股盘前涨超4%，报道称公司考虑引入零跑汽车技术，降低欧洲电动车成本。",
+          "url": "https://wallstreetcn.com/livenews/3059610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "半导体ETF涨1.63%，全球科技股指数ETF涨1.07%，科技行业ETF涨0.88%，在美股盘初领跑行业ETF。",
           "url": "https://wallstreetcn.com/livenews/3058936",
           "source": "华尔街见闻-快讯",
@@ -1045,6 +1178,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "赫兹租车第四季度总营收20.3亿美元，市场预期20亿美元。 第四季度调整后每股亏损63美分，市场预期每股亏损52美分。 赫兹租车美股盘前跌近10%。",
+          "url": "https://wallstreetcn.com/livenews/3059601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股盘中）",
@@ -1061,7 +1205,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "谷歌：Chat现在成为Gemini APP的一个数据源。",
@@ -1110,6 +1254,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时47分 ~ 04时38分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：我们正在全球范围内扩大AI Max平台文本指南的测试版访问权限，面向所有广告主开放。",
+          "url": "https://flash.jin10.com/detail/20260226220731595800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
@@ -1203,8 +1358,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "OpenAI表示，目前在使用ChatGPT时出现了一些问题。",
+          "url": "https://flash.jin10.com/detail/20260226221500966800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
         {
           "title": "英伟达CEO黄仁勋：公司即将与OpenAI达成合作协议。",
           "url": "https://flash.jin10.com/detail/20260226062302497800",
@@ -1228,6 +1394,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 03时16分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前发生故障。",
+          "url": "https://wallstreetcn.com/livenews/3059629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "OpenAI聘请Meta公司的AI研究员庞若鸣，他曾领导苹果的模型团队。",
