@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T07:15:16.867984+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-05-21T11:51:01.080408+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 38,
       "titles": [
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
@@ -37,8 +37,85 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 07时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 11时51分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
+          "url": "https://wallstreetcn.com/articles/3772754",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "特朗普，“退了一万亿”",
+          "url": "https://news.ifeng.com/c/8tIcotw8V5W",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "特朗普：不要中国学生，那可太冒犯了",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2377369",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
           "title": "特朗普继续口头威胁伊朗",
@@ -352,7 +429,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "美参议员格雷厄姆：希望伊朗冲突以外交方式解决",
@@ -412,6 +489,17 @@
           "time_info": "[05时55分 ~ 07时15分]"
         },
         {
+          "title": "美以袭击伊朗进入第 83 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040565738411221984",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
           "title": "伊朗提出与阿曼合作建设霍尔木兹海峡长期安全机制",
           "url": "https://wallstreetcn.com/livenews/3106881",
           "source": "华尔街见闻-快讯",
@@ -429,7 +517,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -445,13 +533,24 @@
           "time_info": "03时26分"
         },
         {
+          "title": "伊朗外交部称“正在评估”美方最新谈判意见",
+          "url": "https://flash.jin10.com/detail/20260521111006698800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "美军在阿曼湾登船搜查一艘伊朗油轮",
           "url": "https://flash.jin10.com/detail/20260521061556986800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -484,7 +583,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -498,6 +597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "分析师指出，受伊朗战争导致石油出口受阻的影响，沙特被迫关闭了部分油田，进而导致天然气供应中断，预计今年夏季，沙特将因此燃烧更多进口燃料油用于发电。",
+          "url": "https://flash.jin10.com/detail/20260521110018707800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "荷兰天然气期货跌5.8%，至49欧元下方，投资者紧盯美国与伊朗对话的动向。",
@@ -536,7 +646,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
@@ -546,8 +656,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时14分 ~ 11时51分]"
+        },
+        {
+          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
+          "url": "https://www.cls.cn/detail/2377339",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时14分 ~ 07时15分]"
+          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
           "title": "周三（5月20日），美股AI软件先驱指数涨0.69%，报108.06点，成分股C3.ai涨5.10%领跑。",
@@ -670,7 +791,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -681,7 +802,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -703,7 +824,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         }
@@ -711,7 +832,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "据The Information：白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
@@ -723,6 +844,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "OpenAI最快本周秘密递表，不想让华尔街的钱全流向马斯克？",
+          "url": "https://flash.jin10.com/detail/20260521113142876800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "报道：OpenAI准备未来数日、或数周递交IPO申请",
@@ -890,7 +1022,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
@@ -903,6 +1035,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时53分 ~ 07时15分]"
+        },
+        {
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
           "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -967,6 +1110,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年05月21日（周四）上海金早盘价为998元/克，较国际金价(991.57元/克)，高6.43元/克",
+          "url": "https://flash.jin10.com/detail/20260521110600907800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         }
       ]
     }
