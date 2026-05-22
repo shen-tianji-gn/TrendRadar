@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T17:27:30.794863+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-05-22T20:20:28.872975+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -101,6 +101,28 @@
           "time_info": "[13时02分 ~ 17时27分]"
         },
         {
+          "title": "特朗普声称要与赖清德通话，美媒分析后果",
+          "url": "https://news.ifeng.com/c/8tKs2cfjitj",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：沃什将使美联储回归本源。 沃什将恢复美联储的独立性。 特朗普相信沃什会以数据为依据。 存在石油冲击传导至核心通胀的风险。 美联储必须密切关注油价波动。",
+          "url": "https://wallstreetcn.com/livenews/3108041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
           "url": "https://news.ifeng.com/c/8tHcLpLqPgM",
           "source": "凤凰网",
@@ -118,7 +140,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -169,6 +191,17 @@
           "time_info": "[13时02分 ~ 17时27分]"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普相信即将上任美联储主席的沃什将会依据数据做出决策。",
+          "url": "https://flash.jin10.com/detail/20260522201007044800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "消息人士称，美国国土安全部部长马林警告航空公司高管，特朗普政府可能暂停部分“庇护城市”机场的国际旅行处理服务。",
           "url": "https://flash.jin10.com/detail/20260522053538980800",
           "source": "金十数据",
@@ -180,13 +213,24 @@
           "time_info": "06时20分"
         },
         {
+          "title": "阿联酋与沙特阿拉伯和卡塔尔一道，敦促特朗普不要重启对伊战争。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3108028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
           "url": "https://wallstreetcn.com/articles/3772862",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -219,7 +263,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -301,6 +345,17 @@
           "time_info": "06时20分"
         },
         {
+          "title": "特朗普在社交媒体帖子中称赞股市表现：股市创下新纪录。",
+          "url": "https://wallstreetcn.com/livenews/3108013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "美国总统特朗普：今天在能源和商务委员会就一项包括《阳光保护法案》在内的法案进行了重大投票（48票赞成，1票反对）！该法案将使夏令时永久化！",
           "url": "https://flash.jin10.com/detail/20260522065515179800",
           "source": "金十数据",
@@ -329,7 +384,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -373,7 +428,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -398,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
+        },
+        {
+          "title": "阿联酋据悉加入沙特及卡塔尔阵营 呼吁特朗普勿重启对伊战争",
+          "url": "https://flash.jin10.com/detail/20260522200014755800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "美国总统特朗普：我推迟了人工智能（AI）行政命令签字仪式的会议。 不喜欢行政命令中的某些内容。 AI行政命令可能会妨碍美国在AI领域保持领先地位。",
@@ -428,7 +494,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -447,7 +513,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -468,11 +534,12 @@
           "ranks": [
             18,
             16,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时59分 ~ 17时27分]"
+          "appearance_count": 9,
+          "time_info": "[01时59分 ~ 20时20分]"
         },
         {
           "title": "伊朗最高领袖：接近武器级的铀得留下",
@@ -497,6 +564,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
+        },
+        {
+          "title": "鲁比奥：伊朗问题确实有一些进展",
+          "url": "https://news.ifeng.com/c/8tKwzchzUFC",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "据伊朗学生通讯社：（美伊）信息交流旨在达成协议框架。",
@@ -579,6 +657,17 @@
           "time_info": "02时00分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗任命外交部发言人巴加埃担任谈判团队发言人。",
+          "url": "https://flash.jin10.com/detail/20260522200931630800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "沙特阿拉伯卫星电视台：伊朗媒体报道称美伊协议已达成并将此消息源归于本台的说法是捏造的。 伊朗媒体在未经核实的情况下将相关报道归于本台的行为属于新闻失实。",
           "url": "https://wallstreetcn.com/livenews/3107624",
           "source": "华尔街见闻-快讯",
@@ -618,7 +707,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -640,7 +729,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -673,7 +762,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         }
@@ -681,7 +770,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
@@ -695,6 +784,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时20分 ~ 13时02分]"
+        },
+        {
+          "title": "美股指数期货短线拉升，标普500指数期货上涨0.4%。",
+          "url": "https://flash.jin10.com/detail/20260522201407268800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股盘中）",
@@ -732,6 +832,17 @@
           "time_info": "[06时20分 ~ 08时04分]"
         },
         {
+          "title": "AI浪潮提振全球股市，美股期指齐涨，存储芯片股走低，老虎证券盘前大跌40%，美伊僵局推升油价",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "“三巨头”竞相登陆华尔街，美股或迎“强制大换血”",
           "url": "https://flash.jin10.com/detail/20260522121130127800",
           "source": "金十数据",
@@ -749,7 +860,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -782,7 +893,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -804,7 +915,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -815,7 +926,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -826,7 +937,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -837,7 +948,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -870,6 +981,18 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 20时20分]"
+        },
+        {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
           "url": "https://wallstreetcn.com/articles/3772708",
           "source": "华尔街见闻",
@@ -890,18 +1013,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时59分 ~ 06时20分]"
-        },
-        {
-          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
-          "url": "https://wallstreetcn.com/articles/3772777",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 17时27分]"
         },
         {
           "title": "传美伊最终协议草案达成 美债收益率走低",
@@ -944,7 +1055,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         }
@@ -1075,7 +1186,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "不小心把DeepSeek叫成豆包",
@@ -1088,6 +1199,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时59分 ~ 04时06分]"
+        },
+        {
+          "title": "据The Information：宁德时代计划投资DeepSeek。",
+          "url": "https://flash.jin10.com/detail/20260522195855222800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果谷歌英伟达，集体松了口气",
+          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     },
