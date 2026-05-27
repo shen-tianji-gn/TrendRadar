@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T17:52:25.721695+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-05-27T20:54:19.125706+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 42,
       "titles": [
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
@@ -90,6 +90,52 @@
           "time_info": "[02时27分 ~ 08时06分]"
         },
         {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 20时54分]"
+        },
+        {
+          "title": "伊朗官员称美国将在所有战线停火60天",
+          "url": "https://news.ifeng.com/c/8tTBSVzined",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "伊媒：文件披露，美军事力量将撤出伊朗周边",
+          "url": "https://news.ifeng.com/c/8tTRdrF2SL8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "伊朗情报部：敌方正通过“软战争”向伊朗施压",
+          "url": "https://news.ifeng.com/c/8tTK6rP01M9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
           "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
           "url": "https://wallstreetcn.com/articles/3773097",
           "source": "华尔街见闻",
@@ -101,13 +147,24 @@
           "time_info": "[02时27分 ~ 04时54分]"
         },
         {
+          "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
+          "url": "https://wallstreetcn.com/articles/3773227",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
           "title": "伊朗情报部说敌方正通过软战争施压",
           "url": "https://wallstreetcn.com/livenews/3110002",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -158,16 +215,15 @@
           "time_info": "[02时27分 ~ 08时06分]"
         },
         {
-          "title": "王毅谈当前伊朗局势僵局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
-          "source": "澎湃新闻",
+          "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
+          "url": "https://wallstreetcn.com/articles/3773194",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            5
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时16分 ~ 17时52分]"
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "伊朗公布击落美MQ-9死神无人机画面",
@@ -214,13 +270,24 @@
           "time_info": "02时27分"
         },
         {
+          "title": "伊美谅解备忘录初步非正式文件内容披露：伊朗将于一个月内恢复霍尔木兹海峡商业船只通行量",
+          "url": "https://wallstreetcn.com/livenews/3110063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "韩国称霍尔木兹海峡船只遇袭事件可能涉及伊朗导弹",
           "url": "https://flash.jin10.com/detail/20260527172828121800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -236,13 +303,35 @@
           "time_info": "13时16分"
         },
         {
+          "title": "欧洲央行副行长金多斯：6月会议必须考虑伊朗战争对经济增长的影响",
+          "url": "https://wallstreetcn.com/livenews/3110077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "据伊朗国家电视台：已有一份与美国的初步非正式谅解备忘录草案。",
+          "url": "https://flash.jin10.com/detail/20260527201856027800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "伊朗称美将在所有战线停火60天",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%9C%A8%E6%89%80%E6%9C%89%E6%88%98%E7%BA%BF%E5%81%9C%E7%81%AB60%E5%A4%A9",
           "source": "百度热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -264,7 +353,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -313,6 +402,17 @@
           "time_info": "08时06分"
         },
         {
+          "title": "伊朗称敌对国家船只仍被禁止通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3110061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "伊朗民众：美方言行不可信 必须保持高度警惕",
           "url": "https://flash.jin10.com/detail/20260527070124074800",
           "source": "金十数据",
@@ -330,7 +430,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -382,7 +482,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
@@ -399,6 +499,19 @@
           "time_info": "[02时27分 ~ 17时52分]"
         },
         {
+          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
+          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 20时54分]"
+        },
+        {
           "title": "特朗普提了一个非分要求",
           "url": "https://news.ifeng.com/c/8tSb04uTeLk",
           "source": "凤凰网",
@@ -411,16 +524,15 @@
           "time_info": "[08时05分 ~ 17时52分]"
         },
         {
-          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
-          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
+          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
+          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
           "source": "凤凰网",
           "ranks": [
-            2,
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时16分 ~ 17时52分]"
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "美国贸易代表格里尔：特朗普10%全球关税7月到期后或重新征收",
@@ -670,7 +782,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
@@ -709,6 +821,39 @@
           "time_info": "[02时27分 ~ 08时06分]"
         },
         {
+          "title": "WTI原油日内跌幅达6.0%，报88.12美元/桶；布伦特原油跌近5%，报91.98美元/桶。 美股期货走高，纳斯达克100指数期货涨1%，美国联合航空、美国航空、达美航空股价盘前上涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/3110090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "美股期货短线拉升，道指期货涨约0.3%，标普500指数期货涨0.4%，纳指期货涨近0.9%。",
+          "url": "https://flash.jin10.com/detail/20260527202936094800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "美股石油股盘前下跌，埃克森美孚跌1.4%，雪佛龙跌1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3110088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
           "url": "https://wallstreetcn.com/livenews/3109648",
           "source": "华尔街见闻-快讯",
@@ -733,6 +878,17 @@
           "time_info": "[04时54分 ~ 06时21分]"
         },
         {
+          "title": "AI热潮推动下，美股期指涨幅扩大，盘前美光涨近10%，石油股下跌，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
           "title": "Zscaler第三财季营收8.505亿美元，分析师预期8.353亿美元。 第三财季年化持续经营收入35.3亿美元，分析师预期35.1亿美元。 第三财季调整后EPS为1.08美元，分析师预期1.01美元。 预计第四财季营收8.75亿-8.78亿美元，分析师预期8.791亿美元。 Zscaler美股盘后跌9%。",
           "url": "https://wallstreetcn.com/livenews/3109642",
           "source": "华尔街见闻-快讯",
@@ -754,6 +910,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "美光科技美股盘前涨近10%，前一交易日收涨超19%。",
+          "url": "https://wallstreetcn.com/livenews/3110081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股收盘）",
@@ -809,12 +976,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘前延续涨势，一度涨9.9%。",
+          "url": "https://flash.jin10.com/detail/20260527200458116800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "Bath & Body Works第一季度调整后每股收益0.32美元，上年同期0.49美元，预估0.29美元。 第一季度每股收益0.90美元，上年同期0.49美元。 第一季度销售净额13.8亿美元，同比下降3.2%，预估13.6亿美元。 第一季度调整后运营收益1.51亿美元，预估1.419亿美元。 Bath & Body Works仍然预测全年调整后每股收益2.40美元至2.65美元。 Bath & Body Works美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3110049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
@@ -826,6 +1015,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 04时54分]"
+        },
+        {
+          "title": "布伦特原油日内跌幅达4%，报92.78美元/桶。 WTI原油日内跌幅达5.5%，报88.69美元/桶。 现货黄金5分钟内上涨28.58美元/盎司，报4457.7美元/盎司。 美债收益率扩大跌幅，30年期收益率下跌3个基点至4.99%。 欧洲斯托克600指数涨0.6%，刷新日高。 伊朗电视台称获得了非官方的美伊谅解备忘录草案。",
+          "url": "https://wallstreetcn.com/livenews/3110086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "美债收益率继续下跌，30年期收益率下降3个基点至4.99%。",
+          "url": "https://flash.jin10.com/detail/20260527202445540800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "2/10年期美债收益率跌约7个基点",
@@ -853,8 +1064,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美元指数DXY失守99，日内跌幅0.15%。纽元兑美元NZD/USD突破0.59，日内涨1.09%。",
+          "url": "https://flash.jin10.com/detail/20260527202225371800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
         {
           "title": "周二（5月26日）纽约尾盘，ICE美元指数跌0.07%，报99.172点，日内交投区间为99.009-99.251点。 彭博美元指数涨0.15%，报1201.38点，日内交投区间为1199.58-1202.25点。 美元兑日元涨0.26%，报159.32日元，日内交投区间为158.86-159.38日元。",
           "url": "https://wallstreetcn.com/livenews/3109629",
@@ -907,7 +1129,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         }
@@ -924,7 +1146,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         }
