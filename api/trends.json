@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T11:39:00.847474+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-06-25T15:43:36.125329+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时05分 ~ 07时05分]"
+        },
+        {
+          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
+          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "美国总统特朗普：今天，与多家石油公司会谈。 石油公司对汽油的降价力度还不够。 埃克森美孚、雪佛龙等多家公司正被调查，这是汽油价格飙涨问题的一部分。",
@@ -139,8 +150,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 15时43分]"
         },
         {
           "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
@@ -174,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普炮轰石油公司“宰客”：汽油价格降得太慢太少，要求司法部调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33445001",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "据CBS：特朗普拟推动将15%乙醇汽油混合燃料政策永久化。",
@@ -237,7 +259,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         },
@@ -344,7 +366,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -404,22 +426,23 @@
           "time_info": "[01时05分 ~ 05时24分]"
         },
         {
+          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
+          "url": "https://www.zhihu.com/question/2053109056487822677",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 15时43分]"
+        },
+        {
           "title": "贝森特：伊朗谈判纳入美元结算要求，经济增长有望年内重返3%",
           "url": "https://wallstreetcn.com/articles/3775417",
           "source": "华尔街见闻",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
-        },
-        {
-          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
-          "url": "https://www.zhihu.com/question/2053109056487822677",
-          "source": "知乎",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -492,6 +515,17 @@
           "time_info": "03时47分"
         },
         {
+          "title": "伊拉克高级官员：由于伊朗战争导致石油出口急剧下降，伊拉克正面临严重的金融危机，其欧佩克配额增加应受到高度重视。",
+          "url": "https://flash.jin10.com/detail/20260625152120685800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
           "title": "伊朗外交部发言人：美国就谅解备忘录发表自相矛盾的声明，无助于减少伊朗民众的不信任感。",
           "url": "https://flash.jin10.com/detail/20260625031505152800",
           "source": "金十数据",
@@ -553,7 +587,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         },
@@ -611,6 +645,18 @@
           "time_info": "[01时05分 ~ 07时05分]"
         },
         {
+          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
+          "url": "https://www.cls.cn/detail/2408510",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时04分 ~ 15时43分]"
+        },
+        {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
           "url": "https://wallstreetcn.com/articles/3775351",
           "source": "华尔街见闻",
@@ -622,16 +668,15 @@
           "time_info": "[01时05分 ~ 05时24分]"
         },
         {
-          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
-          "url": "https://www.cls.cn/detail/2408510",
+          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
+          "url": "https://www.cls.cn/detail/2408547",
           "source": "财联社热门",
           "ranks": [
-            3,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时04分 ~ 11时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 15时43分]"
         },
         {
           "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
@@ -644,17 +689,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时05分 ~ 11时39分]"
-        },
-        {
-          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
-          "url": "https://www.cls.cn/detail/2408547",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
         },
         {
           "title": "金十图示：2026年06月24日（周三）美股热门股票行情一览（美股盘中）",
@@ -748,7 +782,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌将Gemini 3.5 Pro发布日期推后至7月份。 因为他们还在花更多时间收集早期测试者的反馈并调整模型。（Business Insider）",
@@ -782,6 +816,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "谷歌前CEO批中国AI开源",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         }
       ]
     },
@@ -794,22 +839,24 @@
           "url": "https://www.cls.cn/detail/2408544",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 15时43分]"
         },
         {
           "title": "现货黄金价格跌破4000美元大关",
           "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 15时43分]"
         },
         {
           "title": "现货黄金价格跌破4000美元大关",
