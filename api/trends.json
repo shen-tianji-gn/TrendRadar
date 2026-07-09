@@ -1,11 +1,790 @@
 {
-  "generated_at": "2026-07-09T12:54:44.575241+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2026-07-09T20:02:50.120342+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 69,
+      "titles": [
+        {
+          "title": "战火重燃，伊朗革命卫队处境艰难",
+          "url": "https://news.ifeng.com/c/8uafqJ3uQLL",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 08时11分]"
+        },
+        {
+          "title": "伊朗军方：若美国真的发动大规模战争，将会得到“惊喜”",
+          "url": "https://news.ifeng.com/c/8ubLc8RWA0y",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 06时07分]"
+        },
+        {
+          "title": "美军称开始对伊朗发动系列打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 06时07分]"
+        },
+        {
+          "title": "伊朗披露美军袭击造成的伤亡情况",
+          "url": "https://news.ifeng.com/c/8ubSBCWN8eN",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 04时22分]"
+        },
+        {
+          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
+          "url": "https://wallstreetcn.com/articles/3776409",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 04时22分]"
+        },
+        {
+          "title": "伊朗将大规模打击美军基地",
+          "url": "https://news.ifeng.com/c/8ubgRgsi7fb",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时07分 ~ 08时11分]"
+        },
+        {
+          "title": "伊朗南部多地再响爆炸声",
+          "url": "https://news.ifeng.com/c/8ubgRgsi7ZZ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "最新消息丨美军再对伊朗实施打击，“规模超前几天”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "伊朗向美军事基地发射导弹",
+          "url": "https://wallstreetcn.com/livenews/3131352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：班达尔阿巴斯附近防空系统正在拦截“敌对目标”。",
+          "url": "https://flash.jin10.com/detail/20260709040414478800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "报道：伊朗南部Bandar Abbas地区传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3130874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "伊朗民众：美伊备忘录只是一纸空文，支持本国自卫",
+          "url": "https://news.ifeng.com/c/8uc3IRm0BcK",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "据CNN：美国官员表示，当前伊朗局势仍处于快速变化之中，美军未来可能继续对伊朗目标发动打击。该官员称，美军此次打击主要针对可用于攻击美国军事资产的导弹、无人机设施，以及可能威胁霍尔木兹海峡航运安全的相关目标。",
+          "url": "https://flash.jin10.com/detail/20260709053346907800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗布什尔省阿萨卢耶市贝努德村一处渔船码头遭轰炸。",
+          "url": "https://flash.jin10.com/detail/20260709193743947800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "伊朗称美军空袭布什尔省已致3人死亡",
+          "url": "https://wallstreetcn.com/livenews/3131349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "伊朗媒体IRNA：美国空袭伊朗布什尔罕的军事基地。",
+          "url": "https://wallstreetcn.com/livenews/3130902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "伊朗阿巴斯港传出多次爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3131348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "伊朗阿巴斯港传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3130875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 06时07分]"
+        },
+        {
+          "title": "美军时隔10天再袭伊朗",
+          "url": "https://www.douyin.com/hot/2562712",
+          "source": "抖音",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 06时07分]"
+        },
+        {
+          "title": "24小时内第二轮！美军宣布对伊朗发动新一轮袭击",
+          "url": "https://www.cls.cn/detail/2421013",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时07分 ~ 12时54分]"
+        },
+        {
+          "title": "消息人士：若美国发动袭击 伊朗将关闭霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3130819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 02时18分]"
+        },
+        {
+          "title": "伊朗称将大规模打击美军基地",
+          "url": "https://www.toutiao.com/trending/7659929891621584946/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时10分 ~ 12时54分]"
+        },
+        {
+          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
+          "url": "https://www.zhihu.com/question/2058125610363401206",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 06时07分]"
+        },
+        {
+          "title": "伊朗：将大规模打击美军基地",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%89%93%E5%87%BB%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 08时11分]"
+        },
+        {
+          "title": "美军对伊朗发动强力打击",
+          "url": "https://www.toutiao.com/trending/7658946132311867455/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 06时07分]"
+        },
+        {
+          "title": "美军称再次对伊朗发起打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 20时02分]"
+        },
+        {
+          "title": "美军对伊朗发动新一轮打击，伊朗称将很快反击，美伊为何突然再次撕破脸？美方军事行动背后有何盘算？",
+          "url": "https://www.zhihu.com/question/2058455554222027217",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 20时02分]"
+        },
+        {
+          "title": "据伊朗媒体：伊朗南部拉旺岛传出巨大爆炸声。<br/>",
+          "url": "https://flash.jin10.com/detail/20260709035932101800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗防空系统在该国南部击落一架“敌方无人机”。",
+          "url": "https://flash.jin10.com/detail/20260709052437706800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "伊朗媒体：霍尔木兹甘省多个地区传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260709035541529800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "伊朗最高领袖顾问雷扎伊：侵略者及其帮凶将受到严厉惩罚。",
+          "url": "https://flash.jin10.com/detail/20260709051830572800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "美军空袭伊朗胡齐斯坦省已致3死多伤",
+          "url": "https://flash.jin10.com/detail/20260709122446545800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "据伊朗学生通讯社：恰巴哈尔三条电力线路中已有两条恢复运行，第三条线路即将恢复。",
+          "url": "https://flash.jin10.com/detail/20260709051245873800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗锡里克岛防空系统已启动。",
+          "url": "https://flash.jin10.com/detail/20260709035439234800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "据伊朗国家电视台：阿巴斯港传出8次爆炸声，其中两枚投射物击中锡里克港，另有两枚在贾斯克港爆炸。",
+          "url": "https://flash.jin10.com/detail/20260709051206218800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "伊朗称美军袭击造成8名伊朗军人死亡",
+          "url": "https://wallstreetcn.com/livenews/3130813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社报道，当地时间7月8日深夜，伊朗南部霍尔木兹甘省首府阿巴斯港传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260709035225629800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "据伊朗Press TV：美军打击波及伊朗恰巴哈尔港区，沙希德·贝赫什蒂港、卡兰塔里港及海上交通控制塔出现部分损毁。",
+          "url": "https://flash.jin10.com/detail/20260709050923821800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "伊拉克同意，停止向支持伊朗的那些武装人员提供美元资金。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3130864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "据伊朗媒体：美军袭击恰巴哈尔期间，弹片波及当地伊玛目阿里医院；当地电力公司表示，袭击导致三条电力线路中断，目前已有两条恢复供电。",
+          "url": "https://flash.jin10.com/detail/20260709050822429800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "伊朗副外长：美国近期行动不会不了了之，伊朗将作出回应。",
+          "url": "https://flash.jin10.com/detail/20260709034855937800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：周三晚间有消息称美国对拉万岛发动袭击，但经向霍尔木兹甘省政府消息人士核实，该说法“完全不实”。消息称，截至午夜，拉万岛未发生任何袭击或目标命中事件，岛上石油设施均正常运转，未受到影响。",
+          "url": "https://flash.jin10.com/detail/20260709050703137800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗南部班达尔阿巴斯传出爆炸声，当地防空系统被启动。",
+          "url": "https://flash.jin10.com/detail/20260709034813185800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "伊朗外长与卡塔尔首相通话，强调外交渠道解决地区问题",
+          "url": "https://wallstreetcn.com/livenews/3130856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "伊朗将大规模打击美军基地",
+          "url": "https://wallstreetcn.com/livenews/3130891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "美军驻约旦基地遭伊朗袭击",
+          "url": "https://wallstreetcn.com/livenews/3131336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "伊朗外交部指责美国违反谅解备忘录",
+          "url": "https://flash.jin10.com/detail/20260709015736141800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗阿布穆萨岛附近传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260709045451077800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "美国副总统万斯声称：伊朗核计划被摧毁了。 如果他们（伊朗）射击我们的船只，美国将采取行动。 如果伊朗试图关闭霍尔木兹海峡，美方将做出反应。",
+          "url": "https://wallstreetcn.com/livenews/3130859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "伊媒：伊朗防御系统正在应对美军打击",
+          "url": "https://wallstreetcn.com/livenews/3130890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：美国对伊朗发动袭击期间，投射物碎片击中了恰巴哈尔伊玛目阿里医院。",
+          "url": "https://flash.jin10.com/detail/20260709045228012800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "据CNN：美国海军称，截至周三，美军在伊朗附近部署至少19艘军舰。",
+          "url": "https://flash.jin10.com/detail/20260709044914881800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "伊朗代表致函联合国 强烈谴责美国侵略行径",
+          "url": "https://wallstreetcn.com/livenews/3131064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "万斯警告伊朗：若封锁霍尔木兹海峡将面临军事回应",
+          "url": "https://flash.jin10.com/detail/20260709033201821800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "伊朗副外长：美国要求以不符合谅解备忘录的方式恢复霍尔木兹海峡南部通道，伊朗无法接受，美国近期敌对行动将受到回应。",
+          "url": "https://flash.jin10.com/detail/20260709044344014800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "美军连续第二天袭击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3130887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "据伊朗努尔新闻(Nour News)：消息人士称，美国对布什尔地区的袭击未对核电站造成任何损害。",
+          "url": "https://flash.jin10.com/detail/20260709044050815800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "报道：伊朗袭击位于科威特和巴林的美军基地",
+          "url": "https://wallstreetcn.com/livenews/3131061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "美军完成对伊朗的新一轮打击",
+          "url": "https://wallstreetcn.com/livenews/3131060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "伊朗将大规模打击美军基地",
+          "url": "https://flash.jin10.com/detail/20260709043907829800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "伊媒：伊朗阿巴斯港传出爆炸声",
+          "url": "https://flash.jin10.com/detail/20260709192905737800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "【伊朗媒体：布什尔核电站周边区域遭美军袭击】伊朗媒体9日援引布什尔省副省长的话说，当日下午，布什尔省多地遭美军袭击，其中包括布什尔核电站周边区域。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3131324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "据以色列i24News：美国官员称，今晚对伊朗的攻击范围比前一天的打击行动更广泛。",
+          "url": "https://flash.jin10.com/detail/20260709043835377800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "据沙特阿拉伯阿拉比亚电视台：伊朗革命卫队称，将对美国打击行动进行回应。",
+          "url": "https://flash.jin10.com/detail/20260709043713842800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "约旦武装部队：伊朗此次袭击未造成人员伤亡或财产损失。",
+          "url": "https://flash.jin10.com/detail/20260709192415459800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "消息人士：伊朗“不久后”将对美基地发动大规模打击",
+          "url": "https://flash.jin10.com/detail/20260709043415130800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "约旦武装部队：我们拦截并击落了8枚从伊朗发射的导弹。",
+          "url": "https://flash.jin10.com/detail/20260709192111048800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "伊朗布什尔核电站周边遭到美国炮弹袭击。（伊朗国家媒体）",
+          "url": "https://wallstreetcn.com/livenews/3131315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "报道称伊朗多地传出爆炸声，美军称执行一系列额外袭击",
+          "url": "https://wallstreetcn.com/livenews/3130874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
@@ -35,6 +814,20 @@
           "time_info": "[00时40分 ~ 12时54分]"
         },
         {
+          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
+          "url": "https://wallstreetcn.com/articles/3776487",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时07分 ~ 20时02分]"
+        },
+        {
           "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
           "url": "https://www.cls.cn/detail/2420505",
           "source": "财联社热门",
@@ -46,19 +839,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时40分 ~ 08时11分]"
-        },
-        {
-          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
-          "url": "https://wallstreetcn.com/articles/3776487",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时07分 ~ 12时54分]"
         },
         {
           "title": "特朗普要求切断与西班牙一切贸易往来，西班牙回应",
@@ -96,6 +876,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时40分 ~ 12时54分]"
+        },
+        {
+          "title": "特朗普称“今夜可能再打伊朗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时18分 ~ 20时02分]"
         },
         {
           "title": "特朗普要求切断美国与西班牙贸易往来",
@@ -201,31 +996,6 @@
           "time_info": "08时11分"
         },
         {
-          "title": "特朗普称“今夜可能再打伊朗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时18分 ~ 12时54分]"
-        },
-        {
-          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
-          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
           "title": "美国总统特朗普：（关于伊朗）这一切将很快结束。",
           "url": "https://flash.jin10.com/detail/20260709003643886800",
           "source": "金十数据",
@@ -279,6 +1049,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
+          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 20时02分]"
         },
         {
           "title": "特朗普下令：切断所有与西班牙的贸易往来，“他们是北约内的糟糕盟友”！",
@@ -355,7 +1137,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -377,7 +1159,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -399,7 +1181,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -498,7 +1280,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -556,6 +1338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "美国总统特朗普：洛克希德马丁将于欧洲建立一家保障维护设施。",
@@ -769,673 +1562,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 59,
-      "titles": [
-        {
-          "title": "战火重燃，伊朗革命卫队处境艰难",
-          "url": "https://news.ifeng.com/c/8uafqJ3uQLL",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 08时11分]"
-        },
-        {
-          "title": "伊朗军方：若美国真的发动大规模战争，将会得到“惊喜”",
-          "url": "https://news.ifeng.com/c/8ubLc8RWA0y",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 06时07分]"
-        },
-        {
-          "title": "美军称开始对伊朗发动系列打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 06时07分]"
-        },
-        {
-          "title": "伊朗披露美军袭击造成的伤亡情况",
-          "url": "https://news.ifeng.com/c/8ubSBCWN8eN",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 04时22分]"
-        },
-        {
-          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
-          "url": "https://wallstreetcn.com/articles/3776409",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 04时22分]"
-        },
-        {
-          "title": "伊朗将大规模打击美军基地",
-          "url": "https://news.ifeng.com/c/8ubgRgsi7fb",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时07分 ~ 08时11分]"
-        },
-        {
-          "title": "伊朗南部多地再响爆炸声",
-          "url": "https://news.ifeng.com/c/8ubgRgsi7ZZ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "最新消息丨美军再对伊朗实施打击，“规模超前几天”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：班达尔阿巴斯附近防空系统正在拦截“敌对目标”。",
-          "url": "https://flash.jin10.com/detail/20260709040414478800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "报道：伊朗南部Bandar Abbas地区传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3130874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "伊朗民众：美伊备忘录只是一纸空文，支持本国自卫",
-          "url": "https://news.ifeng.com/c/8uc3IRm0BcK",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "据CNN：美国官员表示，当前伊朗局势仍处于快速变化之中，美军未来可能继续对伊朗目标发动打击。该官员称，美军此次打击主要针对可用于攻击美国军事资产的导弹、无人机设施，以及可能威胁霍尔木兹海峡航运安全的相关目标。",
-          "url": "https://flash.jin10.com/detail/20260709053346907800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "伊朗媒体IRNA：美国空袭伊朗布什尔罕的军事基地。",
-          "url": "https://wallstreetcn.com/livenews/3130902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "伊朗阿巴斯港传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3130875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 06时07分]"
-        },
-        {
-          "title": "美军时隔10天再袭伊朗",
-          "url": "https://www.douyin.com/hot/2562712",
-          "source": "抖音",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 06时07分]"
-        },
-        {
-          "title": "24小时内第二轮！美军宣布对伊朗发动新一轮袭击",
-          "url": "https://www.cls.cn/detail/2421013",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时07分 ~ 12时54分]"
-        },
-        {
-          "title": "消息人士：若美国发动袭击 伊朗将关闭霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3130819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 02时18分]"
-        },
-        {
-          "title": "伊朗称将大规模打击美军基地",
-          "url": "https://www.toutiao.com/trending/7659929891621584946/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时10分 ~ 12时54分]"
-        },
-        {
-          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
-          "url": "https://www.zhihu.com/question/2058125610363401206",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 06时07分]"
-        },
-        {
-          "title": "伊朗：将大规模打击美军基地",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%89%93%E5%87%BB%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时10分 ~ 08时11分]"
-        },
-        {
-          "title": "美军对伊朗发动强力打击",
-          "url": "https://www.toutiao.com/trending/7658946132311867455/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 06时07分]"
-        },
-        {
-          "title": "据伊朗媒体：伊朗南部拉旺岛传出巨大爆炸声。<br/>",
-          "url": "https://flash.jin10.com/detail/20260709035932101800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗防空系统在该国南部击落一架“敌方无人机”。",
-          "url": "https://flash.jin10.com/detail/20260709052437706800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "伊朗媒体：霍尔木兹甘省多个地区传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260709035541529800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "伊朗最高领袖顾问雷扎伊：侵略者及其帮凶将受到严厉惩罚。",
-          "url": "https://flash.jin10.com/detail/20260709051830572800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美军空袭伊朗胡齐斯坦省已致3死多伤",
-          "url": "https://flash.jin10.com/detail/20260709122446545800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "据伊朗学生通讯社：恰巴哈尔三条电力线路中已有两条恢复运行，第三条线路即将恢复。",
-          "url": "https://flash.jin10.com/detail/20260709051245873800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "据伊朗媒体：伊朗锡里克岛防空系统已启动。",
-          "url": "https://flash.jin10.com/detail/20260709035439234800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "据伊朗国家电视台：阿巴斯港传出8次爆炸声，其中两枚投射物击中锡里克港，另有两枚在贾斯克港爆炸。",
-          "url": "https://flash.jin10.com/detail/20260709051206218800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "伊朗称美军袭击造成8名伊朗军人死亡",
-          "url": "https://wallstreetcn.com/livenews/3130813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社报道，当地时间7月8日深夜，伊朗南部霍尔木兹甘省首府阿巴斯港传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260709035225629800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "据伊朗Press TV：美军打击波及伊朗恰巴哈尔港区，沙希德·贝赫什蒂港、卡兰塔里港及海上交通控制塔出现部分损毁。",
-          "url": "https://flash.jin10.com/detail/20260709050923821800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "伊拉克同意，停止向支持伊朗的那些武装人员提供美元资金。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3130864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "据伊朗媒体：美军袭击恰巴哈尔期间，弹片波及当地伊玛目阿里医院；当地电力公司表示，袭击导致三条电力线路中断，目前已有两条恢复供电。",
-          "url": "https://flash.jin10.com/detail/20260709050822429800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美军称再次对伊朗发起打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "伊朗副外长：美国近期行动不会不了了之，伊朗将作出回应。",
-          "url": "https://flash.jin10.com/detail/20260709034855937800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：周三晚间有消息称美国对拉万岛发动袭击，但经向霍尔木兹甘省政府消息人士核实，该说法“完全不实”。消息称，截至午夜，拉万岛未发生任何袭击或目标命中事件，岛上石油设施均正常运转，未受到影响。",
-          "url": "https://flash.jin10.com/detail/20260709050703137800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗南部班达尔阿巴斯传出爆炸声，当地防空系统被启动。",
-          "url": "https://flash.jin10.com/detail/20260709034813185800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "伊朗外长与卡塔尔首相通话，强调外交渠道解决地区问题",
-          "url": "https://wallstreetcn.com/livenews/3130856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "伊朗将大规模打击美军基地",
-          "url": "https://wallstreetcn.com/livenews/3130891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美军对伊朗发动新一轮打击，伊朗称将很快反击，美伊为何突然再次撕破脸？美方军事行动背后有何盘算？",
-          "url": "https://www.zhihu.com/question/2058455554222027217",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "伊朗外交部指责美国违反谅解备忘录",
-          "url": "https://flash.jin10.com/detail/20260709015736141800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "据伊朗国家电视台：伊朗阿布穆萨岛附近传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260709045451077800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美国副总统万斯声称：伊朗核计划被摧毁了。 如果他们（伊朗）射击我们的船只，美国将采取行动。 如果伊朗试图关闭霍尔木兹海峡，美方将做出反应。",
-          "url": "https://wallstreetcn.com/livenews/3130859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "伊媒：伊朗防御系统正在应对美军打击",
-          "url": "https://wallstreetcn.com/livenews/3130890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：美国对伊朗发动袭击期间，投射物碎片击中了恰巴哈尔伊玛目阿里医院。",
-          "url": "https://flash.jin10.com/detail/20260709045228012800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "据CNN：美国海军称，截至周三，美军在伊朗附近部署至少19艘军舰。",
-          "url": "https://flash.jin10.com/detail/20260709044914881800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "伊朗代表致函联合国 强烈谴责美国侵略行径",
-          "url": "https://wallstreetcn.com/livenews/3131064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "万斯警告伊朗：若封锁霍尔木兹海峡将面临军事回应",
-          "url": "https://flash.jin10.com/detail/20260709033201821800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "伊朗副外长：美国要求以不符合谅解备忘录的方式恢复霍尔木兹海峡南部通道，伊朗无法接受，美国近期敌对行动将受到回应。",
-          "url": "https://flash.jin10.com/detail/20260709044344014800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美军连续第二天袭击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3130887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "据伊朗努尔新闻(Nour News)：消息人士称，美国对布什尔地区的袭击未对核电站造成任何损害。",
-          "url": "https://flash.jin10.com/detail/20260709044050815800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "报道：伊朗袭击位于科威特和巴林的美军基地",
-          "url": "https://wallstreetcn.com/livenews/3131061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "美军完成对伊朗的新一轮打击",
-          "url": "https://wallstreetcn.com/livenews/3131060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "伊朗将大规模打击美军基地",
-          "url": "https://flash.jin10.com/detail/20260709043907829800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "据以色列i24News：美国官员称，今晚对伊朗的攻击范围比前一天的打击行动更广泛。",
-          "url": "https://flash.jin10.com/detail/20260709043835377800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "据沙特阿拉伯阿拉比亚电视台：伊朗革命卫队称，将对美国打击行动进行回应。",
-          "url": "https://flash.jin10.com/detail/20260709043713842800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "消息人士：伊朗“不久后”将对美基地发动大规模打击",
-          "url": "https://flash.jin10.com/detail/20260709043415130800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "报道称伊朗多地传出爆炸声，美军称执行一系列额外袭击",
-          "url": "https://wallstreetcn.com/livenews/3130874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 13,
       "titles": [
@@ -1457,11 +1583,12 @@
           "url": "https://wallstreetcn.com/articles/3776425",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时10分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[08时10分 ~ 20时02分]"
         },
         {
           "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
@@ -1550,7 +1677,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -1692,7 +1819,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -1703,9 +1830,37 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中东冲突再起引发通胀担忧，金价承压下跌",
+          "url": "https://flash.jin10.com/detail/20260709120544662800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "金价在近期将有季节性优势，强美元叙事面临多线风险！| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260709192942947800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
@@ -1725,23 +1880,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时40分 ~ 04时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中东冲突再起引发通胀担忧，金价承压下跌",
-          "url": "https://flash.jin10.com/detail/20260709120544662800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
         }
       ]
     },
