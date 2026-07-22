@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T11:33:48.898680+08:00",
-  "total_titles_processed": 830,
+  "generated_at": "2026-07-22T14:29:26.098757+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗还有两大杀手锏",
@@ -47,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "美国袭击伊朗西部的Abdanan和Chovar。（ISNA）",
+          "url": "https://wallstreetcn.com/livenews/3138016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "新任英国首相批准美国使用英国基地对伊朗进行部分打击",
@@ -80,7 +91,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -136,7 +147,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -202,7 +213,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -257,7 +268,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -271,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施",
+          "url": "https://wallstreetcn.com/livenews/3137992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗军方发言人称，目前伊朗武装力量的防御部署范围并不局限于边境。",
@@ -378,7 +400,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -408,7 +430,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
@@ -431,6 +453,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时59分 ~ 08时00分]"
+        },
+        {
+          "title": "胡塞武装封锁红海？特朗普回应",
+          "url": "https://news.ifeng.com/c/8ux6FAGKMcr",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 14时29分]"
         },
         {
           "title": "核能企业Oklo和X-energy已加入特朗普政府推动的新核反应堆建设计划，旨在加快为人工智能数据中心提供能源支持。",
@@ -464,18 +497,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "胡塞武装封锁红海？特朗普回应",
-          "url": "https://news.ifeng.com/c/8ux6FAGKMcr",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -514,6 +536,19 @@
           "time_info": "[06时58分 ~ 11时33分]"
         },
         {
+          "title": "特朗普称将打击伊朗地下核设施 美官员暗示将很快出台新关税 | 环球市场",
+          "url": "https://www.cls.cn/detail/2433256",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 14时29分]"
+        },
+        {
           "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
           "url": "https://wallstreetcn.com/articles/3777496",
           "source": "华尔街见闻",
@@ -537,16 +572,15 @@
           "time_info": "[01时21分 ~ 03时24分]"
         },
         {
-          "title": "特朗普称将打击伊朗地下核设施 美官员暗示将很快出台新关税 | 环球市场",
-          "url": "https://www.cls.cn/detail/2433256",
-          "source": "财联社热门",
+          "title": "特朗普宣布两年后对仿制药征收100%关税",
+          "url": "https://news.ifeng.com/c/8uxX85JoJZj",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 11时33分]"
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 14时29分]"
         },
         {
           "title": "加拿大取消与美国的跨境大桥庆祝活动，此前特朗普政府宣布对加拿大加征关税。 加拿大说，Gordie Howe Bridge仍然将在7月27日开放。",
@@ -596,6 +630,17 @@
           "time_info": "[07时59分 ~ 08时00分]"
         },
         {
+          "title": "这条40余年的禁令，被特朗普解除了",
+          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "特朗普会见黎巴嫩总统奥恩",
           "url": "https://flash.jin10.com/detail/20260722003143324800",
           "source": "金十数据",
@@ -616,17 +661,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
-        },
-        {
-          "title": "特朗普宣布两年后对仿制药征收100%关税",
-          "url": "https://news.ifeng.com/c/8uxX85JoJZj",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
         },
         {
           "title": "据Axios：美国议员要求美国证交会调查特朗普媒体科技集团(DJT.O)旗下的Truth Social将其数据访问权商业化的计划。此前有报道称，该集团的“Truth API”产品定于8月1日上线，该产品将提供对该平台排名前十的热门账户公开帖文的实时访问权限。",
@@ -693,6 +727,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "特朗普承认美方干预中国事务",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E7%BE%8E%E6%96%B9%E5%B9%B2%E9%A2%84%E4%B8%AD%E5%9B%BD%E4%BA%8B%E5%8A%A1%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "特朗普承认伊朗在约旦“钻了空子”",
@@ -789,7 +834,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         }
@@ -797,7 +842,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
@@ -831,8 +876,34 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 11时33分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 14时29分]"
+        },
+        {
+          "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
+          "url": "https://www.cls.cn/detail/2433245",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 14时29分]"
+        },
+        {
+          "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
+          "url": "https://www.cls.cn/detail/2433220",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时58分 ~ 14时29分]"
         },
         {
           "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
@@ -845,31 +916,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时23分 ~ 05时11分]"
-        },
-        {
-          "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
-          "url": "https://www.cls.cn/detail/2433245",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 11时33分]"
-        },
-        {
-          "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
-          "url": "https://www.cls.cn/detail/2433220",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时58分 ~ 11时33分]"
         },
         {
           "title": "全球科技股反弹！美股存储芯片指数涨超10%，布油重回90美元上方，现货白银涨4%",
@@ -892,6 +938,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
+          "url": "https://www.cls.cn/detail/2433303",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 14时29分]"
         },
         {
           "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
@@ -941,15 +999,15 @@
           "time_info": "[01时20分 ~ 01时21分]"
         },
         {
-          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
-          "url": "https://www.cls.cn/detail/2433303",
-          "source": "财联社热门",
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "14时29分"
         },
         {
           "title": "超微电脑（SMCI）预计第四财季营收接近指引区间110亿-125亿美元的底部。 预计第四财季毛利润率15%-17%，公司原本预计8.2%-8.4%。 超微电脑美股盘后涨超20%。",
@@ -980,7 +1038,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -999,7 +1057,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -1007,22 +1065,35 @@
           "source": "贴吧",
           "ranks": [
             22,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时20分 ~ 11时33分]"
+          "appearance_count": 10,
+          "time_info": "[01时20分 ~ 14时29分]"
         },
         {
           "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
           "url": "https://www.zhihu.com/question/2062943431668789795",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 14时29分]"
+        },
+        {
+          "title": "宇树科技王兴兴：具身智能的“ChatGPT时刻”有望最快在两三年内到来",
+          "url": "https://wallstreetcn.com/livenews/3138015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "14时29分"
         },
         {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
@@ -1135,11 +1206,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 11时33分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 14时29分]"
         },
         {
           "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
@@ -1189,6 +1261,47 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价银价油价集体上涨",
+          "url": "https://www.douyin.com/hot/2580433",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "金价涨超1.7%，4000美元整数位心理关口失而复得，白银涨4.2%，纽约铜涨超2.9%",
+          "url": "https://wallstreetcn.com/livenews/3137759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时11分 ~ 08时00分]"
+        },
+        {
+          "title": "金价银价油价集体上涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1204,25 +1317,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时20分 ~ 08时00分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价涨超1.7%，4000美元整数位心理关口失而复得，白银涨4.2%，纽约铜涨超2.9%",
-          "url": "https://wallstreetcn.com/livenews/3137759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 08时00分]"
         }
       ]
     },
