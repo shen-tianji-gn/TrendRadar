@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-24T11:35:53.728959+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-07-24T14:28:35.823516+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "伊朗公布美军近期袭击伤亡数据",
+          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 14时28分]"
+        },
         {
           "title": "据德黑兰时报：英国外交人员撤离德黑兰是美方施压伊朗的“心理战”。德国大使认为，因为英国把伊朗革命卫队列为威胁后，伊朗可能会驱逐英国外交官，所以英国提前撤离人员避免被动。",
           "url": "https://flash.jin10.com/detail/20260724014631495800",
@@ -52,15 +63,15 @@
           "time_info": "00时41分"
         },
         {
-          "title": "伊朗公布美军近期袭击伤亡数据",
-          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
-          "source": "凤凰网",
+          "title": "伊外长：任何袭击伊朗的源头都将成防御行动合法目标",
+          "url": "https://wallstreetcn.com/livenews/3139262",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时35分"
+          "time_info": "14时28分"
         },
         {
           "title": "【以军举行紧急局势安全评估会议，防长称已为应对伊朗局势做好“全方位准备”】当地时间23日，据以色列方面消息，以色列国防部长卡茨当天表示，鉴于当前与伊朗的紧张局势不断升级，以色列方面目前已为“所有可能发生的情况”做好了准备。 据称，卡茨当天召集以军总参谋长扎米尔及多名军方高级官员，在国防部总部举行了紧急局势安全评估会议。卡茨在会议结束时向伊朗方面发出了严厉警告。他宣称，如果伊朗选择对以色列发动任何形式的袭击，“都将承受来自以方的毁灭性打击”。（央视）",
@@ -98,6 +109,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 02时13分]"
+        },
+        {
+          "title": "美威胁发动空前打击 伊朗、胡塞武装：已做好应战准备",
+          "url": "https://www.cls.cn/detail/2435700",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 14时28分]"
         },
         {
           "title": "伊朗外交部发言人：海湾合作委员会成员国应就参与对伊朗军事行动作出回应。",
@@ -188,17 +211,6 @@
           "time_info": "00时41分"
         },
         {
-          "title": "美威胁发动空前打击 伊朗、胡塞武装：已做好应战准备",
-          "url": "https://www.cls.cn/detail/2435700",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
           "title": "科威特军方：空中防御系统目前正在拦截伊朗的“敌对”无人机威胁。",
           "url": "https://flash.jin10.com/detail/20260724033250623800",
           "source": "金十数据",
@@ -227,7 +239,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -241,6 +253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "伊外长：任何袭击伊朗的源头都将成防御行动合法目标",
+          "url": "https://flash.jin10.com/detail/20260724140947574800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "伊拉克总理：伊拉克不允许从其领土发起威胁伊朗的行动",
@@ -282,7 +305,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -293,7 +316,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -318,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "据报伊朗防空系统击落一飞行器",
+          "url": "https://wallstreetcn.com/livenews/3139236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "伊拉克总理访德黑兰期间，伊朗与伊拉克签署多项谅解备忘录",
@@ -356,7 +390,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -376,22 +410,12 @@
           "ranks": [
             17,
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 11时35分]"
-        },
-        {
-          "title": "美国总统特朗普提名的美国消费者金融保护局负责人表示，将对裁减该机构大部分员工的计划“保持开放态度”。",
-          "url": "https://flash.jin10.com/detail/20260724000958452800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 14时28分]"
         },
         {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
@@ -400,9 +424,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 14时28分]"
         },
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
@@ -415,8 +439,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时13分 ~ 11时35分]"
+          "appearance_count": 5,
+          "time_info": "[02时13分 ~ 14时28分]"
+        },
+        {
+          "title": "美国总统特朗普提名的美国消费者金融保护局负责人表示，将对裁减该机构大部分员工的计划“保持开放态度”。",
+          "url": "https://flash.jin10.com/detail/20260724000958452800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
         },
         {
           "title": "美国司法部在总统特朗普飞机调查中撤销针对纽约时报的传唤。",
@@ -441,6 +476,29 @@
           "time_info": "[00时40分 ~ 02时13分]"
         },
         {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 14时28分]"
+        },
+        {
+          "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
+          "url": "https://www.cls.cn/detail/2435732",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 14时28分]"
+        },
+        {
           "title": "美25州起诉特朗普政府 反对将救灾资金与选举制度改革挂钩",
           "url": "https://flash.jin10.com/detail/20260724035806237800",
           "source": "金十数据",
@@ -452,6 +510,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "加拿大总理卡尼：如果到8月19日（特朗普关税生效日）仍然无法与美国达成贸易协议，一切都是可能的。",
           "url": "https://wallstreetcn.com/livenews/3139040",
           "source": "华尔街见闻-快讯",
@@ -461,28 +530,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        },
-        {
-          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
-          "url": "https://wallstreetcn.com/articles/3777809",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
-          "url": "https://www.cls.cn/detail/2435732",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
         },
         {
           "title": "美国总统特朗普：伊朗想要做些什么，但他们还没有准备好。",
@@ -562,6 +609,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "分析师：特朗普的关税大棒越挥越响，实际打击力却越来越虚",
+          "url": "https://flash.jin10.com/detail/20260724140448068800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "报道：特朗普称接近就“大规模袭击伊朗”做决定",
           "url": "https://wallstreetcn.com/livenews/3138976",
           "source": "华尔街见闻-快讯",
@@ -598,7 +656,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -620,8 +678,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时06分 ~ 11时35分]"
+          "appearance_count": 3,
+          "time_info": "[06时06分 ~ 14时28分]"
         },
         {
           "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
@@ -630,20 +688,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 14时28分]"
         },
         {
           "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
           "url": "https://www.cls.cn/detail/2435694",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 14时28分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -652,9 +711,20 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 14时28分]"
+        },
+        {
+          "title": "美股终难忽视战争？布油期货破百，全球债市抛售敲响通胀警报",
+          "url": "https://flash.jin10.com/detail/20260724142421066800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时35分"
+          "time_info": "14时28分"
         },
         {
           "title": "美股",
@@ -739,8 +809,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E6%99%8B%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%BD%93%E5%A4%A9%E5%AE%A3%E5%B8%83%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
           "url": "https://wallstreetcn.com/livenews/3139011",
@@ -836,7 +917,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         }
@@ -931,7 +1012,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价跌2%，下探4000美元整数位心理关口",
@@ -956,6 +1037,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时13分 ~ 06时06分]"
+        },
+        {
+          "title": "金价连涨四天，现货黄金重回 4100 美元，深圳水贝挤满购金人，如何看待黄金当下行情？",
+          "url": "https://www.zhihu.com/question/2063412432022901058",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     },
