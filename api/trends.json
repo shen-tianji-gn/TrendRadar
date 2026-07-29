@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T08:06:15.807833+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-07-29T12:13:13.532912+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
@@ -168,6 +168,17 @@
           "time_info": "[08时05分 ~ 08时06分]"
         },
         {
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
+        },
+        {
           "title": "伊朗：美国（重新）施加的海上封锁不至于迫使我方重返谈判桌。",
           "url": "https://wallstreetcn.com/livenews/3141141",
           "source": "华尔街见闻-快讯",
@@ -190,6 +201,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 03时26分]"
+        },
+        {
+          "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
+          "url": "https://www.cls.cn/detail/2439585",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
         },
         {
           "title": "美方称伊朗发射多枚导弹袭击驻中东美军",
@@ -238,6 +260,17 @@
           "time_info": "[07时01分 ~ 08时06分]"
         },
         {
+          "title": "对伊朗军事行动以来，美以领导人首次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
+        },
+        {
           "title": "布伦特原油日内跌幅达6.0%，报80.69美元/桶。 据以色列媒体报道，参与斡旋的调解方相信，美国与伊朗距离达成突破性进展已经不远，双方可能重启今年6月签署的谅解备忘录、即初步停火协议。",
           "url": "https://wallstreetcn.com/livenews/3141131",
           "source": "华尔街见闻-快讯",
@@ -267,7 +300,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -377,9 +410,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "伊朗称在霍尔木兹海峡拦截3艘“违规”油轮",
+          "url": "https://wallstreetcn.com/livenews/3141422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "以色列与阿联酋秘密会晤协调应对伊朗",
@@ -572,7 +616,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -594,11 +638,24 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 08时06分]"
+          "appearance_count": 10,
+          "time_info": "[01时28分 ~ 12时13分]"
+        },
+        {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时28分 ~ 12时13分]"
         },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -610,6 +667,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时28分 ~ 05时09分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 12时13分]"
+        },
+        {
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时01分 ~ 12时13分]"
         },
         {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
@@ -626,28 +707,6 @@
           "time_info": "[01时28分 ~ 07时01分]"
         },
         {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 08时06分]"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 08时06分]"
-        },
-        {
           "title": "美股收盘：AI概念延续“血色一夜”",
           "url": "https://www.toutiao.com/trending/7667714133717945882/",
           "source": "今日头条",
@@ -657,18 +716,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 08时06分]"
-        },
-        {
-          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
-          "url": "https://www.cls.cn/detail/2439531",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时01分 ~ 08时06分]"
         },
         {
           "title": "周二（7月28日），美股行业ETF多数收涨，全球航空业ETF涨2.87%，医疗业ETF涨2.38%，网络股指数ETF涨1.59%，能源业ETF跌1.35%，科技行业ETF跌1.84%，全球科技股指数ETF跌2.08%，半导体ETF跌3.45%。 标普500指数的11个板块中，保健板块涨2.33%，原材料、电信板块至少涨1.64%，信息技术/科技板块跌1.17%，能源板块跌1.4%。",
@@ -693,6 +740,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时26分 ~ 07时01分]"
+        },
+        {
+          "title": "美股芯片存储大跌",
+          "url": "https://www.douyin.com/hot/2588858",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
         },
         {
           "title": "美股光通信、存储大跌 闪迪跌逾14%",
@@ -756,7 +814,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -767,7 +825,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -786,7 +844,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "以色列发言人：在美国总统特朗普与以色列总理内塔尼亚胡的会晤中未讨论土耳其和F-35问题。",
@@ -820,6 +878,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时28分 ~ 05时09分]"
+        },
+        {
+          "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
+          "url": "https://news.ifeng.com/c/8v99XqcoCB0",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
         },
         {
           "title": "内塔尼亚胡称与特朗普进行了一次“极佳的会晤”",
@@ -857,13 +926,24 @@
           "time_info": "[01时29分 ~ 03时26分]"
         },
         {
+          "title": "特朗普在追悼仪式上分发薄荷糖",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%BF%BD%E6%82%BC%E4%BB%AA%E5%BC%8F%E4%B8%8A%E5%88%86%E5%8F%91%E8%96%84%E8%8D%B7%E7%B3%96",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
+        },
+        {
           "title": "伊朗突袭美军基地！特朗普的停火赌局遭遇新考验，油价反弹4%！",
           "url": "https://flash.jin10.com/detail/20260729072431211800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -929,7 +1009,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
@@ -937,8 +1017,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "OpenAI模型失控新的受害者曝光",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E6%96%B0%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
+        },
         {
           "title": "OpenAI与Anthropic员工联名致信，呼吁美国政府协助治理AI",
           "url": "https://wallstreetcn.com/livenews/3141130",
@@ -949,6 +1040,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "ChatGPT周活跃用户数接近10亿。（Information）",
+          "url": "https://wallstreetcn.com/livenews/3141393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "OpenAI越狱代理攻击范围扩大 再曝一公司客户账户遭入侵",
@@ -1040,11 +1142,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 08时06分]"
+          "appearance_count": 10,
+          "time_info": "[01时28分 ~ 12时13分]"
         }
       ]
     }
