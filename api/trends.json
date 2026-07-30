@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T11:17:30.940598+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2026-07-30T14:29:59.638428+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -34,6 +34,20 @@
           "time_info": "[01时15分 ~ 04时57分]"
         },
         {
+          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 14时29分]"
+        },
+        {
           "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
           "url": "https://news.ifeng.com/c/8vAUYfWwMg3",
           "source": "凤凰网",
@@ -45,28 +59,16 @@
           "time_info": "[04时57分 ~ 06时03分]"
         },
         {
-          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 11时17分]"
-        },
-        {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
           "url": "https://wallstreetcn.com/articles/3778237",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 14时29分]"
         },
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗",
@@ -97,7 +99,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         },
@@ -157,6 +159,17 @@
           "time_info": "[03时17分 ~ 11时17分]"
         },
         {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 14时29分]"
+        },
+        {
           "title": "特朗普在葬礼上曝光逝者手机号",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%91%AC%E7%A4%BC%E4%B8%8A%E6%9B%9D%E5%85%89%E9%80%9D%E8%80%85%E6%89%8B%E6%9C%BA%E5%8F%B7%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -179,17 +192,6 @@
           "time_info": "03时17分"
         },
         {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
-        },
-        {
           "title": "特朗普称将痛击伊朗 寻求对伊朗加关税的授权",
           "url": "https://flash.jin10.com/detail/20260730041820706800",
           "source": "金十数据",
@@ -201,6 +203,17 @@
           "time_info": "04时57分"
         },
         {
+          "title": "中国向伊朗提供武器？特朗普搅混水：要是真的，很失望",
+          "url": "https://news.ifeng.com/c/8vAy9S9JapS",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”，希望逐步摆脱美方援助",
           "url": "https://wallstreetcn.com/livenews/3141911",
           "source": "华尔街见闻-快讯",
@@ -210,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "道指狂泄超千点，跌幅扩大至2.1%，标普跌1.1%，纳指跌1.1%，半导体指数跌3.8%，特朗普称“会稍微教训一下伊朗”。",
@@ -243,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "特朗普陷入伊朗死局：结束战争，只剩这一个选择？",
+          "url": "https://flash.jin10.com/detail/20260730141024253800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "特朗普：沃什想看到利率下跌",
@@ -303,7 +338,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -317,6 +352,17 @@
           "time_info": "[01时15分 ~ 06时03分]"
         },
         {
+          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
+          "url": "https://www.cls.cn/detail/2440737",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 14时29分]"
+        },
+        {
           "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
           "url": "https://www.cls.cn/detail/2440482",
           "source": "财联社热门",
@@ -328,17 +374,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时15分 ~ 11时17分]"
-        },
-        {
-          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
-          "url": "https://www.cls.cn/detail/2440737",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
         },
         {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -438,9 +473,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
+        },
+        {
+          "title": "7月30日投资避雷针：美股三大指数集体下跌 光通信、存储板块继续大跌",
+          "url": "https://www.cls.cn/detail/2440809",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "美联储宣布按兵不动当天，标普500指数收跌112.63点，跌幅1.52%，报7316.15点，微幅低开之后、美股早盘持续走低、北京时间00:17以来持续回升，02:00美联储宣布按兵不动时显著收复失地，美联储主席沃什新闻发布会带来冲高回落行情、02:55微涨至7450.84点刷新日高，03:00以来持续走低。 道琼斯工业平均指数收跌1153.18点，创2025年4月份以来最大单日点数跌幅，百分比跌幅2.19%，报51594.14点。 纳斯达克综合指数（纳指）收跌433.97点，跌幅1.74%，报24442.942点。 纳斯达克100指数收跌570.828点，跌幅2.06%，报27192.306点。",
@@ -510,7 +556,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         },
@@ -570,6 +616,30 @@
           "time_info": "[01时15分 ~ 03时17分]"
         },
         {
+          "title": "美国将对购买俄油气的国家征收 100% 二级关税、同时延长伊朗制裁，如何看待此举？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2065729116125521259",
+          "source": "知乎",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 14时29分]"
+        },
+        {
+          "title": "历史性一刻，伊朗先发制人袭击美军基地",
+          "url": "https://v.ifeng.com/c/8vA9hUsD4WZ",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 14时29分]"
+        },
+        {
           "title": "美称伊朗发射导弹袭击驻中东美军",
           "url": "https://www.douyin.com/hot/2588834",
           "source": "抖音",
@@ -582,35 +652,13 @@
           "time_info": "[04时57分 ~ 06时03分]"
         },
         {
-          "title": "美国将对购买俄油气的国家征收 100% 二级关税、同时延长伊朗制裁，如何看待此举？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2065729116125521259",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
-        },
-        {
           "title": "美媒称美军正在对伊朗进行空袭",
           "url": "https://www.toutiao.com/trending/7668100922215501318/",
           "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
-        },
-        {
-          "title": "历史性一刻，伊朗先发制人袭击美军基地",
-          "url": "https://v.ifeng.com/c/8vA9hUsD4WZ",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         },
@@ -643,7 +691,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         },
@@ -654,7 +702,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         },
@@ -665,7 +713,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         }
@@ -673,7 +721,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI针对学术研究员推出ChatGPT。",
@@ -691,11 +739,24 @@
           "url": "https://www.zhihu.com/question/2065583157664018461",
           "source": "知乎",
           "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 14时29分]"
+        },
+        {
+          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+          "url": "https://www.zhihu.com/question/2065729146383071132",
+          "source": "知乎",
+          "ranks": [
+            19,
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 14时29分]"
         },
         {
           "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
@@ -731,15 +792,15 @@
           "time_info": "01时16分"
         },
         {
-          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
-          "url": "https://www.zhihu.com/question/2065729146383071132",
-          "source": "知乎",
+          "title": "OpenAI前员工创立的对冲基金寻求新资金，因AI股大跌承压",
+          "url": "https://wallstreetcn.com/livenews/3142156",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时17分"
+          "time_info": "14时29分"
         }
       ]
     },
@@ -754,9 +815,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 14时29分]"
         },
         {
           "title": "黄金反弹高度被美债收益率封锁，下行压力或在...时触发——新版发布",
@@ -765,7 +826,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         },
@@ -834,8 +895,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "世界黄金协会：二季度金价涨势暂歇，黄金市场展现韧性",
+          "url": "https://flash.jin10.com/detail/20260730142017724800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
         {
           "title": "金价在美联储决议声明发布日涨0.9%，沃什新闻发布会期间刷新日高",
           "url": "https://wallstreetcn.com/livenews/3141914",
@@ -862,8 +934,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美元指数DXY站上101，日内涨0.18%。",
+          "url": "https://flash.jin10.com/detail/20260730141402856800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
         {
           "title": "美元指数在美联储决议声明发布日跌超0.5%",
           "url": "https://wallstreetcn.com/livenews/3141880",
