@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T20:03:17.422684+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2026-08-01T22:27:35.144949+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "美以计划对伊朗能源设施发动迄今最猛烈轰炸",
@@ -157,6 +157,19 @@
           "time_info": "[18时41分 ~ 20时03分]"
         },
         {
+          "title": "伊朗军方称近期使用新型无人机",
+          "url": "https://flash.jin10.com/detail/20260801163642334800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 22时27分]"
+        },
+        {
           "title": "伊朗打击美军空中任务后勤保障枢纽",
           "url": "https://www.douyin.com/hot/2591858",
           "source": "抖音",
@@ -181,16 +194,16 @@
           "time_info": "[18时41分 ~ 20时03分]"
         },
         {
-          "title": "伊朗军方称近期使用新型无人机",
-          "url": "https://flash.jin10.com/detail/20260801163642334800",
+          "title": "伊朗塔斯尼姆通讯社援引一位州长的话称，伊朗西部伊斯拉马巴德·哈布附近发生的爆炸是由于一枚旧炮弹引发的。",
+          "url": "https://flash.jin10.com/detail/20260801184828572800",
           "source": "金十数据",
           "ranks": [
-            17,
-            9
+            10,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时41分 ~ 20时03分]"
+          "time_info": "[20时03分 ~ 22时27分]"
         },
         {
           "title": "伊朗称中东地区国家应重新考虑与美国的“合作与结盟”",
@@ -205,6 +218,30 @@
           "time_info": "[18时41分 ~ 20时03分]"
         },
         {
+          "title": "伊朗霍尔木兹甘省省长政治、安全与社会事务副手：关于撤离霍尔木兹甘省部分地区的传言完全是无稽之谈。",
+          "url": "https://flash.jin10.com/detail/20260801183717159800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 22时27分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯：伊朗克尔曼沙阿省西伊斯兰堡发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20260801183237897800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 22时27分]"
+        },
+        {
           "title": "伊朗在霍尔木兹击中并扣留2艘油轮",
           "url": "https://www.toutiao.com/trending/7668445091514155050/",
           "source": "今日头条",
@@ -215,6 +252,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 05时05分]"
+        },
+        {
+          "title": "伊朗称，伊斯兰阿巴德西吉尔的爆炸是由旧炮弹引起的。",
+          "url": "https://wallstreetcn.com/livenews/3143596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 22时27分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡暂停通行",
@@ -240,15 +289,26 @@
           "time_info": "[10时50分 ~ 10时51分]"
         },
         {
-          "title": "伊朗塔斯尼姆通讯社援引一位州长的话称，伊朗西部伊斯拉马巴德·哈布附近发生的爆炸是由于一枚旧炮弹引发的。",
-          "url": "https://flash.jin10.com/detail/20260801184828572800",
+          "title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。",
+          "url": "https://flash.jin10.com/detail/20260801202347340800",
           "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时03分"
+          "time_info": "22时27分"
+        },
+        {
+          "title": "美财长称正在全球范围内追查伊朗资产",
+          "url": "https://wallstreetcn.com/livenews/3143618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "伊朗军方称近期使用新型无人机",
@@ -262,6 +322,17 @@
           "time_info": "18时41分"
         },
         {
+          "title": "美国媒体披露美军向伊朗居民区投重磅炸弹",
+          "url": "https://wallstreetcn.com/livenews/3143616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "据CBS：美国和以色列正准备最早于本周末轰炸伊朗的能源相关目标。",
           "url": "https://flash.jin10.com/detail/20260801045602074800",
           "source": "金十数据",
@@ -271,28 +342,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "伊朗霍尔木兹甘省省长政治、安全与社会事务副手：关于撤离霍尔木兹甘省部分地区的传言完全是无稽之谈。",
-          "url": "https://flash.jin10.com/detail/20260801183717159800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
-          "title": "据沙特媒体哈达斯：伊朗克尔曼沙阿省西伊斯兰堡发生爆炸。",
-          "url": "https://flash.jin10.com/detail/20260801183237897800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
         },
         {
           "title": "科威特称，伊朗无人机袭击科威特北部政府设施，袭击其北部政府设施。",
@@ -315,17 +364,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "伊朗称，伊斯兰阿巴德西吉尔的爆炸是由旧炮弹引起的。",
-          "url": "https://wallstreetcn.com/livenews/3143596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
         },
         {
           "title": "伊朗官员：已制定全面计划应对潜在美以袭击",
@@ -433,6 +471,19 @@
       "match_count": 29,
       "titles": [
         {
+          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
+          "url": "https://wallstreetcn.com/articles/3778460",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时50分 ~ 22时27分]"
+        },
+        {
           "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
           "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
           "source": "凤凰网",
@@ -443,19 +494,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时50分 ~ 18时41分]"
-        },
-        {
-          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
-          "url": "https://wallstreetcn.com/articles/3778460",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时50分 ~ 20时03分]"
         },
         {
           "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
@@ -487,11 +525,26 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时55分 ~ 20时03分]"
+          "appearance_count": 8,
+          "time_info": "[13时55分 ~ 22时27分]"
+        },
+        {
+          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时21分 ~ 22时27分]"
         },
         {
           "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
@@ -516,17 +569,6 @@
           "time_info": "[01时38分 ~ 10时51分]"
         },
         {
-          "title": "特朗普威胁参议员通过其司法部长人选",
-          "url": "https://flash.jin10.com/detail/20260801195052778800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
           "title": "五角大楼发言人：美国国防部随时准备执行特朗普总统的指示。",
           "url": "https://flash.jin10.com/detail/20260801054306728800",
           "source": "金十数据",
@@ -549,17 +591,16 @@
           "time_info": "07时02分"
         },
         {
-          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
-          "source": "澎湃新闻",
+          "title": "特朗普威胁参议员通过其司法部长人选",
+          "url": "https://flash.jin10.com/detail/20260801195052778800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            14,
-            12
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 20时03分]"
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 22时27分]"
         },
         {
           "title": "特朗普最新支持率公布",
@@ -574,6 +615,17 @@
           "time_info": "[16时22分 ~ 18时41分]"
         },
         {
+          "title": "特朗普：伊朗确实挺硬气",
+          "url": "https://news.ifeng.com/c/8vErXsygJc0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 22时27分]"
+        },
+        {
           "title": "你和特朗普谁是老大？内塔尼亚胡：他是大股东，但我也有底线",
           "url": "https://m.thepaper.cn/newsDetail_forward_33690982",
           "source": "澎湃新闻",
@@ -586,15 +638,28 @@
           "time_info": "[13时55分 ~ 16时22分]"
         },
         {
-          "title": "特朗普：伊朗确实挺硬气",
-          "url": "https://news.ifeng.com/c/8vErXsygJc0",
-          "source": "凤凰网",
+          "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3143604",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            7,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 20时03分]"
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 22时27分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-01）",
+          "url": "https://flash.jin10.com/detail/20260801184158588800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 22时27分]"
         },
         {
           "title": "特朗普否认允许乌生产爱国者拦截弹",
@@ -620,17 +685,6 @@
           "time_info": "[10时50分 ~ 10时51分]"
         },
         {
-          "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3143604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
           "title": "白宫：特朗普认定未来4年对进口石英表面产品实施关税配额是适当的。",
           "url": "https://flash.jin10.com/detail/20260801050537920800",
           "source": "金十数据",
@@ -651,17 +705,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-01）",
-          "url": "https://flash.jin10.com/detail/20260801184158588800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
         },
         {
           "title": "特朗普：以色列在哈马斯解除武装计划方面“表现出色”",
@@ -789,11 +832,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 20时03分]"
+          "appearance_count": 6,
+          "time_info": "[16时21分 ~ 22时27分]"
         },
         {
           "title": "DeepSeek（官方 API 接入 Agent）居然会对用户说「我去吃饭了」、「我去睡了」，为啥会这样？",
@@ -890,11 +934,12 @@
           "url": "https://www.zhihu.com/question/2066595452238160814",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 20时03分]"
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 22时27分]"
         },
         {
           "title": "DeepSeekV4Flash 便宜",
@@ -980,8 +1025,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时02分 ~ 20时03分]"
+          "appearance_count": 11,
+          "time_info": "[07时02分 ~ 22时27分]"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -1021,6 +1066,19 @@
           "time_info": "05时05分"
         },
         {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 22时27分]"
+        },
+        {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
           "url": "https://www.zhihu.com/question/2066288437683032785",
           "source": "知乎",
@@ -1033,18 +1091,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时38分 ~ 07时02分]"
-        },
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 20时03分]"
         },
         {
           "title": "美股三大股指全线收涨",
@@ -1400,8 +1446,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时02分 ~ 20时03分]"
+          "appearance_count": 11,
+          "time_info": "[07时02分 ~ 22时27分]"
         },
         {
           "title": "美国圣路易斯联储主席穆萨勒姆（Musalem）针对美债抛售事件表示：美债抛售对美联储的信誉发出了警告。 我本人倾向于（支持）加息。（英国金融时报）",
