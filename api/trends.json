@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T13:48:16.352596+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-08-04T19:24:13.242364+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时52分 ~ 13时48分]"
+          "appearance_count": 10,
+          "time_info": "[01时52分 ~ 19时24分]"
         },
         {
           "title": "特朗普威胁对伊朗采取斩首行动",
@@ -134,6 +134,18 @@
           "time_info": "[01时52分 ~ 03时39分]"
         },
         {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 19时24分]"
+        },
+        {
           "title": "美国总统特朗普声称一项“协议即将达成”之后，伊朗外交部发言人周一置评道，德黑兰暂无与华盛顿举行直接谈判的计划。",
           "url": "https://wallstreetcn.com/livenews/3144296",
           "source": "华尔街见闻-快讯",
@@ -144,6 +156,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 03时39分]"
+        },
+        {
+          "title": "美媒：因凡蒂诺向特朗普求助",
+          "url": "https://www.douyin.com/hot/2596620",
+          "source": "抖音",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 19时24分]"
         },
         {
           "title": "特朗普抨击大型石油公司“赚得太多” 国际油价大幅回落 | 环球市场",
@@ -170,26 +194,15 @@
           "time_info": "[10时34分 ~ 13时48分]"
         },
         {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
+          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
+          "url": "https://wallstreetcn.com/articles/3778597",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时47分 ~ 13时48分]"
-        },
-        {
-          "title": "美媒：因凡蒂诺向特朗普求助",
-          "url": "https://www.douyin.com/hot/2596620",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 13时48分]"
+          "time_info": "[19时23分 ~ 19时24分]"
         },
         {
           "title": "伊朗认为特朗普倾向谈判而非局势升级",
@@ -286,7 +299,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -330,7 +343,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -492,7 +505,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "没招了？美媒爆料：美军群发邮件征集对伊朗施压想法",
@@ -506,6 +519,17 @@
           "time_info": "[01时52分 ~ 07时02分]"
         },
         {
+          "title": "伊朗总统否认辞职传闻",
+          "url": "https://news.ifeng.com/c/8vJpAoU2QSK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时24分]"
+        },
+        {
           "title": "伊朗：乌克兰道歉了",
           "url": "https://www.toutiao.com/trending/7668954284482134058/",
           "source": "今日头条",
@@ -515,6 +539,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时47分 ~ 13时48分]"
+        },
+        {
+          "title": "美军被曝群发邮件“众筹”对付伊朗方案，美方辩称是创新",
+          "url": "https://news.ifeng.com/c/8vJk4CzK9iC",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时24分]"
         },
         {
           "title": "据沙特媒体哈达斯（Alhadath）：消息人士称，伊朗外交部长即将访问伊斯兰堡。",
@@ -652,6 +687,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "报道：美国陆军在与伊朗的冲突中“几乎耗尽”了所有远程精确导弹",
+          "url": "https://wallstreetcn.com/livenews/3144684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "据伊朗媒体：伊朗最高领袖军事顾问穆赫辛·雷扎伊表示，伊朗原本准备对乌克兰的三个目标发起攻击，但在乌克兰道歉后取消了攻击。",
           "url": "https://flash.jin10.com/detail/20260804025323450800",
           "source": "金十数据",
@@ -705,6 +751,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "伊朗领袖顾问称美军决策水平大滑坡",
+          "url": "https://wallstreetcn.com/livenews/3144678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "伊朗布什尔省省长：南帕尔斯气田的6000万立方米天然气产能已恢复生产。",
@@ -842,8 +899,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时34分 ~ 19时24分]"
+        },
         {
           "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
           "url": "https://wallstreetcn.com/articles/3778526",
@@ -854,17 +923,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时52分 ~ 05时04分]"
-        },
-        {
-          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 13时48分]"
         },
         {
           "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
@@ -901,6 +959,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时02分 ~ 13时48分]"
+        },
+        {
+          "title": "辉瑞第二季度营收150.3亿美元，预估144.1亿美元。 第二季度调整后每股收益0.77美元。 第二季度ELIQUIS收入 24.3亿美元，预估20.9亿美元。 第二季度PREVNAR特许费收入 13.4亿美元。 辉瑞预计全年营收605亿美元至625亿美元，市场预估617.6亿美元。 辉瑞美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3144692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "周一（8月3日）纽约尾盘，现货黄金涨0.21%，报4054.95美元/盎司，亚太盘初高开至4080.87美元刷新日高，随后震荡下行、21:38刷新日低至4019.30美元。 COMEX黄金期货涨0.15%，报4113美元/盎司。 现货白银涨1.01%，报58.18美元/盎司，美股盘初也曾刷新日低至56.5694美元。 COMEX白银期货涨1.08%，报58.400美元/盎司。 COMEX铜期货涨0.65%，报6.5490美元/磅。 现货铂金跌1%，现货钯金跌1.30%。",
@@ -1022,6 +1091,17 @@
           "time_info": "10时34分"
         },
         {
+          "title": "卡特彼勒公司第二季度营收205.4亿美元，同比增长24%，预估190.1亿美元。 第二季度每股收益7.77美元，上年同期4.62美元。 第二季度调整后每股收益8.17美元，预估6.17美元。 卡特彼勒美股盘前涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3144682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "美股科技巨头迎来强劲买盘",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E8%BF%8E%E6%9D%A5%E5%BC%BA%E5%8A%B2%E4%B9%B0%E7%9B%98%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -1031,6 +1111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美股盘前光通信股拉升，Coherent涨超15%，Lumentum涨近12%，康宁涨超9%，Credo涨近10%，迈威尔科技涨近8%。",
+          "url": "https://wallstreetcn.com/livenews/3144681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "美股收盘：道指创收盘新高 纳指涨超2%",
@@ -1053,12 +1144,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "Spotify第二季度营收47.8亿欧元，预期47.9亿欧元。 第二季度每股收益2.61欧元，去年同期每股亏损0.42欧元。 第二季度营业利润6.55亿欧元，同比增长61%。 第二季度月活跃用户数7.77亿，预期7.7818亿。 Spotify预计第三季度营收50亿欧元，市场预期49.3亿欧元。 Spotify预计第三季度营业利润6.70亿欧元，市场预期6.811亿欧元。 Spotify预计第三季度月活跃用户数7.88亿，市场预期7.9352亿。 Spotify美股盘前跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3144672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
@@ -1122,6 +1224,18 @@
           "time_info": "[13时47分 ~ 13时48分]"
         },
         {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 19时24分]"
+        },
+        {
           "title": "DeepSeek斩杀线斩的是什么",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF%E6%96%A9%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "百度热搜",
@@ -1164,15 +1278,26 @@
           "time_info": "[01时52分 ~ 07时02分]"
         },
         {
-          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
-          "url": "https://www.zhihu.com/question/2067873642554156045",
-          "source": "知乎",
+          "title": "DeepSeek低价风暴打服硅谷",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BD%8E%E4%BB%B7%E9%A3%8E%E6%9A%B4%E6%89%93%E6%9C%8D%E7%A1%85%E8%B0%B7",
+          "source": "百度热搜",
           "ranks": [
-            8
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时47分 ~ 13时48分]"
+          "time_info": "[19时23分 ~ 19时24分]"
+        },
+        {
+          "title": "DeepSeek斩杀了谁",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时24分]"
         },
         {
           "title": "OpenAI等巨头大幅降价对标DeepSeek",
@@ -1211,7 +1336,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -1220,11 +1345,12 @@
           "ranks": [
             9,
             11,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时52分 ~ 13时48分]"
+          "appearance_count": 10,
+          "time_info": "[01时52分 ~ 19时24分]"
         },
         {
           "title": "OpenAI：我们下一代主要模型的一个内部版本，在数学和理论计算机科学领域长期未解决的开放问题上取得了10项新成果，所使用的计算成本约为按照GPT-5.6 Sol API费率计算的2000美元token费用。 我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。 这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
@@ -1292,6 +1418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "OpenAI与私募股权公司Clearlake Capital合作，加速人工智能在Clearlake投资组合中的采用。",
+          "url": "https://flash.jin10.com/detail/20260804190206170800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "英国数据监管机构信息专员办公室（ICO）就OpenAI与Anthropic事件发表声明：我们已知悉近期影响该行业的黑客攻击事件，正密切监控事态发展。",
@@ -1384,11 +1521,12 @@
           "url": "https://wallstreetcn.com/articles/3778620",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 19时24分]"
         },
         {
           "title": "花旗：日本捍卫日元不必抛售逾1.1万亿美元的美债持仓",
@@ -1397,7 +1535,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         }
