@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T12:11:06.565897+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-08-05T15:41:31.643387+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,17 @@
           "time_info": "[00时52分 ~ 08时04分]"
         },
         {
+          "title": "私下谈判态度软化？伊朗考虑让欧洲清除霍尔木兹水雷",
+          "url": "https://news.ifeng.com/c/8vKnanF6ECv",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 15时41分]"
+        },
+        {
           "title": "伊朗：乌克兰道歉了",
           "url": "https://www.douyin.com/hot/2596757",
           "source": "抖音",
@@ -43,17 +54,6 @@
           "time_info": "[00时52分 ~ 08时04分]"
         },
         {
-          "title": "私下谈判态度软化？伊朗考虑让欧洲清除霍尔木兹水雷",
-          "url": "https://news.ifeng.com/c/8vKnanF6ECv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 12时11分]"
-        },
-        {
           "title": "美财长透露与伊朗达成协议时间",
           "url": "https://news.ifeng.com/c/8vKxCYCwO7C",
           "source": "凤凰网",
@@ -61,8 +61,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 12时11分]"
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 15时41分]"
         },
         {
           "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
@@ -328,8 +328,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 12时11分]"
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 15时41分]"
         },
         {
           "title": "美国总统特朗普：事情似乎进展顺利，如果霍尔木兹海峡开放，汽油价格将会下降。",
@@ -338,7 +338,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -360,7 +360,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -382,7 +382,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -404,7 +404,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -415,7 +415,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -437,7 +437,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -470,7 +470,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -525,7 +525,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -547,7 +547,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -558,7 +558,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         }
@@ -600,8 +600,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 12时11分]"
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 15时41分]"
         },
         {
           "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
@@ -617,6 +617,17 @@
           "time_info": "[00时52分 ~ 08时04分]"
         },
         {
+          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
+          "url": "https://www.cls.cn/detail/2445853",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 15时41分]"
+        },
+        {
           "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
           "url": "https://www.cls.cn/detail/2445760",
           "source": "财联社热门",
@@ -627,17 +638,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时13分 ~ 12时11分]"
-        },
-        {
-          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
-          "url": "https://www.cls.cn/detail/2445853",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 12时11分]"
         },
         {
           "title": "金十图示：2026年08月04日（周二）热门中概股行情一览（美股收盘）",
@@ -842,8 +842,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 12时11分]"
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 15时41分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
@@ -1007,11 +1007,12 @@
           "url": "https://www.zhihu.com/question/2067002987545884316",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 12时11分]"
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 15时41分]"
         }
       ]
     },
