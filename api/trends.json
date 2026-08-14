@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T18:03:27.300443+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-08-14T19:44:45.708623+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -46,6 +46,18 @@
           "time_info": "[12时15分 ~ 18时03分]"
         },
         {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时44分]"
+        },
+        {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
           "url": "https://news.ifeng.com/c/8vYj1925EKl",
           "source": "凤凰网",
@@ -55,17 +67,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时43分 ~ 07时42分]"
-        },
-        {
-          "title": "事关特朗普与马斯克，美媒最新爆料",
-          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
         },
         {
           "title": "特朗普允许美海军海外建造舰船",
@@ -137,6 +138,17 @@
           "time_info": "[05时45分 ~ 06时42分]"
         },
         {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 19时44分]"
+        },
+        {
           "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
           "url": "https://wallstreetcn.com/livenews/3149316",
           "source": "华尔街见闻-快讯",
@@ -147,17 +159,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时46分 ~ 06时42分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 18时03分]"
         },
         {
           "title": "美媒：肯尼迪中心决定将特朗普名字印在大楼外墙上",
@@ -325,6 +326,17 @@
           "time_info": "06时42分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-14）",
+          "url": "https://flash.jin10.com/detail/20260814181940361800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "发警报迫使特朗普换机 中情局质疑以色列用意",
           "url": "https://wallstreetcn.com/livenews/3149385",
           "source": "华尔街见闻-快讯",
@@ -391,11 +403,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时43分 ~ 18时03分]"
+          "appearance_count": 12,
+          "time_info": "[04时43分 ~ 19时44分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -407,8 +420,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时43分 ~ 18时03分]"
+          "appearance_count": 12,
+          "time_info": "[04时43分 ~ 19时44分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -477,6 +490,19 @@
           "time_info": "[04时43分 ~ 09时59分]"
         },
         {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 19时44分]"
+        },
+        {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
           "url": "https://wallstreetcn.com/articles/3779332",
           "source": "华尔街见闻",
@@ -487,6 +513,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时43分 ~ 07时42分]"
+        },
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 19时44分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -537,32 +576,6 @@
           "time_info": "12时16分"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 18时03分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 18时03分]"
-        },
-        {
           "title": "为什么DeepSeek越涨价越是价格屠夫",
           "url": "https://www.toutiao.com/trending/7673637537293798953/",
           "source": "今日头条",
@@ -600,6 +613,17 @@
           "time_info": "[04时43分 ~ 05时46分]"
         },
         {
+          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
+          "url": "https://www.zhihu.com/question/2071375581464343126",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 19时44分]"
+        },
+        {
           "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
           "url": "https://www.zhihu.com/question/2071225352072999482",
           "source": "知乎",
@@ -618,17 +642,6 @@
           "ranks": [
             7,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 18时03分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
-          "url": "https://www.zhihu.com/question/2071375581464343126",
-          "source": "知乎",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -894,7 +907,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
@@ -1033,6 +1046,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "美股存储芯片股盘前走高，闪迪涨超6%，美光科技涨3%，西部数据涨近3%，希捷科技涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3149692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     },
@@ -1070,9 +1094,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时44分]"
         },
         {
           "title": "据Axios：OpenAI在IPO前进行高管更换。",
@@ -1081,7 +1105,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -1158,8 +1182,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 18时03分]"
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 19时44分]"
         },
         {
           "title": "美国PPI数据公布日，美债收益率普遍下挫",
@@ -1179,7 +1203,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         }
