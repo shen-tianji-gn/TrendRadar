@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-08-17T12:49:17.420858+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-08-17T16:44:20.995117+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
           "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时17分 ~ 12时49分]"
+          "appearance_count": 5,
+          "time_info": "[09时17分 ~ 16时44分]"
+        },
+        {
+          "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
+          "url": "https://news.ifeng.com/c/8vegxyVDbqF",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时17分 ~ 16时44分]"
         },
         {
           "title": "沙土巴三国签署共同防务协议，特朗普发声",
@@ -41,17 +53,6 @@
           "time_info": "[02时30分 ~ 07时21分]"
         },
         {
-          "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
-          "url": "https://news.ifeng.com/c/8vegxyVDbqF",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时17分 ~ 12时49分]"
-        },
-        {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
           "url": "https://wallstreetcn.com/articles/3779521",
           "source": "华尔街见闻",
@@ -72,20 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 12时49分]"
-        },
-        {
-          "title": "特朗普已指示“大幅缩减”美韩军演",
-          "url": "https://www.toutiao.com/trending/7674325678535491611/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[11时58分 ~ 16时44分]"
         },
         {
           "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
@@ -95,6 +84,18 @@
             16,
             14,
             15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时58分 ~ 16时44分]"
+        },
+        {
+          "title": "特朗普已指示“大幅缩减”美韩军演",
+          "url": "https://www.toutiao.com/trending/7674325678535491611/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -275,13 +276,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "特朗普缩减美韩联合军演规模会威胁中朝关系吗？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3150337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
+          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时17分 ~ 16时44分]"
+        },
         {
           "title": "伊朗高层换血，革命卫队更强势了？",
           "url": "https://news.ifeng.com/c/8vdiSOXc8hN",
@@ -292,6 +315,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时30分 ~ 07时21分]"
+        },
+        {
+          "title": "伊朗称逮捕或消灭美军者将获奖励",
+          "url": "https://www.toutiao.com/trending/7674484727768301577/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            15,
+            14,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时30分 ~ 16时44分]"
         },
         {
           "title": "伊朗三大权力机构负责人举行会晤",
@@ -305,29 +343,15 @@
           "time_info": "[02时30分 ~ 07时21分]"
         },
         {
-          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
-          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
-          "source": "凤凰网",
+          "title": "伊朗称正在起草与阿曼的海上航线计划",
+          "url": "https://wallstreetcn.com/livenews/3150377",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时17分 ~ 12时49分]"
-        },
-        {
-          "title": "伊朗称逮捕或消灭美军者将获奖励",
-          "url": "https://www.toutiao.com/trending/7674484727768301577/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            15,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时30分 ~ 12时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "伊朗称霍尔木兹海峡是结束冲突的筹码。（法尔斯通讯社）",
@@ -420,6 +444,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2072617673721226019",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "伊朗称逮捕或消灭美军者将获奖励",
           "url": "https://wallstreetcn.com/livenews/3150063",
           "source": "华尔街见闻-快讯",
@@ -429,6 +464,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "伊朗：美伊分歧并非缺少调解人所致",
+          "url": "https://flash.jin10.com/detail/20260817162029882800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：承认错误可以成为做出正确决定的前提，但我怀疑美国决策者是否具备这样的勇气。",
+          "url": "https://flash.jin10.com/detail/20260817162001559800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "据半岛电视台：伊朗总统表示，在国内制造分歧的人必须意识到，这只会对美国和以色列有利。",
@@ -442,6 +499,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "伊朗：仍在与阿曼就霍尔木兹海峡问题进行密集磋商",
+          "url": "https://wallstreetcn.com/livenews/3150348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "据伊通社（IRNA）：伊朗陆军总司表示，我们确信，林肯号航空母舰至少被伊朗发射的弹药击中一次，以至于在一段时间内，舰上所有战斗机均无法起飞。",
           "url": "https://flash.jin10.com/detail/20260817000142424800",
           "source": "金十数据",
@@ -453,6 +521,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "伊朗：美国所谓“前所未有”的制裁对伊朗立场毫无影响",
+          "url": "https://flash.jin10.com/detail/20260817161828526800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "伊朗总统：伊美谅解备忘录“维护尊严、展现实力”",
           "url": "https://wallstreetcn.com/livenews/3150110",
           "source": "华尔街见闻-快讯",
@@ -462,23 +541,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "伊朗辟谣美媒报道：并未与美国有任何接触",
+          "url": "https://flash.jin10.com/detail/20260817161455037800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "伊朗称美国违反谅解备忘录 导致60天谈判期失去意义",
+          "url": "https://wallstreetcn.com/livenews/3150341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "DeepSeek正式涨价",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[11时58分 ~ 16时44分]"
         },
         {
           "title": "如何评价 deepseek8 月 17 日涨价后，opencode go 套餐的 flash 模型调用量削减 94%？",
@@ -529,6 +631,17 @@
           "time_info": "[12时48分 ~ 12时49分]"
         },
         {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "DeepSeek Harness邪修攻略",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E9%82%AA%E4%BF%AE%E6%94%BB%E7%95%A5",
           "source": "bilibili 热搜",
@@ -549,6 +662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "DeepSeek Harness 有什么好用的插件？",
+          "url": "https://www.zhihu.com/question/2071617281214378127",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     },
@@ -611,11 +735,12 @@
           "url": "https://wallstreetcn.com/articles/3779533",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 16时44分]"
         },
         {
           "title": "OpenAI 人事地震",
@@ -632,7 +757,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -671,6 +796,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时17分 ~ 12时49分]"
+        },
+        {
+          "title": "Gemini挑瓜 无中生瓜",
+          "url": "https://s.weibo.com/weibo?q=Gemini%E6%8C%91%E7%93%9C%20%E6%97%A0%E4%B8%AD%E7%94%9F%E7%93%9C&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     },
@@ -711,11 +847,46 @@
           "url": "https://wallstreetcn.com/articles/3779560",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 16时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股盘前，存储芯片股普涨，闪迪涨约6%，SK海力士涨约4%，希捷科技涨约3%，西部数据涨约4%，美光科技涨约3%。",
+          "url": "https://wallstreetcn.com/livenews/3150351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数跌0.3%，报99.32。",
+          "url": "https://wallstreetcn.com/livenews/3150340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     }
